@@ -2,26 +2,23 @@ name: Flashfood Scraper
 
 on:
   schedule:
-    # 美东 09:30 (UTC 14:30)
+    # 美东 09:30 (UTC 14:30) → 跑 Toronto, Detroit
     - cron: '30 14 * * *'
-    # 美西 09:30 (UTC 17:30)  
+    # 美西 09:30 (UTC 17:30) → 跑 Vancouver, Seattle  
     - cron: '30 17 * * *'
-    # 美东 16:30 (UTC 21:30)
+    # 美东 16:30 (UTC 21:30) → 跑 Toronto, Detroit
     - cron: '30 21 * * *'
-    # 美西 16:30 (UTC 00:30 次日)
+    # 美西 16:30 (UTC 00:30 次日) → 跑 Vancouver, Seattle
     - cron: '30 0 * * *'
-    # 美东 20:30 (UTC 01:30 次日)
+    # 美东 20:30 (UTC 01:30 次日) → 跑 Toronto, Detroit
     - cron: '30 1 * * *'
-    # 美西 20:30 (UTC 04:30 次日)
+    # 美西 20:30 (UTC 04:30 次日) → 跑 Vancouver, Seattle
     - cron: '30 4 * * *'
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    outputs:
-      zone: ${{ steps.determine.outputs.zone }}
-      status: ${{ job.status }}
     steps:
       - uses: actions/checkout@v4
       
@@ -34,6 +31,7 @@ jobs:
         run: |
           pip install curl_cffi pandas pytz
           
+      # 根据当前UTC时间判断跑哪个时区
       - name: Determine timezone to scrape
         id: determine
         run: |
@@ -42,6 +40,8 @@ jobs:
           UTC_TIME="${HOUR}:${MINUTE}"
           echo "Current UTC time: $UTC_TIME"
           
+          # 美东时段: 14:30, 21:30, 01:30
+          # 美西时段: 17:30, 00:30, 04:30
           if [[ "$UTC_TIME" == "14:30" ]] || [[ "$UTC_TIME" == "21:30" ]] || [[ "$UTC_TIME" == "01:30" ]]; then
             echo "zone=east" >> $GITHUB_OUTPUT
             echo "Running EAST (Toronto, Detroit)"
@@ -50,41 +50,18 @@ jobs:
             echo "Running WEST (Vancouver, Seattle)"
           else
             echo "zone=unknown" >> $GITHUB_OUTPUT
+            echo "Unknown schedule time"
           fi
           
       - name: Run East Scraper
         if: steps.determine.outputs.zone == 'east'
-        id: scrape_east
-        run: |
-          python flashfood_east.py
-          echo "scraped_east=true" >> $GITHUB_OUTPUT
-        continue-on-error: true
+        run: python flashfood_east.py
         
       - name: Run West Scraper  
         if: steps.determine.outputs.zone == 'west'
-        id: scrape_west
-        run: |
-          python flashfood_west.py
-          echo "scraped_west=true" >> $GITHUB_OUTPUT
-        continue-on-error: true
+        run: python flashfood_west.py
         
-      - name: Check scrape result
-        id: check_result
-        run: |
-          if [[ "${{ steps.scrape_east.outcome }}" == "failure" ]] || [[ "${{ steps.scrape_west.outcome }}" == "failure" ]]; then
-            echo "scrape_failed=true" >> $GITHUB_OUTPUT
-            echo "error_msg=Scraper failed to fetch data" >> $GITHUB_OUTPUT
-            exit 1
-          elif [[ "${{ steps.scrape_east.outcome }}" == "success" ]] || [[ "${{ steps.scrape_west.outcome }}" == "success" ]]; then
-            echo "scrape_failed=false" >> $GITHUB_OUTPUT
-          else
-            echo "scrape_failed=true" >> $GITHUB_OUTPUT
-            echo "error_msg=No scraper was executed" >> $GITHUB_OUTPUT
-            exit 1
-          fi
-          
       - name: Upload Data
-        if: steps.check_result.outcome == 'success'
         uses: actions/upload-artifact@v4
         with:
           name: data-${{ github.run_id }}
@@ -93,7 +70,6 @@ jobs:
 
   summarize:
     needs: scrape
-    if: needs.scrape.result == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -113,22 +89,9 @@ jobs:
         run: pip install pandas
           
       - name: Run Summarize
-        id: summarize_step
         run: python summarize.py
-        continue-on-error: true
         
-      - name: Check summarize result
-        id: check_summarize
-        run: |
-          if [[ "${{ steps.summarize_step.outcome }}" == "failure" ]]; then
-            echo "summarize_failed=true" >> $GITHUB_OUTPUT
-            exit 1
-          else
-            echo "summarize_failed=false" >> $GITHUB_OUTPUT
-          fi
-          
       - name: Commit and Push Results
-        if: steps.check_summarize.outcome == 'success'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -136,51 +99,3 @@ jobs:
           git add data/
           git commit -m "Update data: $(date -u +%Y-%m-%d-%H:%M)" || echo "No changes to commit"
           git push
-
-  notify-success:
-    needs: [scrape, summarize]
-    if: always() && needs.scrape.result == 'success' && needs.summarize.result == 'success'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Send Success Email
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 587
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
-          subject: "✅ Flashfood 爬虫成功 - ${{ github.run_id }}"
-          to: ${{ secrets.NOTIFY_EMAIL }}
-          from: GitHub Actions
-          html_body: |
-            <h2>✅ Flashfood 数据抓取成功</h2>
-            <p><strong>运行时间:</strong> ${{ github.event.schedule }}</p>
-            <p><strong>抓取区域:</strong> ${{ needs.scrape.outputs.zone }}</p>
-            <p><strong>运行ID:</strong> ${{ github.run_id }}</p>
-            <p><strong>查看详情:</strong> <a href="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}">点击这里</a></p>
-
-  notify-failure:
-    needs: [scrape, summarize]
-    if: always() && (needs.scrape.result == 'failure' || needs.summarize.result == 'failure')
-    runs-on: ubuntu-latest
-    steps:
-      - name: Send Failure Email
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 587
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
-          subject: "❌ Flashfood 爬虫失败 - ${{ github.run_id }}"
-          to: ${{ secrets.NOTIFY_EMAIL }}
-          from: GitHub Actions
-          html_body: |
-            <h2>❌ Flashfood 数据抓取失败</h2>
-            <p><strong>运行时间:</strong> ${{ github.event.schedule }}</p>
-            <p><strong>失败环节:</strong> 
-              ${{ needs.scrape.result == 'failure' && '数据抓取 (Scrape)' || '' }}
-              ${{ needs.summarize.result == 'failure' && '数据汇总 (Summarize)' || '' }}
-            </p>
-            <p><strong>运行ID:</strong> ${{ github.run_id }}</p>
-            <p><strong>查看日志:</strong> <a href="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}">点击这里查看错误详情</a></p>
-            <p>请尽快检查问题！</p>
