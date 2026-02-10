@@ -10,6 +10,9 @@ on:
     - cron: '30 4 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -35,13 +38,10 @@ jobs:
           
           if [[ "$UTC_TIME" == "14:30" ]] || [[ "$UTC_TIME" == "21:30" ]] || [[ "$UTC_TIME" == "01:30" ]]; then
             echo "zone=east" >> $GITHUB_OUTPUT
-            echo "Running EAST (Toronto, Detroit)"
           elif [[ "$UTC_TIME" == "17:30" ]] || [[ "$UTC_TIME" == "00:30" ]] || [[ "$UTC_TIME" == "04:30" ]]; then
             echo "zone=west" >> $GITHUB_OUTPUT
-            echo "Running WEST (Vancouver, Seattle)"
           else
             echo "zone=all" >> $GITHUB_OUTPUT
-            echo "Running ALL cities (manual trigger)"
           fi
           
       - name: Run East Scraper
@@ -86,7 +86,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add summary/
-          git add data/
-          git commit -m "Update data: $(date -u +%Y-%m-%d-%H:%M)" || echo "No changes to commit"
-          git push
+          git add -A
+          git status
+          git diff --staged --quiet || (git commit -m "Update data: $(date -u +%Y-%m-%d-%H:%M)" && git push)
