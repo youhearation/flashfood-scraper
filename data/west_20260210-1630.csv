@@ -1,0 +1,524 @@
+﻿city,beijing_time,local_time,store_id,store_name,item_id,item_name,price,original_price,stock,category
+Toronto,2026-02-11 02:36,2026-02-10 16:30,616596d5f896c30ee4da1d57,Unknown,698b7aa4ff05ab02e9472dd5,Fruit Box #7,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,616596d5f896c30ee4da1d57,Unknown,698b79fce9be5bffd2e63e70,Fruit Box #6,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,616596d5f896c30ee4da1d57,Unknown,698b79a43b056c06dedc7c87,Fruit Box #5,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,616596d5f896c30ee4da1d57,Unknown,698b789cff05ab02e94670d3,Veggie Box #4,4,4,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,616596d5f896c30ee4da1d57,Unknown,698b6813988f28c4ca9776fa,Veggie Box #3,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,616596d5f896c30ee4da1d57,Unknown,698b67a2e5de2b13bbb58a25,Veggie Box #2,4,4,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,616596d5f896c30ee4da1d57,Unknown,698b66f2988f28c4ca96ef66,Veggie Box #1,4,4,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69864249ccafe934a2488a46,PureBites Mid Size Treats - Beef & Cheese | Size: 250,14.49,28.99,4,Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,697a25349bde53f546db8d4e,birthday helium hounds cookie,2,3.99,2, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69790e2fe4fe434135030c9f,Vetdiet Feline Adult - Dental Care - Chicken & Rice | Cat Food | Size: 1.59,16.5,32.99,3,Cat Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69790deac889febbe732f2d8,Vetdiet Feline Adult - Chicken & Rice | Cat Food | Size: 1.59,13.49,26.99,1, Cat Supplies 
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69790dd99bde53f546aefbf5,Vetdiet Feline Adult - Indoor - Chicken & Rice | Cat Food | Size: 3.18,23.5,46.99,1, Cat Supplies 
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69790da29bde53f546aee78a,Vetdiet Feline Adult - Indoor - Chicken & Rice | Cat Food | Size: 1.59,14.99,29.99,4, Cat Supplies 
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,6967dcc50bcbb0cc03e65a2e,sorta sweet sorta spooky skull cookies,2,3.99,4, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,6967dc6a7bf924857d9d5fa9,no fly zone spiders cookies,1.39,2.79,11, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,6967dbc07bf924857d9d1e48,best looking paw in the patch cookie,2.24,4.49,11, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69667ba8b44c84a21430395a,friendly fir,2,3.99,18, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69667b4b713f3fcc8d7459db,anniversary 50th eh,2.24,4.49,20, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69667af3b2db10be993040e5,anniversary 50th heart,2.24,4.49,9, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69667aa2b44c84a2142fd509,anniversary large heart,3.99,7.99,8, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,6966798a713f3fcc8d73be7f,sweater weather sips cookies,1.39,2.79,18, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69667934b2db10be992f842a,Bosco Roxy squash cookie,1.39,2.79,19, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69667257713f3fcc8d70cbde,elfie treat cookies,1.39,2.79,57, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69666c4f713f3fcc8d6e2923,Bosco and Roxy nuzzle nose rude cookies,2.24,4.49,14, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69666bba29864c81d5f23ed5,chicken flavour dog treats,2,3.99,16, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69666b67b44c84a2142a1f67,chicken flavour dog treats,2,3.99,6, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69666a9a29864c81d5f1d0f0,Vetdiet Kitten - Chicken & Rice | Cat Food | Size: 1.59,13.49,26.99,1,Cat Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69666a4329864c81d5f1b3d9,Vetdiet Feline Adult - Indoor - Chicken & Rice | Cat Food | Size: 1.59,14.99,29.99,1, Cat Supplies 
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69666a1bb44c84a214298fa1,Vetdiet Feline Adult - Chicken & Rice | Cat Food | Size: 1.59,13.49,26.99,1, Cat Supplies 
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,696669d2b2db10be9929b4d2,Vetdiet Feline Adult - Dental Care - Chicken & Rice | Cat Food | Size: 1.59,16.5,32.99,4,Cat Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,69666835c1b9ca872832c917,"naughty,nice I tried prepackaged treat",7.49,14.99,4, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,696667cb29864c81d5f0e92a,Bosco & Roxy's Canine Candy Cane Advent Calendar,11.5,23,2,Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,6966679a713f3fcc8d6c4ffb,Bosco and roxys nice vs naughty bites,6.49,12.99,5, Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,6966671529864c81d5f0b9fe,Vetdiet Adult - Mobility Formula | Dog Food | Size: 2.72,20,39.99,1,Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,68d3f2ecd6c780d8166becda,Bosco & Roxy's Sprinkled Vanilla Medium Cupcake - 4 Pack - Dog Biscuit,6.99,13.99,1,Cat Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,67db0bdaaf97311f6d4612e0,Bosco & Roxy's St. Paddy's Day - Mini Green Beer - Small - Dog Biscuit | Dog Toy,1.1,2.19,7,Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,63cef866290ecaebc6d392ff,Unknown,67db0bb3bb6dde60278da932,Bosco & Roxy's St. Paddy's Leprechaun Sized Paws | Dog Toy,1.1,2.19,4,Dog Supplies
+Toronto,2026-02-11 02:36,2026-02-10 16:30,629cec56061cc26b59532732,Unknown,698a1101b6083324ab25ef24,Chuck Tender Steak,7.48,14.96,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,629cec56061cc26b59532732,Unknown,698a1057fa93dd8fadfa7768,Pork loin Cornmeal Thirds,3.77,7.54,5,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,629cec56061cc26b59532732,Unknown,698a0b5ffa93dd8fadf87765,Lemon Poppyseed Muffins,2,5,3,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,629cec56061cc26b59532732,Unknown,6989f9cc89dc00ce48a78f1f,Pad Thai Cooking Kit 3 Step,2.89,5.79,5,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,629cec56061cc26b59532732,Unknown,697a2800897d696bef67516a,Allergy Relief Ex S 10Mg 30,8.49,16.99,3,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b410089dc00ce48ea3a85,"Ready Veggie, Kale Blend",2.99,5.99,2,Fresh Cut Fruits & Vegetables
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b2d8a954c1a6398bf2c51,Beef Pepperettes 16 Pieces,5.5,11,1,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b125700c75e93fc9bb2da,Sourdough Baguette,0.5,3.75,1,Bakery Instore
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b124fb6083324ab59f481,Ciabatta Lunga,0.5,3.5,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b124589dc00ce48dcef3e,Ciabatta Cluster,0.5,3.5,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b123889dc00ce48dceee4,"Ciabatta Demi, Multi-grain",0.5,3.25,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b123100c75e93fc9bae74,"Demi-Baguette, White",0.5,3.25,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b122f89dc00ce48dcedea,Sesame Baguette,0.5,3.5,2,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b121efa93dd8fad27cfae,"Demi-Baguette, White",0.5,3.25,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b121600c75e93fc9bac5a,"Ciabatta Demi, Multi-grain",0.5,3.25,2,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b120e89dc00ce48dceb56,Whole Wheat Baguette,0.5,1,3,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b1201e5de2b13bb9ad552,White Baguette,0.5,1,3,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4efc3b02ab30509a36b8,Unknown,698b11f389dc00ce48dce87f,Kaiser Rolls Whole Wheat 6 Pack,0.5,4.25,1,Sandwich Rolls
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,6989f93f00c75e93fc67699d,Fruit Box #823,1.5,1.5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,6989f75ab6083324ab1a57c9,Fruit Box #800,1.5,1.5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,6989d5f4fa93dd8fade4fff0,Mere Michel Bacon 375g,4.99,9.99,1,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,6985f88d2e4c73b14720e30f,Fruit Box #305,1.5,1.5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,6985f87508f58a8cb086e307,Fruit Box #303,1.5,1.5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,6985f68a266c937661a9e873,Fruit Box #111,1,1,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,697cef4bb1f2beb17089fc0e,Fruit Box #110,1,1,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,697cef0cb1f2beb17089de1a,Fruit Box #103,1,1,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e05d7528a3c966b13b2,Unknown,697ceebdda0da97466cc0751,Fruit Box #108,1,1,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,698b443ee5de2b13bba89611,Fruit Box #1,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,698a1b7100c75e93fc73eaa3,Fruit Box #2,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,698a11f3fa93dd8fadfb02c8,Laughing Cow Cheese Dippers,2.15,4.29,3,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,698a0fe6b6083324ab256dd6,Oil and Vinegar Coleslaw,1,3,4,Salads & Soups
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,698a0a2bfa93dd8fadf80ba9,Pepperoni Pizza Hand Stretched,1,7.5,1,HMR
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,6987933de5de2b13bbffd317,Fresh Mozzarella Ball,5.5,7.49,3,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,698792e5dbce420b403cc878,Cooked Seasoned Roast Beef,5,7.5,2,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,698792cddbce420b403cc08e,Black Forest Ham Slices Club Pack,7,11.5,1,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,69879279e5de2b13bbff908d,Soft Surface Ripened Cheese Double Crème 28% M.F.,4,6.49,3,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e7544d6a672e1136bfbf,Unknown,6987923ae5de2b13bbff7eba,Free From Smoked Black Forest Ham,1,8,5,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,6410dc9ed904cd2328a73d59,Unknown,698a37f6fa93dd8fad091ad6,Pizza Bites Pizza Snacks Pepperoni,4.49,8.99,5,Frozen
+Toronto,2026-02-11 02:36,2026-02-10 16:30,6410dc9ed904cd2328a73d59,Unknown,6980ffaa08f58a8cb097144a,Chocolate Brownie,3,6.99,1,Frozen
+Toronto,2026-02-11 02:36,2026-02-10 16:30,6410dc9ed904cd2328a73d59,Unknown,69613c50fb3f385494944a63,Freeze Dried Candy BB 2027,0.25,2,1,Centre Of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698b5f02988f28c4ca93b4e2,Mixed Produce Box #765,3,3,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698b5ef0e5de2b13bbb24f2e,Mixed Produce Box #763,3,3,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698b50e9b6083324ab7126fc,Caramel Chocolaty Pretzel Rods With Dark Drizzle,1.5,7,2,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698a6aa789dc00ce48cde104,Coffee Cakes Cinnamon Crunch,1,5,4,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698a29c689dc00ce48b96323,Boneless Rib End Pork Fast Fry Chops,4.27,8.54,1,Meat & Seafood
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698a295eb6083324ab30a77f,Boneless Rib End Pork Fast Fry Chops,4.7,9.41,1,Meat & Seafood
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698a294db6083324ab30a0b6,Boneless Rib End Pork Fast Fry Chops,4.03,8.06,1,Meat & Seafood
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698a27fffa93dd8fad035f79,"Fresh Atlantic Salmon Portion, Herb and Garlic Flavour, 113G, Packaged",6,8,6,Seafood
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,6988eb2bb6083324abed0c43,Mixed Produce Box #106,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698781d389dc00ce4835b665,"Cheese, Double Cream Brie",7,14.99,4,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14dadd,Unknown,698628e91860f42bfb47a4f8,"2% Minigo Duo Variety Pack, Blueberry-Strawberry/ Strawberry-Banana/ Banana-Blueberry Flavour ,6ct",2.89,5.79,1,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e09d7528a3c966b13cd,Unknown,698b63b8e5de2b13bbb40538,"Submarine Roll, 8""",0.5,2.88,17,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e09d7528a3c966b13cd,Unknown,698b3f46e5de2b13bba6b68e,Green Onion,0.5,1.99,4,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e09d7528a3c966b13cd,Unknown,6989f15b00c75e93fc64730f,Shanghai Bok Choy Jr. (SOLD BY EACH),2.5,6,13,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e09d7528a3c966b13cd,Unknown,6989eddee5de2b13bb63f4f4,Naturaly Imperfect White Mushrooms,1,5,5,Mushrooms
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e09d7528a3c966b13cd,Unknown,6989edd4e5de2b13bb63f136,Whole White Mushrooms,0.5,2.49,39,Fruits & Vegetables
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e09d7528a3c966b13cd,Unknown,69877389b6083324ab93308c,Raspberry Pint,2.99,7.99,8,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fac3e09d7528a3c966b13cd,Unknown,69792a7d5e28e9c60cc1c722,swift smoked bacon,4,4.29,7,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,634d76784d2e0bb4e2e6bf20,Unknown,698b2c4cb6083324ab6000ed,Bangers Pork Sausages,4,8,3,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,634d76784d2e0bb4e2e6bf20,Unknown,698a4c44b6083324ab3f3120,Gluten Free Tortillas Original,3.25,6.5,7,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7aa1e9be5bffd2e67b6d,Fresh Lamb- Loin Chops,8.81,17.62,1,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7a7fff05ab02e94720af,Free From Striploin Steak,6.21,12.43,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7a749476de55746d5914,Australia Beef Flank Steak,6,12,5,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7a51ff05ab02e947154b,"Top Blade, Boneless Beef Roast",13.16,26.32,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7a28e9be5bffd2e651b1,"Top Blade, Boneless Beef Roast",12.84,25.69,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7a0f9476de55746d3eda,"Top Blade, Boneless Beef Roast",12.04,24.09,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b79f9e9be5bffd2e63cad,Tip Roast Sirloin,12.47,24.95,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b79e09476de55746d2db1,"Top Blade, Boneless Beef Roast",13.87,27.75,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b79ca9476de55746d257f,"Top Blade, Boneless Beef Roast",12.94,25.89,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b79b6c4a187cb6c0a16fd,Free From Flank Steak,7.76,15.53,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b799dff05ab02e946d6d1,Free From Flank Steak,8.22,16.45,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7985ff05ab02e946cedf,Free From Boneless Rib Steak,10.54,21.09,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7965c4a187cb6c09ebbc,Free From Striploin Steak,5.5,11,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b79503b056c06dedc5c92,Free From Boneless Rib Steak,9.85,19.7,1,Beef
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffccccd,Unknown,698b7934ff05ab02e946b086,"Pork Souvlaki, Value Pack",7,14,4,Kebabs & Souvlaki
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b7272c4a187cb6c06e738,bubly drops Lime,2.94,7,4,Home & Entertainment
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b6772fb240c943797a196,Mixed Produce Box #905,6.5,6.5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b66b8b6083324ab7acbe9,Mixed Produce Box #911,7.5,7.5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b6694b6083324ab7abdd9,Mixed Produce Box #900,6,6,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b667e89dc00ce48f857ff,Mixed Produce Box #901,6,6,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b61a2988f28c4ca94b4c2,Vanilla Mini Cupcakes,0.94,5,13,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b6172988f28c4ca94a2eb,Glazed Donuts,0.94,7,3,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b6138e5de2b13bbb317bf,Stone Milled Bread,0.94,4,4,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698b6103fb240c943794fd1a,White Bread White Texas,0.94,3,5,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a7056fa93dd8fad1accf4,Crunch Cool Mint Chocolate Energy Bar,1.64,3.29,8,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a7001fa93dd8fad1ab860,Chewy Nutty Nut Bar White Chocolatey Strawberry,1.64,3.29,9,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6fbfb6083324ab4b0fef,Protein Bar Low Sugar Almond Salted Caramel Flavour,1.74,3.49,12,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6f7289dc00ce48cf02c5,"Energy Bars, Chocolate Chip, Granola Bar",11.49,22.99,4,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6f0ab6083324ab4ae078,RXBAR Peanut Butter Chocolate Bars,6.99,13.99,3,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6ebffa93dd8fad1a6d90,Nut Bars Sunflower Seeds & Strawberry,4.49,8.99,4,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6e62b6083324ab4ab186,Almond Peanut Butter & Dark Chocolate Bar,1.24,2.49,22,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6de7e5de2b13bb8cff64,"Fruit & Nut Energy Bar, Chocolate Chip",1.24,2.49,11,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6cf1e5de2b13bb8cc857,"Fruit & Nut Energy Bar, Peanut Butter",1.24,2.49,18,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6c4de5de2b13bb8ca593,Chocolate Chip Banana Bread,1.24,2.49,16,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6c0ffa93dd8fad19a79b,"Fruit & Nut Energy Bar, Coconut Cream",1.24,2.49,11,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6bc800c75e93fc8d6b4a,"Fruit & Nut Energy Bar, Apple",1.24,2.49,12,Pantry
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a6b7cfa93dd8fad198175,Chewy-Nutty Peanut Chocolatey (Case),17.99,35.99,1,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a66cd00c75e93fc8c2a2e,Coconut Milk Vegan Yogurt - Raspberry Blackcurrant,2.94,7.49,1,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a665700c75e93fc8c1501,Coconut Milk Vegan Yogurt - Cherry,2.94,7.49,1,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698a555afa93dd8fad13247e,Semi-Dry Cured Snacks Pepperoni Minis Original,3,7.99,1,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,6987873100585416b9141463,"Pepperettes Sausage Sticks, European",6,12,3,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,69875643ccafe934a2765a87,"Veal Inside Round Cutlet, Grain Fed",10.85,21.7,1,Meat & Seafood
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698756321860f42bfb8942f5,"Veal Inside Round Cutlet, Grain Fed",11.71,23.42,1,Meat & Seafood
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698756211860f42bfb8939d9,"Veal Inside Round Cutlet, Grain Fed",11.25,22.51,1,Meat & Seafood
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,69875408743d5b3c304a877e,Sliced Pork Belly Korean Style,6.74,13.49,4,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,69862b7a1860f42bfb48cc53,SCHN SUMMER SAUSAGE,3,6,1,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,6985fb36266c937661ab8af6,Cornmeal Back Bacon Extra Lean,4.5,9,3,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,6985faec08f58a8cb087af72,"Bologna, Sliced",2.5,5,3,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,6985f9407cb9dc7d14934d3e,Montana's BBQ & Bar Chicken & Vegetables in spicy salsa,5,10,8,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,6985f93a08f58a8cb08725e0,Chicken & Vegetables In Spicy Salsa,5,10,4,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,6985f6df08f58a8cb086684b,Ham,2.25,4.5,20,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,6985f65308f58a8cb086314f,Peameal-Style Sliced Cured Pork Loin,5,10,3,Other
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,6985f60d08f58a8cb086189f,Old-Fashioned Style Peppercorn Bacon,10,20,1,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,69839c2e2e4c73b147ad4e3d,Fresh Beef Heart,8.27,16.55,1,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,698398c308f58a8cb0188ff1,Hot Italian Ground Pork Sausage Meat,4,8,1,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5ccc4fa913ed23170c14db03,Unknown,69723a670871d3225c839cc0,"Coffee Creamer, Chocolate-Covered Strawberry, Limited Edition",3.5,7,9,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,698b5d16e5de2b13bbb1911d,Beet + Carrot + Apple Cold Pressed Juice with Probiotics for Gut Health,2.5,5,4,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,698b495a89dc00ce48edbd5a,Snap Peas,3.49,6.99,4,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,6989ec50b6083324ab1526f3,Veggie Box #904,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,6989ec40fa93dd8fadecde74,Veggie Box #905,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,6989ea8b89dc00ce48a1978a,Mixed Produce Box #319,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,6989ea5be5de2b13bb62a88a,cantaloupe,0.5,1.99,2,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,6989e990fa93dd8fadec0d72,pineapple,1.99,3.99,10,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,698637e4cdf3ac47e4c68346,PC Organic Tortillas,0.99,3.5,3,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,6986364df313630505fe4237,FM Carrott Cake,2.5,5,2,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,69137289003600a5dda5bcf4,Paraffin Wax,5.49,10.99,1,Other
+Toronto,2026-02-11 02:36,2026-02-10 16:30,61548ce3e7112f0e5b073164,Unknown,68c9d1e6b8c5cc3d31ce57cc,Pink Frosting Tube,1.39,2.79,21,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5f2cdb2b9108010bf40533ee,Unknown,6989f07be5de2b13bb64d1a3,Organics Roasted Red Pepper Hummus,2.5,5,7,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5f2cdb2b9108010bf40533ee,Unknown,6984e44e3e10d30e05b66c0d,"Lassi Yogurt Smoothie, Sweet",2,3,9,Dairy
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5f2cdb2b9108010bf40533ee,Unknown,6984188d1886d692c3481750,gummy rush tangerine,1,2,28,Grocery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5f2cdb2b9108010bf40533ee,Unknown,6984180c2e4c73b147ca6c25,gummy rush,1,2,30,Grocery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5f2cdb2b9108010bf40533ee,Unknown,698417231886d692c347ec40,lollipops,1.25,2.49,10,Grocery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698b61f7b6083324ab789c5a,"Goat Milk, 2% M.F",2,4,7,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698b612f988f28c4ca94885d,"Vegan Yogurt, Plain Coconut",2,4,1,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698b610589dc00ce48f65aee,liberte  goat milk,2,4,4,Natural Foods
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698b5635e5de2b13bbaf1168,Butter Croissant,2.75,5.5,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698b5629fb240c943790c1a3,Cinnamon Swirl Iced Loaf Cake,2.5,5,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698b561ae5de2b13bbaf088e,Double Chocolate Coffee Cake,3,6,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698b55ff89dc00ce48f27b49,T&S Shortbread Cookies Pk 12,3,6,1,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698b55f0b6083324ab736413,Unicorn Chocolate and Vanilla Cupcakes,2.25,4.5,7,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,69876266743d5b3c30502094,Potato Crisps Hot & Spicy Flavour,1.44,2.88,47,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,69876240743d5b3c30501412,Potato Crisps Original Flavour,1.44,2.88,13,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,698761b81860f42bfb8f0f03,Potato Crisps Barbecue Flavour,1.44,2.88,25,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,69874fdaccafe934a2740a86,apki Pasand cake rusk original,2.25,4.5,50,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6983b1202e4c73b147b3fdf2,Lemonade,1.5,3,2,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6983afc71886d692c32f8232,Apple Juice,1.49,3.79,6,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6978f5b91097b0382047f51a,L'Oreal Paris feria vegan natural soft black,8.85,17.69,3,HBA
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6973d821c889febbe756096a,Yardley London English Rose,9.49,18.99,13,HBA
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,69668177713f3fcc8d773932,Everyday Detox Lemon Organic Wrapped Tea Bags,7.49,14.99,2,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,695e91f82ccab9bc554f3afd,Dry Shampoo Gift Pack,5.22,10.44,64,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6925f3a1c9869a97e898a2e3,Ultra Sport™ Sunscreen Lotion SPF 50+,6.5,13,11,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6925f2ba87763f27f4016fd7,"Ultra Sport™ Sunscreen Spray, SPF 50+",6.5,13,3,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6925efb62ccdb46e8e5528e8,"Ultra Sport™ Sunscreen Spray, SPF 30",6.5,13,22,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6925ee9069a3e2ddc8dc9e9d,"Ultra Sport™ Sunscreen Lotion, SPF 30",6.5,13,63,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,6904ed23cf8c0b11524eb9fe,Organic Bright Blends Pear Cherry Spinach Chia,1.39,2.79,16,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,69010ace21bdded16bf04975,Radiant Red Colour Protecting & Enhancing Conditioner,5.48,10.97,2,Beauty
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,69010ab4e53e26c8badc1aff,Volume Lift Touchably Full Full Body Shampoo,6.49,12.99,6,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,620d1d6410da110df3ef147b,Unknown,68ed2d0cb118c0caa2de0294,Milk Rusk,2.24,4.49,20,Bakery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccd1,Unknown,698a14bcb6083324ab2789be,Mixed Produce Box #4,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccd1,Unknown,698617b7ccafe934a23969f9,Knorr Beef,1,2,21,Grocery
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,698a5423e5de2b13bb85dec3,Mushroom Frusta,3.75,7.5,6,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,698a0be289dc00ce48ae4f9b,Mild Italian Ground Pork Sausage Meat,2,7.5,5,Meat
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6989eaab89dc00ce48a1a011,"Monster Cookie Dough with Candy Pieces, Peanut Butter & Chocolate Chips, Ready to Bake, 12 ct",1.5,4.79,7,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6989e62089dc00ce489fe632,Decaffeinated Ground Coffee Classic Decaf,8,19.49,3,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69893a7789dc00ce4890d57d,Veggie Box #730,7,7,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69893a6b00c75e93fc51afec,Veggie Box #729,7,7,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69893a57e5de2b13bb524823,Veggie Box #728,7,7,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69893a4dfa93dd8faddb9d2c,Veggie Box #727,7,7,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6989254289dc00ce488da89f,Mixed Produce Box #725,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6989239900585416b9684b77,Mixed Produce Box #721,7.5,7.5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,698922f4b6083324abfcd6c0,Mixed Produce Box #715,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,698921e489dc00ce488d077e,Mixed Produce Box #709,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,698921dbe5de2b13bb4e9aa5,Mixed Produce Box #708,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69892142b6083324abfc81fc,Mixed Produce Box #706,5,5,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69892112b6083324abfc789c,Mixed Produce Box #702,6,6,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69892102e5de2b13bb4e78e9,Mixed Produce Box #701,6,6,1,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69890a31e5de2b13bb49e47e,Salt & Vinegar,1.5,6,7,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6989098ab6083324abf7057c,Vegetable Chips Screamin' Hot,3,6,4,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6988f22a00c75e93fc429785,Hamburger Helper Pasta Kit Stroganoff,0.75,2.29,3,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69873907f31363050524ea8b,Mixed Produce Box #600,3,3,32,Produce
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6986555df313630505083e95,"Yogurt Raisins, Vanilla",2.24,4.49,2,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,69862c9a43e84cfde96e7f6f,Smoked Honey Maple Ham,0.99,3.75,2,Deli
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6984ca1e7cb9dc7d14514220,Old Fashioned Butterscotch Ice Cream & Dessert Topping,3.14,6.29,2,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6984c9f17cb9dc7d14512e02,Secret Instant Noodles Manchurian,0.5,2.49,19,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6984c34b08f58a8cb04eb430,Peanut Butter Choco Crunch Ice Cream and Dessert Topping,1.75,3.5,3,Candy & Chocolate
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,696aa4ba544f613a9c4b4967,Shirriff Vanilla Pie Filling & Dessert Mix,1,2,4,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,696aa48aeb4478d75e89aee5,Robertson's Mincemeat Without Suet 635 ml,5.25,10.5,1,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,696aa4541691cb7a8cf1fcb5,"Chocolate Mousse, 50 Calories",1,2,4,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6969020a43e7855242e9388c,Jasmine Rice,2.49,4.99,1,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,694c34ce2f6c97668882cc93,Life Brand Naproxen,5.99,18.5,1,OTC
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,694461214a79ce3b1d6c1180,expiry Nov 2026 A+ Milk-Based Iron Fortified Infant Formula Serenity 0-12 Months expiry Nov 2026,20,52.99,4,Centre of Store
+Toronto,2026-02-11 02:36,2026-02-10 16:30,5fa2e792eb077d102ffcccce,Unknown,6941c23204b28da02938e247,playtexbaby diaper genie carbon filters,1.99,6.99,2,Baby
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b20e2fa93dd8fad29d769,FFM WHOLE CHCKN ALL NTL RW1481-various weights,4.68,9.36,13,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b1490e5de2b13bb9b1fb6,blueberry chocolate chip & lemon poppy seed,1.92,3.84,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b147f00c75e93fc9bfbdb,blueberry mini muffins 12ct,1.92,3.84,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b1464e5de2b13bb9b1a6f,french bread sliced,1.14,2.29,2,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b143a00c75e93fc9bf1f4,chocolate chunk 8ct scones,2.49,4.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b142cb6083324ab5a2c31,FFM SCONE BLUEBERRY 8CT,2.49,4.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b141800c75e93fc9bec8a,"TABLE TALK PIE BLUEBERRY 4""",0.74,1.49,3,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b140b89dc00ce48dd1af2,raspberry filled double chocolate 4ct muffin,2.99,5.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b13fae5de2b13bb9b0c13,4ct cherry turnovers,2.99,5.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b13ecfa93dd8fad2805e5,cherry  turnovers,2.99,5.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698b13d700c75e93fc9be0d3,cinnamon rolls 4ct,2.14,4.29,2,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698aed51b6083324ab5868b6,CHERUB TOMATOES 10 OZ,1.49,3.09,3,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698ab82500c75e93fc98f195,Veggie Box #327,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698aac3ae5de2b13bb9759a8,HYDROPONIC GREEN LEAF LETTUCE/EXPIRES ON 2-17-26,1.49,3.29,6,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698aa66489dc00ce48d8b935,Veggie Box #321,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698a9c9cb6083324ab545287,Fruit Box #317,4,4,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698a9398e5de2b13bb9466fa,MULTICOLOR PEPPER 3CT,0.99,3.79,3,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698936c589dc00ce489066be,HEAD LETTUCE EACH,0.99,2.49,11,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,698936a9b6083324ab003656,ROMAINE HEARTS 3 PK,1.49,4.29,10,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,69874d951860f42bfb84ffcd,SMITHFIELD LUNCH MEAT PRIME FRESH TURKEY O/R 7 OZ,1.99,4.99,1,Packaged meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,69709e091691cb7a8cfa3c73,FFM PEANUT BRITTLE 8OZ,2.99,5.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,69709d701691cb7a8cfa386a,FFM PEANUT BRITTLE 8OZ,2.99,5.99,4,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,63b71852b6650d534d7adad9,Unknown,69709cac195c11bef77bcf64,BENSONS VILLAGE FAIR FRUIT CAKE,2.99,5.99,6,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b572a988f28c4ca90bdf1,Veggie Box #17,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b5715b6083324ab73eadc,Fruit Box #15,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b570cfb240c9437911a92,Fruit Box #14,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b5700b6083324ab73df4a,Fruit Box #13,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b56f789dc00ce48f2d770,Fruit Box #12,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b56c6fb240c94379102d1,Veggie Box #7,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b56b089dc00ce48f2beb8,Veggie Box #5,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b215dfa93dd8fad29ef8b,COUNTRY FRESH MILK FAT FREE GAL,2.24,4.49,4,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b2149b6083324ab5c5e6c,MEIJER MILK CHOCOLATE 1/2 GAL,1.24,2.49,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b211cb6083324ab5c5103,MEIJER MILK CHOCOLATE 1% LOWFAT 1/2 GAL,1.24,2.49,3,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b1f83fa93dd8fad29a15b,FFM BRATWURST CHEDDAR JALAPENO 18 OZ,2.49,4.99,1,Packaged meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b1f6fb6083324ab5bec45,CUPCAKE CHOC WITH VAN BTR CR 6 CT,3.49,6.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b1f2ffa93dd8fad298fd5,CUPCAKE CHOC YLW WITH CHOC VAN BTR CR 6 CT,3.49,6.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b1f0d89dc00ce48deadb0,CUPCAKE CHOC YLW WITH CHOC VAN BTR CR 6 CT,3.49,6.99,2,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b1edab6083324ab5bcbc3,FFM SOUP STARTER KIT BROCCOLI 14.5 OZ,2.49,4.99,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b1e55fa93dd8fad297199,CM PIZZA FLATBREAD MARGHERITA 12.9 OZ,2.99,5.99,1,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698b1e3a00c75e93fc9d5576,CM CALZONE STEAK AND CHEESE 9 OZ,2.74,5.49,1,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0d00fa93dd8fadf92b6b,FRESH FROM MEIJER 14OZ ANGEL FOOD RING,2.99,5.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0cdcb6083324ab2411bc,FFM PIE LEMON MERINGUE 8,4.24,8.49,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0cc7b6083324ab240885,FFM PIE APPLE 10,4.99,9.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0af300c75e93fc6de951,VEVAN UNCREAM CHEESE STRAWBERRY 8 OZ,2.49,4.99,3,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0ae300c75e93fc6de377,BETTER BOOCH KOMBUCHA GUAVA COOLER 12 OZ ORGANIC,1.49,2.99,2,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0a8ab6083324ab22f2a4,FFM FRUIT TRAY WITH DIP 72 OZ,12.49,24.99,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0a6c00c75e93fc6db635,MEIJER MILK 1% LOWFAT GAL,1.06,2.13,3,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0a3c89dc00ce48adc30d,BELGIOIOSO FRESH MOZZARELLA BURRATA 8 OZ,3.09,6.19,3,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0a2fe5de2b13bb6dd50e,FREDERIKS BY MEIJER MOZZARELLA CILIEGINE 8 OZ,2.49,4.99,2,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a0a1eb6083324ab22bf2e,FFM SALAD HONEY MUSTARD CHICKEN 8 OZ,2.24,4.49,2,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a09ede5de2b13bb6dc297,Fruit Box #96,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,698a09d3b6083324ab229be7,Fruit Box #98,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,6988af03b6083324abd4efa3,FRANKLIN FARMS FALAFEL BALLS 9 OZ,2.99,5.99,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,6988aeef89dc00ce486a52c7,FFM MIREPOIX 7 OZ,1.49,2.99,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,6988ae8e00585416b94690b4,FFM SALAD TUNA 12 OZ,2.99,5.99,1,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,6988a00900585416b941849e,Fruit Box #28,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,69889ff6e5de2b13bb283166,Fruit Box #26,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,69889febb6083324abce345f,Veggie Box #25,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,69889fcfdbce420b4063a36b,Fruit Box #22,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374dd,Unknown,69889fc300585416b9416ab0,Veggie Box #21,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698b737dff05ab02e944710c,CACIQUE CHEESE SHREDDED QUESO QUESADILLA 7 OZ,2.39,4.79,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698b72d8c4a187cb6c071257,MEIJER CAGE FREE GRADE A XTRA LARGE EGG 11ct,1.1,2.19,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698b71543b056c06ded9cf9a,MEIJER CAGE FREE GRADE A LARGE EGG 11ct,1,1.99,6,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698b70ef9476de55746a0957,MEIJER CAGE FREE GRADE A LARGE EGG 11ct,1,1.99,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698b70a33b056c06ded99713,MEIJER CAGE FREE GRADE A LARGE EGG 17CT,1.45,2.89,3,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698b6eefff05ab02e942c750,EGGLANDS BEST CAGE FREE LARGE EGG 11ct,2.89,5.79,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698a20e2e5de2b13bb75c810,TRUE GOODNESS ALMOND MILK YOGURT PEACH 5.3 OZ,0.64,1.29,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698a208700c75e93fc75a4b7,YOPLAIT OUI DAIRY FREE STRAWBERRY YOGURT SS 5 OZ,1.09,2.19,12,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698a1f1ee5de2b13bb752242,BELGIAN BOYS PANCAKES BITE SIZE 10.6 OZ,3.44,6.89,3,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698a1efe89dc00ce48b5bc10,TUTS SPANISH CHEESE SMALL PACK 1 LB,3.74,7.49,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698a1e9eb6083324ab2c3548,BEST CHIVE CHEESE 14 OZ,3.39,6.79,9,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,698930c7e5de2b13bb511411,FORAGER CASHEWMILK YOGURT VANILLA BEAN 24 OZ,3.49,6.99,4,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,6988ebe589dc00ce487f6a6f,Fruit Box #2,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,6988ebd200c75e93fc40cd7e,Fruit Box #1,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374e3,Unknown,697f5a7d1886d692c3297d57,FRESH FROM MEIJER ASSORTED MERMAID CUPCAKES 12CT,4.99,9.99,5,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698b78bbe9be5bffd2e5b00e,FFM FP BNLS TENDERLOIN ALL NTRL RW6511,6.26,12.53,1,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698b78abe9be5bffd2e5a5b6,FFM FP BNLS TENDERLOIN ALL NTRL RW6511,5.48,10.96,1,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698b789dc4a187cb6c097b3f,FFM 80/20 GROUND BEEF PATTY 8CT,6,12,1,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698b788bff05ab02e9466dec,FFM FP SPLT CHCKN BRST ALL NTL RW1281,8.43,16.86,1,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698b7882ff05ab02e9466a00,FFM FP SPLT CHCKN BRST ALL NTL RW1281,8.86,17.72,1,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698a44cce5de2b13bb812ad3,FFM YEAST DONUT APPLE FRITTER 4CT,1.49,2.99,3,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698a44bdfa93dd8fad0d9eb4,FFM PIE PUMPKIN 8,2.99,5.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698a449a89dc00ce48c273c2,FFM PIE STRAWBERRY RHUBARB 10,4.99,9.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698a447c89dc00ce48c26895,FFM YEAST DONUT CINN FRY GLAZED 4CT,1.49,2.99,4,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698a4467fa93dd8fad0d7e11,FFM STRUDEL BITES APPLE 15CT,2.24,4.49,4,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698a445900c75e93fc81b34d,FREDERIKS HONEYCRISP CARAMEL APPLE PIE,5.99,11.99,2,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698a4440b6083324ab3c1c16,BREAD ITALIAN CLASSIC,0.59,1.19,3,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,698a442afa93dd8fad0d6a6f,BREAD ITALIAN PLAIN,1.14,2.29,4,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,6988c27c00585416b94cfc10,Mixed Produce Box #104,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,6988c26be5de2b13bb3444f0,Mixed Produce Box #103,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,6988c260b6083324abdd216c,Mixed Produce Box #102,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,6988c25800585416b94cf326,Mixed Produce Box #101,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,6980d36e6908436b990f3e40,CP APPLE SLICES SWEET MULTIPACK 6 CT/2 OZ,2.24,4.49,6,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,6980d2e3beee128c6da6f328,NATURIPE BLISS BENTO BERRY LEMONY 3.2 OZ,1.49,2.99,6,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,6980d2b6beee128c6da6e4b6,CP SNACKER BLUEY APPLE FRUITSNK CRCK 4.25 OZ,1.49,2.99,3,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,6970eb3c544f613a9c83d95d,PAPAS KITCHEN VINAIGRETTE FRESH HERB 12 OZ,4.49,8.99,6,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d3,Unknown,696cfb4c544f613a9cb8a2b2,BETTYS DRESSING 16 OZ,2.99,5.99,8,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,67f022817b5f59b1bba8c7ff,Unknown,6983341808f58a8cb0f72d1c,pre 100% grass-fed and finished beef filet mignon steak,9.99,17.59,7,Food & Beverage
+Detroit,2026-02-11 02:36,2026-02-10 16:30,67f022817b5f59b1bba8c7ff,Unknown,698333b356e98db9016f6425,Pre Grass-Fed Petite Sirloin Steak,10.99,15.99,4,Food & Beverage
+Detroit,2026-02-11 02:36,2026-02-10 16:30,67f022817b5f59b1bba8c7ff,Unknown,6978ec125e28e9c60caa12e5,Bell and Evans Turkey,30,88,3,Food & Beverage
+Detroit,2026-02-11 02:36,2026-02-10 16:30,67f022817b5f59b1bba8c7ff,Unknown,6978e24a1097b038203febbb,pre 100% grass-fed and finished beef filet mignon steak,8.8,17.59,13,Food & Beverage
+Detroit,2026-02-11 02:36,2026-02-10 16:30,67f022817b5f59b1bba8c7ff,Unknown,69025979b1fd2b79b53acb23,Little Rae's bakery,1.99,11.79,8,Food & Beverage
+Detroit,2026-02-11 02:36,2026-02-10 16:30,67f022817b5f59b1bba8c7ff,Unknown,6902583cb1fd2b79b53a5466,Little Rae's bakery,1.99,11.79,9,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,65b28a862f4530e32514d6cc,Unknown,69011307b1fd2b79b5edcf3e,GoMacro Peanut Butter Chocolate Chip Protein Bar (2.4 oz),1.26,4.19,69,Snacks
+Detroit,2026-02-11 02:36,2026-02-10 16:30,65b28a862f4530e32514d6cc,Unknown,68d8d84c1fa87f563e071b0e,Dramamine Children's Motion Sickness Relief Chewable Tablets Grape Flavor 25 mg (8 ct),3.3,6.59,1,
+Detroit,2026-02-11 02:36,2026-02-10 16:30,65b28a862f4530e32514d6cc,Unknown,67f579997c8300074502d9da,Orajel Baby Daytime & Nighttime Non-Medicated Cooling Gels for Teething (0.18 oz x 2 ct),3.56,8.89,3,Baby
+Detroit,2026-02-11 02:36,2026-02-10 16:30,65b28a862f4530e32514d6cc,Unknown,67cf278eead34eb189a3fd6d,HCG Urine Pregnancy Test Cassette,1.2,3,1,Personal Care
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,698b705f9476de557469d678,Fruit Box #2135,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,698b7033c4a187cb6c05f9e3,Fruit Box #2134,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,698b6f619476de557469761a,Veggie Box #2133,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,698b6f3f3b056c06ded92443,Veggie Box #2132,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,698b6f293b056c06ded91fee,Veggie Box #2131,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,698a2ef5e5de2b13bb7a520a,Fruit Box #2124,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,698a2ee5e5de2b13bb7a4b0f,Fruit Box #2123,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,698a2ed7fa93dd8fad05bfc9,Veggie Box #2122,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,69878868dbce420b403955a2,Veggie Box #2104,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,6987885d00585416b91481b1,Veggie Box #2103,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,6987883d00585416b91476d5,Fruit Box #2101,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d0,Unknown,6987721fe5de2b13bbf4a6ea,FREDERIKS BY MEIJER SLICED HAM HONEY GG,1.97,3.95,13,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d8,Unknown,6987cd2b00585416b9292606,FFM SCONE CHOCOLATE CHUNK 8 CT,2.49,4.99,5,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b718be9be5bffd2e32153,Mixed Produce Box #12,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b70f0c4a187cb6c0649aa,Veggie Box #13,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b6e1bff05ab02e9427fcb,Veggie Box #11,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b6d63b6083324ab7dc7e7,Fruit Box #10,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b6cb3fb240c9437998911,Mixed Produce Box #9,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b6bd289dc00ce48fa6ba9,Veggie Box #8,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b6b5ab6083324ab7cded0,Fruit Box #7,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b6ada988f28c4ca98a50a,Mixed Produce Box #6,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b6a56988f28c4ca986bdc,Veggie Box #5,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b6a3fb6083324ab7c56c8,Veggie Box #4,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b693eb6083324ab7be935,Veggie Box #3,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b67e1e5de2b13bbb5ab52,Fruit Box #1,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b2a85b6083324ab5f18d1,DANNON WHOLE MILK YGT PLAIN 32 OZ,1.74,3.49,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b2a5000c75e93fc9fe150,MEIJER MILK 2% RF GAL,1.44,2.88,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b2a42e5de2b13bb9ef130,TRUMOO MILK CHOCOLATE 1% GALLON,2.89,5.79,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b2a07b6083324ab5eeff3,OIKOS GREEK YGT TRIPLE ZERO BANANA CREAM 5.3 OZ,0.72,1.45,3,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b28a500c75e93fc9f6e0e,TRUMOO MILK CHOCOLATE WHOLE 1/2 GAL,1.69,3.39,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b2894e5de2b13bb9e7981,TRUMOO MILK CHOCOLATE WHOLE GALLON,2.89,5.79,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698b287900c75e93fc9f60f2,MEIJER MILK WHOLE 1/2 GAL,0.99,1.99,2,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698a7f3bfa93dd8fad1e30a8,Fruit Box #3122,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698a7ed989dc00ce48d2674d,Mixed Produce Box #3121,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698a7e6ae5de2b13bb90cd4f,Mixed Produce Box #3120,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698a7e00b6083324ab4eb2c1,Veggie Box #3119,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,698a7ddfb6083324ab4eaa6e,Mixed Produce Box #3118,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989e1f6e5de2b13bb5fa49b,KITE HILL CREAM CHEESE PLAIN 8 OZ,3.49,6.99,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989dff2fa93dd8fade8bea3,MEIJER MILK CHOCOLATE 1/2 GAL,1.24,2.49,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989dfcde5de2b13bb5ee03b,MEIJER MILK CHOCOLATE 1% LOWFAT GAL,1.94,3.89,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989dface5de2b13bb5ed20f,MEIJER MILK CHOCOLATE 1% LOWFAT 1/2 GAL,1.24,2.49,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989df8f00c75e93fc5e3664,COUNTRY FRESH MILK FAT FREE GAL,2.24,4.49,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989df70b6083324ab0f1677,COCOJUNE YOGURT VANILLA UNSWEETENED 16 OZ,3.74,7.49,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989df5089dc00ce489dad0d,COUNTRY FRESH MILK 2% GAL,2.24,4.49,1,Dairy
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989d84ce5de2b13bb5c1c56,KINGS HAWAIIAN SUB BUNS MINI ORIGINAL 6 PK 12 OZ,2.79,5.59,1,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989d82989dc00ce489b0056,PRETZILLA PRETZEL BITES NACHO CHEESE 12.3 OZ,2.99,5.99,1,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989d816b6083324ab0bbe9a,PRETZILLA SOFT PRETZEL SLIDER BUNS 8.4 OZ,2.14,4.29,1,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989d80eb6083324ab0bbb5d,KINGS HAWAIIAN PRETZEL SLIDER BUNS,2.79,5.59,3,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6989d7e900c75e93fc5b8a5e,KINGS HAWAIIAN BUNS HAMBURGER ORIG 8CT/12.8 OZ,2.79,5.59,3,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988cec6e5de2b13bb388388,Fruit Box #3117,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988ce79e5de2b13bb3867a4,Fruit Box #3116,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988ce2500c75e93fc3795d8,Veggie Box #3115,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988cde2b6083324abe1e6d4,Fruit Box #3114,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988cd2100c75e93fc37358d,Veggie Box #3112,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988cc5400585416b9508dcd,Fruit Box #3110,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988cbe400c75e93fc36dc10,Fruit Box #3109,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988cba7e5de2b13bb377edd,Fruit Box #3108,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6988cb1900585416b95027a1,Mixed Produce Box #3106,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,69887775dbce420b4058ef7e,BELGIOIOSO FRESH MOZZARELLA BURRATA 8 OZ,3.09,6.19,3,Deli
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,6987fd1900585416b930f597,DOLE SALAD KIT PREMIUM ULT CAESAR 11.3 OZ,1.5,4.49,2,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766efd06e2381086a9acbf,Unknown,696d1e7e195c11bef7c28fa8,FYH ORIGINAL VEGENAISE 32 OZ,4.74,9.49,3,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,698b526d89dc00ce48f122dc,Veggie Box #6,3,3,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,698b51befb240c94378f1655,Veggie Box #5,3,3,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,698b5112988f28c4ca8e7fa8,Mixed Produce Box #4,3,3,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,698b5059e5de2b13bbacfd0d,Veggie Box #3,3,3,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,698b169a00c75e93fc9c3d00,FFM PIE STRAWBERRY RHUBARB 10,4.99,9.99,1,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,698a2751fa93dd8fad030f24,REV FARM LETTUCE ROMAINE ROBUST 4 OZ,1.99,3.99,6,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,698a2728fa93dd8fad02ffaf,REV FARM LETTUCE SPRING MIX MICH 4 OZ,1.99,3.99,3,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,6989d687e5de2b13bb5bb4ed,CHAIRMANS RESERVE PRIME BONELESS CC HALF LOIN RW,12.6,25.2,1,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,6989d646e5de2b13bb5ba7b6,CHAIRMANS RESERVE PRIME BONELESS CC HALF LOIN RW,9.89,19.79,1,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,6989d637e5de2b13bb5ba5f9,CHAIRMANS RESERVE PRIME BONELESS CC HALF LOIN RW,9.39,18.79,1,Meat
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374cd,Unknown,6980e47d2e4c73b14719929c,DOLE SALAD KIT PREMIUM STRBRY POPPYSEED 7.1 OZ,2.24,4.49,2,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698b7590c4a187cb6c081e39,Mixed Produce Box #305,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698b757f3b056c06dedb06ce,Mixed Produce Box #304,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698b756ee9be5bffd2e492b8,Mixed Produce Box #303,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698b744aff05ab02e944b28f,Mixed Produce Box #302,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698b743cff05ab02e944aad9,Mixed Produce Box #301,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698b742eff05ab02e944a58c,Mixed Produce Box #300,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698a24dffa93dd8fad023c8f,Mixed Produce Box #202,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698a24cfe5de2b13bb76e95d,Mixed Produce Box #201,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698a24befa93dd8fad022feb,Mixed Produce Box #200,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,69892c78b6083324abfe7bae,Mixed Produce Box #102,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,69878161e5de2b13bbfa2cc3,Mixed Produce Box #704,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,69878151dbce420b4037210f,Mixed Produce Box #703,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374df,Unknown,698780a3dbce420b4036e969,Mixed Produce Box #700,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d2,Unknown,698b706a9476de557469da51,Mixed Produce Box #27,3,3,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d2,Unknown,698a97b700c75e93fc95e814,Mixed Produce Box #4,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d2,Unknown,698a97a5e5de2b13bb94f77b,Mixed Produce Box #2,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d2,Unknown,698a979c00c75e93fc95e3e7,Mixed Produce Box #1,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698b559c89dc00ce48f25f68,Odyssey Revive Sparkling Strawberry Passion Fruit Cognition + Mood Drink 12 fl oz,1.9,3.79,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698b557efb240c9437908780,Saint James Zero Sugar Organic Brewed Blood Orange & Hibiscus Black Tea 16 fl oz,1.65,3.29,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698b555ce5de2b13bbaec84a,Real Food From the Ground Up Twists Cauliflower Pretzels 4.5 oz,2.4,4.79,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698b365d89dc00ce48e6424f,Belle Lavender Gift Box,25,51.69,2,Bath & Beauty
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698b3606e5de2b13bba32096,"Cbd Bath Salts, Coconut Lime",20,40,5,Bath & Beauty
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,69821b8e2e4c73b147569c59,Muir Glen Medium Salsa,3.5,6.99,1,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,69821b5f6908436b995758ae,Siete Green Enchilada Sauce,3.45,6.89,2,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,6982173008f58a8cb0c62538,Primal Kitchen Organic Unsweetened Squeeze Ketchup 18.5 oz,5.25,10.49,1,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698216cb56e98db9013c6be0,Cocomels Sea Salt Bites 3.5 oz,3.15,6.29,2,Food & Beverage
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698211a256e98db9013a43a4,Chocolate Chip Cookie Dough Kids MacroBar 7ct Multipack,4.7,9.39,1,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,6982118156e98db9013a3488,Uncle Crumbles Brainberry Granola - 11oz,4,7.99,2,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698211346908436b995342dc,Nature's Path Organic Love Child Organics Organic 6 Months + Apples/Bananas/Spinach/Avocado Baby Puree 4 oz,1.4,2.79,6,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,6982111208f58a8cb0c41ca0,"Serenity Kids Beef Kebab with Organic Vegetables Pouch, 3.5oz",2.35,4.69,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698210e456e98db90139ea66,GoGo squeeZ Puddingz On-the-Go Chocolate Pudding Snack Pouches,2.8,5.59,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,698210c96908436b995309fc,"GoGo squeeZ Puddingz On-the-Go Vanilla Pudding Snack Pouches, 3 oz (4 Pack)",2.65,5.29,5,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,69820d761886d692c3c265ca,Simple Mills Crunchy Almond Flour Toasted Pecan Cookies 5.5 oz,3,5.99,2,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,69710a4337266be12b57720f,Nick's Sticks Turkey Sticks 2 Packs,2.2,4.39,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,6970dff637266be12b455f16,Primal Kitchen Air Fryer Oil Spray 4.7 oz,4.5,8.99,2,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,696f9b3a1691cb7a8cca6b0e,Good Boy Rawhide,5.6,11.19,5,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,696f9abe37266be12bfd3777,Good Buddy Rawhide,6.5,12.99,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,696bd6a0544f613a9c87dffd,Farmers Creamery Chocolate Ice Cream,5,10.99,1,Food & Beverage
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,696aa0faeb4478d75e887112,Seeds of Change Organic Quinoa & Brown Rice with Garlic 8.5 oz,2.5,4.99,7,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,696a7ec2544f613a9c3edf0c,"FISHER Chef's Naturals Chopped Walnuts, 10 oz, Naturally Gluten Free, No Preservatives, Non-GMO",6.15,12.29,2,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,695ae3621c415ff25141222a,Pacha Soap Co Calm Assorted Froth Bombs 4 - 2 oz Each,5,9.99,1,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,695ae339169865789d5ea9eb,Pacha Cbd Froth Bomb,9.9,19.79,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,68e01201ad8e4a2d3db71d68,Folate,4.35,8.69,1,Vitamins & Supplements
+Detroit,2026-02-11 02:36,2026-02-10 16:30,68cac789765cb78193ff5f26,Unknown,68e0086fdfc6513c850c1298,Baby's Only Organic Sensitive Toddler Drink 12.7 oz,15,26.29,3,Brands
+Detroit,2026-02-11 02:36,2026-02-10 16:30,65b28a86f1496a5dc77922bd,Unknown,68f127cf935e9033e3227971,Inotea Brown Sugar Bubble Tea (16.6 oz),2.65,5.29,4,Drinks
+Detroit,2026-02-11 02:36,2026-02-10 16:30,65b28a86f1496a5dc77922bd,Unknown,68443182e6b5599fc7e4b948,Tajin Clasico Seasoning (14.1 oz),4.2,10.49,1,Multicultural
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,698b74deff05ab02e944e63e,Mixed Produce Box #19,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,698b74d39476de55746b6f83,Mixed Produce Box #18,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,698b7498ff05ab02e944ca31,Mixed Produce Box #17,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,698a2f51b6083324ab331ee0,Fruit Box #5,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,698a2f49e5de2b13bb7a6d5b,Fruit Box #3,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,698a2f4089dc00ce48bb43e5,Mixed Produce Box #2,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,6988de90e5de2b13bb3d3a2e,Mixed Produce Box #16,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,6988de88b6083324abe7efba,Mixed Produce Box #15,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,69877647e5de2b13bbf626fb,Mixed Produce Box #13,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,6987763cdbce420b40336399,Fruit Box #12,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,6987763cdbce420b40336339,Fruit Box #4,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d9,Unknown,6987762b00585416b90e867e,Fruit Box #1,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6e07e9be5bffd2e1f6fc,Organic Fruit Box 68,5,10,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6db7ff05ab02e9425957,Organic Fruit Box 67,5,10,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6d72988f28c4ca99a9e4,Mixed Produce Box #61,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6d4c988f28c4ca99a21b,Mixed Produce Box #66,1.99,1.99,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6d2e89dc00ce48fae99e,Mixed Produce Box #62,2.19,2.19,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6cfb988f28c4ca997fe3,Mixed Produce Box #63,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6cd4b6083324ab7d85f5,Mixed Produce Box #65,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6cb5e5de2b13bbb78415,Mixed Produce Box #64,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b6c9489dc00ce48fabe04,Mixed Produce Box #60,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698b52bab6083324ab71e835,FFM BROCCOLI FLORETS 12 OZ,1.39,2.79,18,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a9239b6083324ab52adce,Fruit Box #7,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a922ee5de2b13bb9433c6,Fruit Box #6,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a9222b6083324ab52a838,Fruit Box #5,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a921500c75e93fc95037a,Fruit Box #4,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a920ab6083324ab52a56a,Fruit Box #3,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a91c500c75e93fc94f533,Fruit Box #1,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a2b13fa93dd8fad047b90,FFM TRAY TRIPLE TREAT & MELON 32 OZ,5,12.79,9,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a1a19e5de2b13bb73607a,Mixed Produce Box #30,1.79,1.79,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a0affe5de2b13bb6e1788,Mixed Produce Box #21,2.29,2.29,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a0ae4fa93dd8fadf84570,Mixed Produce Box #22,2.79,2.79,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a0aa200c75e93fc6dcd9a,Mixed Produce Box #20,3.29,3.29,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a06db00c75e93fc6c7f6c,CP MEDLEY BLUEY APPL CHS PRTZL 2.5 OZ,0.84,1.69,12,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a06bb00c75e93fc6c73cc,FFM BROCCOLI FLORETS 12 OZ,1.39,2.79,16,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,698a02ffe5de2b13bb6b7a22,CP DIPPERZ APPLES TART & CARAMEL 2.75 OZ,0.84,1.69,8,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,6984a81a08f58a8cb044b5d3,DOLE SALAD BLEND 50-50 5 OZ,1.69,3.39,4,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,697cf9d9a490099ff217a0da,CP MEDLEY BLUEY APPL CHS PRTZL 2.5 OZ,0.84,1.69,5,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,69345788f30507f12ef968e8,PAPAS KITCHEN DRESSING CREAMY DILL 12 OZ,3.99,8.99,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374db,Unknown,68bc57f574b31964b67cc64f,NUTTY & FRUITY TAMARIND BITES CHILI 7 OZ,2.49,4.99,5,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,6989f19500c75e93fc6490fd,KIMBERLEY'S FOOTBALL SUGAR COOKIE TUB,2.49,4.99,2,Bakery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,6989ef25e5de2b13bb645ce1,Fruit Box #21,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,698931eefa93dd8fadda874d,Veggie Box #66,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,698931d489dc00ce488fbb7f,Veggie Box #65,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,6988c0bde5de2b13bb33aed8,Mixed Produce Box #69,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,6987f42d00585416b92ff6a6,Mixed Produce Box #14,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,6987f411dbce420b4052d898,Mixed Produce Box #13,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,6987f3b989dc00ce48527a69,Mixed Produce Box #12,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,6987f3aa00585416b92fe520,Mixed Produce Box #11,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,6987f389e5de2b13bb16bd0e,Mixed Produce Box #10,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,69869c70f313630505197311,Veggie Box #6,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,5f766f081673e04ebe6374d7,Unknown,69869c60ccafe934a2605dcf,Veggie Box #5,5,5,1,Produce
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,698a4306fa93dd8fad0d1a38,Crunchie Plantain Chips-Sea Salt- Box Of 12,32.99,48,10,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,698a428eb6083324ab3b7577,Crunchie Plantain chips- Sweet- Box Of 12,33.99,48,30,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,698a408cb6083324ab3a8c92,Nestle Milky Bar,2.55,5.09,5,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,6986711ecdf3ac47e4d8f501,Candy Pop Popcorn Snickers,4.2,5.69,3,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,6985153c3e10d30e05c6e4b9,Spice Supreme Steak Seasoning- 163g,1.81,3.61,4,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,698514de1886d692c3847302,Spice Supreme Jamaican Jerk Seasoning- 92g,1.94,3.87,4,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697e84aa81a1f6bfcd1bbad9,Lee Kum Kee Oyster Flavoured Sauce,10.68,13.35,3,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697e8374beee128c6d4659b6,National Ginger and Garlic Paste- 750g,3.32,6.63,5,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697e6f49beee128c6d40b835,Crunchie Snacks Plantain Chips- Naturally Sweet-128g,3,5.99,72,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697e6ec1beee128c6d4090c4,Crunchie Snacks Plantain Chips- Sea Salt- 128g,3,5.99,48,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697bd204508dc9f57160fcba,Nestle Carnation Hot Chocolate Mix- 450g,5.25,10.5,8,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697bd14725915b6ab16cb3a5,Kraft BBQ Chicken N Rib- 455ml,2.74,5.48,6,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697bd0bf25915b6ab16c8d6d,Buldak Spicy Chicken Flavour- 5 Packs,8,15.99,4,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697bd09571ea5f0f8c1deff0,Cedar Roasted Eggplant- 796ml,3.42,6.83,6,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,697bd01471ea5f0f8c1dbde6,J Basket Japanese Buckwheat Noodles-720g,8.5,17,2,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6944a4d129180fee26303bff,Unknown,6955891cd8ef110679a66a82,3 Minutes Chow Mein Noodles- 454g,1.07,2.13,1,Grocery
+Detroit,2026-02-11 02:36,2026-02-10 16:30,6532e51515d8056e6714c165,Unknown,692e81ea69fa8139aa55a448,UpTop Treats Candy Freeze Dried Moon Rocks Original (3.5 oz),2.73,9.09,2,Candy
