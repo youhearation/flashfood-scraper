@@ -2,17 +2,11 @@ name: Flashfood Scraper
 
 on:
   schedule:
-    # 美东 09:30 (UTC 14:30) → 跑 Toronto, Detroit
     - cron: '30 14 * * *'
-    # 美西 09:30 (UTC 17:30) → 跑 Vancouver, Seattle  
     - cron: '30 17 * * *'
-    # 美东 16:30 (UTC 21:30) → 跑 Toronto, Detroit
     - cron: '30 21 * * *'
-    # 美西 16:30 (UTC 00:30 次日) → 跑 Vancouver, Seattle
     - cron: '30 0 * * *'
-    # 美东 20:30 (UTC 01:30 次日) → 跑 Toronto, Detroit
     - cron: '30 1 * * *'
-    # 美西 20:30 (UTC 04:30 次日) → 跑 Vancouver, Seattle
     - cron: '30 4 * * *'
   workflow_dispatch:
 
@@ -31,7 +25,6 @@ jobs:
         run: |
           pip install curl_cffi pandas pytz
           
-      # 根据当前UTC时间判断跑哪个时区
       - name: Determine timezone to scrape
         id: determine
         run: |
@@ -40,8 +33,6 @@ jobs:
           UTC_TIME="${HOUR}:${MINUTE}"
           echo "Current UTC time: $UTC_TIME"
           
-          # 美东时段: 14:30, 21:30, 01:30
-          # 美西时段: 17:30, 00:30, 04:30
           if [[ "$UTC_TIME" == "14:30" ]] || [[ "$UTC_TIME" == "21:30" ]] || [[ "$UTC_TIME" == "01:30" ]]; then
             echo "zone=east" >> $GITHUB_OUTPUT
             echo "Running EAST (Toronto, Detroit)"
@@ -49,16 +40,16 @@ jobs:
             echo "zone=west" >> $GITHUB_OUTPUT
             echo "Running WEST (Vancouver, Seattle)"
           else
-            echo "zone=unknown" >> $GITHUB_OUTPUT
-            echo "Unknown schedule time"
+            echo "zone=all" >> $GITHUB_OUTPUT
+            echo "Running ALL cities (manual trigger)"
           fi
           
       - name: Run East Scraper
-        if: steps.determine.outputs.zone == 'east'
+        if: steps.determine.outputs.zone == 'east' || steps.determine.outputs.zone == 'all'
         run: python flashfood_east.py
         
       - name: Run West Scraper  
-        if: steps.determine.outputs.zone == 'west'
+        if: steps.determine.outputs.zone == 'west' || steps.determine.outputs.zone == 'all'
         run: python flashfood_west.py
         
       - name: Upload Data
