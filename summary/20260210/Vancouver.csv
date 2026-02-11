@@ -49,7 +49,7 @@
 6971ddb8cf5c56b4f1afbe84,Jennyhouse Salon Code Glam Hair Color Glam Black Hair Dye (70 ml x 2 ct),65e8f30bcb43951cbd853f59,Unknown,17.99,8.99,Beauty,1.0,1.0,1.0,0.0,0.0,0.0
 69732c3e4bb7d7af11a91f93,Gatorade Orange Powder Packets (10 ct),65e8f30bcb43951cbd853f59,Unknown,9.59,4.79,Vitamins&Supplements,3.0,3.0,3.0,0.0,0.0,0.0
 697330594e0f1abfea691014,Pearl Milling Company Lite Syrup (710 ml),67bdc806855e4112ad907797,Unknown,5.29,2.64,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
-697515eee4fe4341353ac7de,Frozen Bananas,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,1.0,Produce,3.0,3.0,3.0,0.0,0.0,0.0
+697515eee4fe4341353ac7de,Frozen Bananas,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,1.0,Produce,3.0,3.0,2.0,0.0,1.0,1.0
 6975ce314e0f1abfea9c5cc8,Heinz Sriracha Mayonnaise,67bdc806855e4112ad907797,Unknown,4.99,2.49,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
 6976ba764bb7d7af11f788f7,New World Almond Butter Crunchy Roasted 500g,67ffcc6581edee2219c54e94,Unknown,14.99,9.99,Grocery,46.0,46.0,46.0,0.0,0.0,0.0
 6976bb2dcf5c56b4f1144310,Bestropics Coconut Smoothie 355ml,67ffcc6581edee2219c54e94,Unknown,3.49,1.99,Beverages,49.0,49.0,49.0,0.0,0.0,0.0
@@ -224,7 +224,7 @@
 698aee4138ce139b2521d9b9,Goldfish Crisps Salt & Vinegar Baked Crackers (177 g),67bdc806855e4112ad907797,Unknown,3.17,1.58,Snacks,6.0,4.0,4.0,2.0,0.0,2.0
 698aeee410bcc888936418e6,Goldfish Crisps Salt & Vinegar Baked Crackers (177 g),65e8f30bcb43951cbd853f59,Unknown,3.17,1.58,Snacks,3.0,3.0,3.0,0.0,0.0,0.0
 698aef04b5a492c8fed755f9,Brisk Strawberry Iced Tea (710 ml),65e8f30bcb43951cbd853f59,Unknown,1.99,0.99,Drinks,2.0,2.0,2.0,0.0,0.0,0.0
-698b2e4b00c75e93fca16a5e,Chipotle Chicken Empanadas,5d0bd76b8894a4ebbfd7048a,Unknown,13.0,6.5,Mains & Meals,3.0,3.0,3.0,0.0,0.0,0.0
+698b2e4b00c75e93fca16a5e,Chipotle Chicken Empanadas,5d0bd76b8894a4ebbfd7048a,Unknown,13.0,6.5,Mains & Meals,3.0,3.0,2.0,0.0,1.0,1.0
 698b434fe5de2b13bba83c56,Brie Cheese Double Cream Mild 32% M.F.,5d0bd76b8894a4ebbfd7048a,Unknown,6.0,3.0,Deli,1.0,1.0,1.0,0.0,0.0,0.0
 698b444e988f28c4ca896972,Dill Pickle Potato Salad,5d0bd76b8894a4ebbfd7048a,Unknown,9.5,4.75,HMR,6.0,6.0,5.0,0.0,1.0,1.0
 698b473efb240c94378ad05c,Macaroni Salad,5d0bd76b8894a4ebbfd7048a,Unknown,7.49,3.74,HMR,5.0,5.0,4.0,0.0,1.0,1.0
@@ -293,7 +293,7 @@
 698b7fffc4a187cb6c0c9fdd,Sliced. Sikorski Grandpa Ham 172g,5d0bd76c8894a4ebbfd704b8,Unknown,6.0,2.8,Deli,,1.0,,,,
 698b84413b056c06dedfaf2b,Free From Lean Ground Pork,6969181f05a95a3633344338,Unknown,6.0,2.99,Meat,,1.0,,,,
 698b84893b056c06dedfc2a5,Black Forest Ham And Cheese Sandwich,6969181f05a95a3633344338,Unknown,6.0,1.5,HMR,,2.0,,,,
-698b85139476de557470e4ce,Italian Deli Meat Sandwich,6969181f05a95a3633344338,Unknown,6.0,1.5,HMR,,6.0,3.0,,3.0,
+698b85139476de557470e4ce,Italian Deli Meat Sandwich,6969181f05a95a3633344338,Unknown,6.0,1.5,HMR,,6.0,2.0,,4.0,
 698b859d9476de557471167d,Medium Ground Pork,6969181f05a95a3633344338,Unknown,11.0,3.99,Meat,,2.0,,,,
 698b85eb9476de55747133ae,Maple Flavour Candied Smoked Atlantic Salmon Strips,6969181f05a95a3633344338,Unknown,11.0,3.99,Seafood,,24.0,17.0,,7.0,
 698b864ae9be5bffd2ea5af7,Bc pork and beef sausage,6969181f05a95a3633344338,Unknown,10.0,4.99,Meat,,3.0,2.0,,1.0,
@@ -308,14 +308,14 @@
 698b98f49476de5574775e2f,Free From Smoked Black Forest Ham,629cec56061cc278a85326dc,Unknown,8.0,4.0,Deli,,3.0,3.0,,0.0,
 698b9919e9be5bffd2f0b528,Fresh Mozzarella,629cec56061cc278a85326dc,Unknown,7.99,3.99,Deli,,1.0,,,,
 698b99f59476de557477b301,Multigrain Rye Loaf Bread,6969181f05a95a3633344338,Unknown,4.69,0.45,Bakery,,6.0,4.0,,2.0,
-698b9a0c3b056c06dee64ff9,Classic Gourmet Sausage Buns,6969181f05a95a3633344338,Unknown,5.0,0.55,Bakery,,7.0,5.0,,2.0,
-698b9a52c4a187cb6c16ceed,vanilla dessert cups,6969181f05a95a3633344338,Unknown,3.0,0.55,Bakery,,9.0,9.0,,0.0,
+698b9a0c3b056c06dee64ff9,Classic Gourmet Sausage Buns,6969181f05a95a3633344338,Unknown,5.0,0.55,Bakery,,7.0,4.0,,3.0,
+698b9a52c4a187cb6c16ceed,vanilla dessert cups,6969181f05a95a3633344338,Unknown,3.0,0.55,Bakery,,9.0,8.0,,1.0,
 698b9a6d9476de557477dbcd,Traditional Naan Rounds,6969181f05a95a3633344338,Unknown,5.5,0.99,Bakery,,8.0,8.0,,0.0,
 698b9a7f3b056c06dee67485,Thick Slice 100% Whole Wheat Bread,6969181f05a95a3633344338,Unknown,3.99,0.99,Bakery,,3.0,2.0,,1.0,
-698b9a8f9476de557477e798,Gusto! Brioche Style Thickness,6969181f05a95a3633344338,Unknown,3.99,0.99,Bakery,,8.0,7.0,,1.0,
+698b9a8f9476de557477e798,Gusto! Brioche Style Thickness,6969181f05a95a3633344338,Unknown,3.99,0.99,Bakery,,8.0,6.0,,2.0,
 698b9abb9476de557477f238,Original Bread,6969181f05a95a3633344338,Unknown,2.5,0.45,Bakery,,13.0,13.0,,0.0,
 698b9c403b056c06dee6fa42,Frozen Berries,5ddef30c9af4e045c44b9d67,Unknown,0.0,3.0,Produce,,9.0,9.0,,0.0,
-698b9ce4c4a187cb6c17cb0f,"Naan Original Flatbreads, 10 pack",6969181f05a95a3633344338,Unknown,5.0,0.99,Bakery,,14.0,14.0,,0.0,
+698b9ce4c4a187cb6c17cb0f,"Naan Original Flatbreads, 10 pack",6969181f05a95a3633344338,Unknown,5.0,0.99,Bakery,,14.0,13.0,,1.0,
 698b9cf29476de557478b21e,Naan Garlic Flatbreads,6969181f05a95a3633344338,Unknown,5.0,0.99,Bakery,,5.0,,,,
 698b9ec19476de5574794455,Italian Buns,6969181f05a95a3633344338,Unknown,4.0,0.45,Bakery,,2.0,2.0,,0.0,
 698b9f163b056c06dee7d364,All-Butter Grains and Seeds Brioche Loaf,6969181f05a95a3633344338,Unknown,5.99,0.99,Bakery,,1.0,,,,
@@ -333,7 +333,7 @@
 698ba5593b056c06dee9b3d2,"Apple Cinnamon Scones, 4 Pack",5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.25,Bakery,,5.0,2.0,,3.0,
 698ba571ff05ab02e956274c,Farmers market sandwich croissants,5d0bd76c8894a4ebbfd704b8,Unknown,5.5,2.0,Bakery Commercial,,1.0,,,,
 698ba58ce9be5bffd2f4f447,"Sliced Loaf Cakes Trio - Banana, Chocolate Chips, Lemon",5d0bd76c8894a4ebbfd704b8,Unknown,8.0,3.0,Bakery,,1.0,,,,
-698ba5c99476de55747ba32f,Mini Apple flavored Paczki Donut,5d0bd76c8894a4ebbfd704b8,Unknown,2.89,1.45,Bakery,,3.0,3.0,,0.0,
+698ba5c99476de55747ba32f,Mini Apple flavored Paczki Donut,5d0bd76c8894a4ebbfd704b8,Unknown,2.89,1.45,Bakery,,3.0,1.0,,2.0,
 698ba5dfe9be5bffd2f513a2,Paczki boston cream,5d0bd76c8894a4ebbfd704b8,Unknown,5.5,1.9,Bakery Commercial,,1.0,,,,
 698ba5f1ff05ab02e9565518,NN Hamburger Buns,5d0bd76c8894a4ebbfd704b8,Unknown,2.49,1.0,Bakery Commercial,,3.0,,,,
 698ba6029476de55747bb627,NN Hamburger Buns,5d0bd76c8894a4ebbfd704b8,Unknown,2.49,0.9,Bakery Commercial,,2.0,,,,
@@ -370,7 +370,6 @@
 698bacefc4a187cb6c1d7afc,"Greek Yogurt, Vanilla Bean 5%",5d0bd76b8894a4ebbfd7048a,Unknown,4.99,2.49,Dairy and Eggs,,1.0,,,,
 698bb10f5f6e0bbdf058f0b9,Peanuts unsalted 227g,691b59a5669ef62168a65bdb,Unknown,3.5,1.5,Nuts & Snacks,,,11.0,,,
 698bb557c4a187cb6c2032b8,White Baguette,5d0bd76b8894a4ebbfd7048a,Unknown,1.0,0.2,Bakery,,,2.0,,,
-698bbd67e9be5bffd2fbc993,Strawberry Tropical Cake,5d0bd76c8894a4ebbfd704b8,Unknown,1.99,0.64,Cakes & Cupcakes,,,3.0,,,
 698bccffc4a187cb6c2684d8,Mixed Produce Box #41,6969181f05a95a3633344338,Unknown,5.0,5.0,Produce,,,1.0,,,
 698bcd759476de557485b852,Mixed Produce Box #42,6969181f05a95a3633344338,Unknown,5.0,5.0,Produce,,,1.0,,,
 698bce78c4a187cb6c26d684,Mixed Produce Box #44,6969181f05a95a3633344338,Unknown,5.0,5.0,Produce,,,1.0,,,
@@ -391,11 +390,20 @@
 698bd6f1c4a187cb6c28a784,Pork Shoulder Blade Steak,629cec56061cc278a85326dc,Unknown,11.37,5.68,Meat,,,1.0,,,
 698bd707e9be5bffd20171a4,Pork Belly Rindless portion,629cec56061cc278a85326dc,Unknown,39.24,19.62,Meat,,,1.0,,,
 698bd711ff05ab02e9628274,Pork Belly Rindless portion,629cec56061cc278a85326dc,Unknown,30.34,15.17,Meat,,,1.0,,,
-698bf058c4a187cb6c2cf43c,boneless stew beef,6969181f05a95a3633344338,Unknown,14.4,5.99,Meat,,,2.0,,,
 698bf3f6e9be5bffd2060539,Seasoned Pork Loin Roast Greek,5fac3e09d7528a3c966b13d0,Unknown,14.0,7.0,Meat,,,1.0,,,
 698bf4169476de55748bd7fc,Seasoned Pork Loin Roast Maple Apple Flavour,5fac3e09d7528a3c966b13d0,Unknown,14.0,7.0,Meat,,,1.0,,,
 698bf455c4a187cb6c2d7f6b,assorted bulk buns and scones 6 pack,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,1.0,Bakery,,,1.0,,,
 698bf46ee9be5bffd20617bc,assorted bulk  buns 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.44,Bakery Instore,,,1.0,,,
 698bf492ff05ab02e96742b9,assorted bulk chocolate croissants 6 pack,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,1.64,Bakery,,,1.0,,,
 698bf4a3e9be5bffd2061d46,assorted bulk  hotdog buns 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.44,Bakery Instore,,,1.0,,,
-698bf4c09476de55748beb0c,assorted bulk bagels 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.44,Bakery Instore,,,1.0,,,
+698bf8b99476de55748c5d17,extra lean ground beef cp,6969181f05a95a3633344338,Unknown,23.26,8.99,Meat,,,1.0,,,
+698bffa9e9be5bffd207280b,Seasoned Boneless Pork Strips,629cec56061cc278a85326dc,Unknown,10.0,5.0,Meat,,,2.0,,,
+698bffc5e9be5bffd20729e8,pork chop boneless garlic and herb,629cec56061cc278a85326dc,Unknown,10.0,5.0,Meat,,,2.0,,,
+698bffdec4a187cb6c2ead87,Free From Flank Steak,629cec56061cc278a85326dc,Unknown,16.92,8.46,Meat,,,1.0,,,
+698bffedc4a187cb6c2eae10,Free From Flank Steak,629cec56061cc278a85326dc,Unknown,16.41,8.2,Meat,,,1.0,,,
+698bfffdff05ab02e96844ff,Free From Flank Steak,629cec56061cc278a85326dc,Unknown,27.34,13.67,Meat,,,1.0,,,
+698c000bff05ab02e968463f,Free From Flank Steak,629cec56061cc278a85326dc,Unknown,20.85,10.42,Meat,,,1.0,,,
+698c001de9be5bffd2072ffc,Free From Flank Steak,629cec56061cc278a85326dc,Unknown,21.65,10.82,Meat,,,1.0,,,
+698c002b3b056c06defb3304,Free From Flank Steak,629cec56061cc278a85326dc,Unknown,18.17,9.08,Meat,,,1.0,,,
+698c00419476de55748cfeab,NZ Beef Sirloin Tip Roast,629cec56061cc278a85326dc,Unknown,20.0,10.0,Meat,,,1.0,,,
+698c00589476de55748cff46,NZ Beef Sirloin Tip Roast,629cec56061cc278a85326dc,Unknown,20.0,10.0,Meat,,,1.0,,,
