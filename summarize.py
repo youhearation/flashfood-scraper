@@ -53,31 +53,31 @@ def generate_daily_summary():
             else:
                 summary[s_col] = None
 
-        # 7. 计算库存变化列 (2-1, 3-2, 3-1)
-        # stock_1630 - stock_0930
+        # 7. 计算库存变化列 
+        # 早上到下午卖了多少
         if 'stock_0930' in summary.columns and 'stock_1630' in summary.columns:
-            summary['change_2_1'] = summary['stock_1630'] - summary['stock_0930']
+            summary['change_1'] = summary['stock_0930'] - summary['stock_1630']
         else:
-            summary['change_2_1'] = None
+            summary['change_1'] = None
 
-        # stock_2030 - stock_1630
+        # 下午到晚上卖了多少
         if 'stock_1630' in summary.columns and 'stock_2030' in summary.columns:
-            summary['change_3_2'] = summary['stock_2030'] - summary['stock_1630']
+            summary['change_2'] = summary['stock_1630'] - summary['stock_2030']
         else:
-            summary['change_3_2'] = None
+            summary['change_2'] = None
 
-        # stock_2030 - stock_0930
+        # 全天卖了多少
         if 'stock_0930' in summary.columns and 'stock_2030' in summary.columns:
-            summary['change_3_1'] = summary['stock_2030'] - summary['stock_0930']
+            summary['change_3'] = summary['stock_0930'] - summary['stock_2030']
         else:
-            summary['change_3_1'] = None
+            summary['change_3'] = None
 
         # 8. 最终列排序
         cols_to_keep = [
             'item_id', 'item_name', 'store_id', 'store_name',
             'original_price', 'price', 'category',
             'stock_0930', 'stock_1630', 'stock_2030',
-            'change_2_1', 'change_3_2', 'change_3_1'
+            'change_1', 'change_2', 'change_3'
         ]
         final_cols = [c for c in cols_to_keep if c in summary.columns]
         summary = summary[final_cols]
@@ -89,4 +89,5 @@ def generate_daily_summary():
 
 
 if __name__ == "__main__":
+
     generate_daily_summary()
