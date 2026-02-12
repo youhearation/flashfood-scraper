@@ -65,7 +65,7 @@
 697b0a40e41ad7f03835403a,Schneider's Juicy Jumbo Three Cheese Jalapeno Loaded Wieners (375 g),65e8f30bcb43951cbd853f59,Unknown,11.39,5.69,Meat & Fish,7.0,6.0,4.0,1.0,2.0,3.0
 697b101b07574c87e30b2880,Knorr Beef Bouillon Cubes (63 g),65e8f30bcb43951cbd853f59,Unknown,3.99,1.99,Pantry,21.0,21.0,20.0,0.0,1.0,1.0
 697b1070f9dbb16ff2ffa653,Knorr Mexican Beef Bouillon Cubes (63 g),65e8f30bcb43951cbd853f59,Unknown,2.77,1.39,Pantry,21.0,21.0,21.0,0.0,0.0,0.0
-697b115fcf0decd78831b8f8,Super Q Golden Bihon Cornstarch Sticks (454 g),65e8f30bcb43951cbd853f59,Unknown,2.69,1.34,Pantry,11.0,8.0,7.0,3.0,1.0,4.0
+697b115fcf0decd78831b8f8,Super Q Golden Bihon Cornstarch Sticks (454 g),65e8f30bcb43951cbd853f59,Unknown,2.69,1.34,Pantry,11.0,8.0,4.0,3.0,4.0,7.0
 697b1262f9dbb16ff2ffaf5a,Betty Crocker Walnut Banana Bread Mix (348 g),65e8f30bcb43951cbd853f59,Unknown,4.69,2.34,Pantry,5.0,5.0,5.0,0.0,0.0,0.0
 697b12c9f9dbb16ff2ffb1d4,Heinz Mango Habanero Mayo,65e8f30bcb43951cbd853f59,Unknown,4.0,2.0,Pantry,2.0,2.0,1.0,0.0,1.0,1.0
 697b1508203e498f29fed46d,Cinnamon Toast Crunch Waffle Cereal (328 g),65e8f30bcb43951cbd853f59,Unknown,5.69,2.84,Pantry,2.0,1.0,1.0,1.0,0.0,1.0
@@ -358,4 +358,19 @@
 698d47dfe9be5bffd24dbb95,Mixed Produce Box #106,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
 698d47e61afe283c4b5d556f,Mixed Produce Box #107,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
 698d47f09476de5574d27908,Mixed Produce Box #108,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
-698d47faff05ab02e9b06859,Mixed Produce Box #109,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+698d4ef3173fcd3e61a2dcbb,assorted bulk brioche and panini,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,1.0,Bakery,,,1.0,,,
+698d4f2e9476de5574d32ef2,assorted bulk cheese buns and croissants,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.35,Bakery Instore,,,1.0,,,
+698d4f9ce9be5bffd24e8935,Mixed Produce Box #200,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+698d504a173fcd3e61a2f719,Mixed Produce Box #201,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+698d507d1afe283c4b5e356d,Mixed Produce Box #202,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+698d50a01afe283c4b5e37ab,Mixed Produce Box #203,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+698d50c79476de5574d34b0c,Mixed Produce Box #204,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+698d520a1afe283c4b5e5155,BM chicken breast boneless skinless,629cec56061cc278a85326dc,Unknown,19.0,9.5,Meat,,,1.0,,,
+698d521eff05ab02e9b161a1,BM chicken breast boneless skinless,629cec56061cc278a85326dc,Unknown,19.0,9.5,Meat,,,1.0,,,
+698d523ce9be5bffd24eba5e,Chicken Drumsticks,629cec56061cc278a85326dc,Unknown,10.0,5.0,Meat,,,4.0,,,
+698d524d1afe283c4b5e5800,Bone In Rib and Centr chop fast fry,629cec56061cc278a85326dc,Unknown,12.31,6.15,Meat,,,1.0,,,
+698d526a173fcd3e61a318e4,Halal Stewing Beef,629cec56061cc278a85326dc,Unknown,22.35,11.17,Meat,,,1.0,,,
+698d527c1afe283c4b5e5bf1,Halal Stewing Beef,629cec56061cc278a85326dc,Unknown,20.87,10.43,Meat,,,1.0,,,
+698d52951afe283c4b5e5dad,Halal Stewing Beef,629cec56061cc278a85326dc,Unknown,21.29,10.64,Meat,,,1.0,,,
+698d52b0173fcd3e61a31e2f,Halal Stewing Beef,629cec56061cc278a85326dc,Unknown,20.52,10.26,Meat,,,1.0,,,
+698d52c31afe283c4b5e60e3,Halal Stewing Beef,629cec56061cc278a85326dc,Unknown,26.44,13.22,Meat,,,1.0,,,
