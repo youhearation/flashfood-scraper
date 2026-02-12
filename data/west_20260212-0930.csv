@@ -1,333 +1,382 @@
 ﻿city,beijing_time,local_time,store_id,store_name,item_id,item_name,price,original_price,stock,category
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,69379713a3687e3a3db2d8bc,Unknown,698b796a3887249b9e110706,Boost Protein Drink 20g Protein 237ml,1.5,3.99,4,Grocery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,69379713a3687e3a3db2d8bc,Unknown,69652c1c4af2f7687af33324,Milk Crate,0.01,0.25,7,General Merchandise
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,6984d96dee5a6123d462a3da,"250 Ml Soup ,1 Loaf Bread  , Croissant",9,18,8,Pizza Dough
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,6984d8d7ee5a6123d4628adf,1 Mixed Artisan Frozen,2,6.99,4,Sourdough
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,6984d853e9a0a7e95dffd353,2 Pizza Dough FRESH,4.99,12,9,Pizza Dough
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,6984d7afee5a6123d46250de,Mixed Frozen Pastry  3 Pc,5,20,4,Pizza Dough
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,693afbd1d3fd4f887138df8c,"Mixed Artisan Loaf , Frozen ( 4 Loaves )",9.99,30,19,Artisan Crosta
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,692ddf41ddfa836f5a52b63f,Sandwiches Frozen ( 1 sandwich),3,13,9,Pizza Dough
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5ddef30c9af4e045c44b9d67,Unknown,698cf50d1afe283c4b4942d3,dilly dip,3,7.5,7,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5ddef30c9af4e045c44b9d67,Unknown,698cdee71afe283c4b40a634,Cauliflower Florets,2.99,5.99,6,Fresh Cut Fruits & Vegetables
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5ddef30c9af4e045c44b9d67,Unknown,698b9c403b056c06dee6fa42,Frozen Berries,3,0,8,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5ddef30c9af4e045c44b9d67,Unknown,6988ffede5de2b13bb4746be,candy cane cake poppers,3.25,6.5,3,Bakery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ceda8ff05ab02e99ac14e,Mixed Produce Box #508,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ced919476de5574be1f09,Mixed Produce Box #503,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ced7d9476de5574be1824,Mixed Produce Box #200,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ced3c9476de5574be035e,Mixed Produce Box #702,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ced14e9be5bffd238c76b,Mixed Produce Box #75,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ceccfff05ab02e99a706b,Mixed Produce Box #117,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cecb5173fcd3e618dce6a,Mixed Produce Box #60,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cec9f173fcd3e618dc9c4,Mixed Produce Box #77,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cec6be9be5bffd238873c,Mixed Produce Box #109,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cec379476de5574bdafd4,Mixed Produce Box #501,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cebe09476de5574bd9c2f,Mixed Produce Box #102,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cebc51afe283c4b45a5c9,Mixed Produce Box #105,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698bf4a3e9be5bffd2061d46,assorted bulk  hotdog buns 12 pack,1.44,4,1,Bakery Instore
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698bf46ee9be5bffd20617bc,assorted bulk  buns 12 pack,1.44,4,1,Bakery Instore
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7e3cff05ab02e94882ae,Mixed Produce Box #172,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7da5c4a187cb6c0bb186,Mixed Produce Box #171,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7d9c3b056c06deddd08c,Mixed Produce Box #170,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7d919476de55746e6296,Mixed Produce Box #169,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7d303b056c06deddb000,Mixed Produce Box #167,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7d23ff05ab02e948211c,Mixed Produce Box #166,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c9e9476de55746e159a,Mixed Produce Box #165,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c919476de55746e0fb7,Mixed Produce Box #164,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c879476de55746e0b7c,Mixed Produce Box #163,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c519476de55746df3ae,Mixed Produce Box #161,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c0cc4a187cb6c0b1d39,Mixed Produce Box #159,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c01ff05ab02e947ac99,Mixed Produce Box #158,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7bf5c4a187cb6c0b1407,Mixed Produce Box #157,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7bd03b056c06dedd209a,Mixed Produce Box #155,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7bc6e9be5bffd2e6e3fc,Mixed Produce Box #154,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7bb7ff05ab02e94795cd,Mixed Produce Box #153,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7b8bc4a187cb6c0ae332,Mixed Produce Box #152,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7b74e9be5bffd2e6d38c,Mixed Produce Box #150,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,6988d7c100585416b95429e4,From Our Chef Oven Roasted Ham 900gr,18,40,5,HMR
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d8665730afb77e742c197,Surati Bombay Bhel Mix Snacks (341 g),1.74,3.49,7,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d863a9f2f71d05b103a8d,Clif Bar White Chocolate Macadamia (68 g x 10 ct),11.19,22.39,2,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d861f9f2f71d05b103a2e,Taco Bell Mild Sauce (207 ml),2.14,4.29,13,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d84993887249b9e43d685,Aquafina + vitamines Strawberry Kiwi / Aquafina + Vitamins Strawberry Kiwi (591 ml),0.83,1.67,11,Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d82cacef1e3f1e12b4d85,Amooza Mozzarella Cheddar twists cheese strings  12 units,4.49,8.99,1,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d82aa5f6e0bbdf07e9a8a,Suraj 3.25% Dahi Yogurt (750 g),1.39,2.79,1,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d827e730afb77e742b185,Dairyland 33% Whipping Cream Carton (946 ml),3.84,7.69,7,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698c2f0d730afb77e7253193,Little Sheep Plain Hot Pot Soup Base (130 g),3.19,6.39,14,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698c2ebb9f2f71d05bf4ad3e,Grace Peanut Punch,0.79,1.59,2,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698c2ea85f6e0bbdf062e31a,WAKEMAKE Water Glow Coating Foundation #23 Beige (30 ml),19.99,39.99,3,Beauty
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698aeee410bcc888936418e6,Goldfish Crisps Salt & Vinegar Baked Crackers (177 g),1.58,3.17,3,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae850631683bc34942ba3,Liberte 5% Raspberry Greek Yogurt (100 g x 4 ct),2.69,5.39,1,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae7fe38ce139b2521c690,The Laughing Cow Original Cheese Dippers with Whole Grain Breadsticks (140 g),2.19,4.39,3,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae7ea10bcc888936407e6,Pillsbury Reese's Peanut Butter Cookie Dough (454 g),2.84,5.69,4,Bakery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae5e410bcc8889364014d,Dairyland chocolate milk 946ml,1.5,3,3,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae5aa631683bc3494241b,"Cesar Simply Crafted Chicken, Carrots, & Green Beans Wet Dog Food (37 g)",1.49,2.99,5,
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6989925138ce139b25038e07,Club House La Grille Spicy Montreal Steak Spice Seasoning (157 g),3.79,7.59,3,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6989922a631683bc347995c6,Ritz Cheddar Flavoured Cheese Nibs (180 g),2.34,4.69,1,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698844d060a3aaa4970119e9,Snyder's of Hanover Twisted Nacho Cheese Pretzel Sticks (340 g),3.04,6.09,9,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698706db38ce139b25c98773,Quaker Carrot Muffin Mix (900 g),2.53,5.07,2,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6986e94260a3aaa497e27dc7,Milk Bone Soft & Chewy Steak & Cheese Dog Treats (113 g),1.64,3.29,3,Pet Care
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6986e8e860a3aaa497e27c54,Knorr Poudre de bouillon de bœuf sans sel / Zero Salt Beef Bouillon Powder (160 g),4.64,9.29,11,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69859c26ee5a6123d4782428,Kraft Zesty Italian Dressing (425 ml),2.24,4.49,4,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6985992fd0ddd9320a36731d,PAM No-Stick Air Fryer Cooking Spray (141 g),3.64,7.29,10,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6985991c865b08757739c1c8,Taco Bell Mild Taco Seasoning Mix (28 g),0.89,1.79,8,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698598b5861645b84cd7157b,Breton Bites Pizza Crackers (180 g),2.14,4.29,8,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69844ab4861645b84cbaf8ef,Sempio Korean BBQ Bulgogi Marinade Sauce (900 g),3.99,7.99,4,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698448a5d0ddd9320a1a6514,Knorr Zero Salt Roasted Garlic Bouillon Powder (160 g),4.64,9.29,10,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6984486b861645b84cbaf00d,Mama Sita's Caldereta Spicy Sauce Mix (50 g),0.94,1.89,23,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6982fcfb861645b84c9e1bfd,Gatorade Zero Lemon-Lime Powder Packets (10 ct),4.99,9.99,8,Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6982fcea861645b84c9e1ba9,Carnaby Sweet Cotton Candy Syrup (428 ml),2.74,5.49,6,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6982f9e4861645b84c9e1169,Old Dutch Gourmet Seasoned Pretzel Spindles (250 g),2.74,5.49,7,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6982f85b861645b84c9e0c87,Carnaby Sweet Cotton Candy Syrup (428 ml),2.74,5.49,6,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6981b184865b087577e6a5df,Kraft Stove Top Lower Sodium Chicken Stuffing Mix (120 g),1.44,2.89,6,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6981b13fd0ddd9320ae3b689,Greetalia Honey Dill Sauce (500ml),2.35,4.7,6,Easy Meals
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6981b0a5d0ddd9320ae3b5f4,Carnaby Sweet Sour Watermelon Syrup (428 ml),2.74,5.49,11,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6981b06c865b087577e6a294,Kraft Calorie-Wise Catalina Dressing (425 ml),2.24,4.49,9,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69805ba4865b087577cb4402,Kraft Stove Top Lower Sodium Chicken Stuffing Mix (120 g),1.44,2.89,1,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69805b7e865b087577cb4385,Old El Paso Smart Fiesta Taco Seasoning Mix (24 g),0.94,1.89,5,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69805b13e9a0a7e95d9b5888,Taco Bell Crunch Wrap Supreme Cravings Kit(642 g),4.99,9.99,3,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697f033b865b087577b24cf7,Kraft French Dressing (425 ml),2.24,4.49,8,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697f0327d0ddd9320aafc592,Taco Bell Creamy Baja Sauce (354 ml),2.89,5.79,6,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697db857ee5a6123d4c57e5c,Durex Play 2-in-1 Ylang Ylang Massage Lubricant (200 ml),9.99,19.99,4,Personal Care
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697db7f7861645b84c325593,Enfamil A+ Stage 1 Powder Formula Refill (992 g),37.99,75.99,2,Baby
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697db336e9a0a7e95d6182b0,"Alpo Cookout Classics Pork, Beef, Chicken, & Veggie Dog Food (7.2 kg)",13.15,26.29,1,Pet Care
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3dbabcbf3ae52d1f0219,Blistex Complete Moisture Lip Balm (1 ct),2.94,5.89,151,Beauty
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3cf47d3c1497a47220a9,Gerber Mealtime Beef & Veggies Purée (160 ml),1.49,2.99,2,Baby
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3cadd96ad3ac17018653,Gaviscon Max Relief Berry Blend Acid Reflux & Heartburn Relief Tablets (50 ct),10.44,20.89,1,Medicine
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3c47719e3aa44e7ea49d,Old Spice Sweat Defense Stronger Swagger Dry Spray Antiperspirant (122 g),6.24,12.49,1,Personal Care
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3bf2d96ad3ac17016eb7,Honibe Immune Boost Honey Lozenges (10 ct),2.94,5.89,1,Medicine
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b12c9f9dbb16ff2ffb1d4,Heinz Mango Habanero Mayo,2,4,1,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b1262f9dbb16ff2ffaf5a,Betty Crocker Walnut Banana Bread Mix (348 g),2.34,4.69,5,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b115fcf0decd78831b8f8,Super Q Golden Bihon Cornstarch Sticks (454 g),1.34,2.69,4,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b1070f9dbb16ff2ffa653,Knorr Mexican Beef Bouillon Cubes (63 g),1.39,2.77,21,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b101b07574c87e30b2880,Knorr Beef Bouillon Cubes (63 g),1.99,3.99,20,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b0a40e41ad7f03835403a,Schneider's Juicy Jumbo Three Cheese Jalapeno Loaded Wieners (375 g),5.69,11.39,4,Meat & Fish
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6979bddc4e0f1abfeae5589b,Gatorade Zero Glacier Cherry Powder Packets (10 ct),4.99,9.99,5,Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697877287717e37fa6a37ac5,Quaker Carrot Muffin Mix (900 g),2.53,5.07,7,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69771b633695546c5d49e49d,IAMS Proactive Health Large Breed Chicken & Whole Grains Recipe Dry Dog Food (6.80 kg),19.99,39.99,1,
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69771ab14e0f1abfeab3331f,Gerber Lil' Entrées Mac & Cheese with Peas & Carrots Baby Food (187 g),2.24,4.49,8,Baby
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69732c3e4bb7d7af11a91f93,Gatorade Orange Powder Packets (10 ct),4.79,9.59,2,Vitamins&Supplements
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6971ddb8cf5c56b4f1afbe84,Jennyhouse Salon Code Glam Hair Color Glam Black Hair Dye (70 ml x 2 ct),8.99,17.99,1,Beauty
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6971dd5fcf5c56b4f1afbd3a,SmartSweets Jolly Gems Assorted Flavour Hard Candy (70 g),4.99,9.99,2,Candy
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,696f38c1f3eeb6c636cde93a,Gerber Meals Cheese Ravioli in Tomato Sauce with Mixed Vegetables Baby Food (187 g),1.84,3.69,8,Baby
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,696de627f3eeb6c636b06463,Gits Sambhar Mix (100 g),1.19,2.39,1,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,696b3c4ee4d68b246f0e4639,Chef Boyardee ABC123 Pasta in Tomato Sauce (425 g),1.34,2.69,1,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69689d43ec5bd6df663bb585,Mrs. Dash Lemon Pepper Seasoning Blend (70 g),2.94,5.89,1,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69689ccf72737f9491dae2ae,Gerber Lil' Entrées Mashed Potato & Gravy with Roasted Chicken & Carrots Baby Food (187 g),1.84,3.69,1,Baby
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69689ba1ec5bd6df663bb105,Frank's RedHot Spicy Buffalo Wings Sauce (354 ml),2.89,5.79,2,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,696746f2d19b1cd887bcac80,Maple Leaf Vienna Sausage (113 g),0.83,1.67,4,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,694f4f235e79deb3be62174a,TRESemme Extra Hold Hairspray (311 g),5.89,11.79,1,Beauty
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,692b87b2ddfa836f5a2ef579,CanadaDry Tonic Water,1,2,4,Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,68bc5e026e06f3f1d9451757,L'Oreal Paris Feria Smokey Silver S1 Silver Grey Permanent Hair Dye Kit (1 ct),10.65,21.29,1,Beauty
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,689d126ad4eefc4286f0c86b,Halloween Sprinkles (186g),3.99,7.99,1,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698ded87eae5021837599391,Field Greens & Baby Spinach - Salad Mix,1.99,8,2,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698dd4ea358acaf0fc85b5c1,Beef Empanadas & Chipotle Sauce,3.5,7,1,HMR
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698dd4c0eae50218374def19,"Beef Samosa, 2Pack",3.24,6.49,1,HMR
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698cc3151afe283c4b35d6f9,Macaroni Salad,3.74,7.49,3,HMR
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698cc306e9be5bffd22aaacc,Potato & Egg Salad,3.74,7.49,2,HMR
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698cba89ff05ab02e98911e2,"Cheese Dippers, Original",1.75,3.5,1,Deli
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698cba61ff05ab02e9890455,cheese dippers,2.39,4.79,22,Deli
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c880f9476de55749954a7,Mixed Produce Box #64,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c87c39476de5574993a37,Mixed Produce Box #59,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c87b63b056c06de06f020,Mixed Produce Box #58,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c87b1c4a187cb6c3cd41f,Mixed Produce Box #57,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c879e9476de5574992e49,Mixed Produce Box #56,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c8791e9be5bffd2139636,Mixed Produce Box #55,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c16bcc4a187cb6c30002a,Mixed Produce Box #61,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c13c0ff05ab02e9698914,Mixed Produce Box #94,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c13af3b056c06defc3b93,Mixed Produce Box #64,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c13649476de55748e26c0,Mixed Produce Box #91,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c1336ff05ab02e96981df,Mixed Produce Box #105,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c13099476de55748e2437,Mixed Produce Box #106,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b78f6e9be5bffd2e5c343,Frozen Bananas,1.5,0,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b78e53b056c06dedc4320,FROZEN berries,3,0,4,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b6c9a89dc00ce48fabf9b,Free From Smoked Black Forest Ham,4.25,8.5,6,Deli & Ready Meals
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b6940b6083324ab7bea85,Mixed Produce Box #70,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b68c089dc00ce48f93c00,Mixed Produce Box #68,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b685b988f28c4ca979701,Mixed Produce Box #60,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b6845e5de2b13bbb5d573,Mixed Produce Box #51,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b682d988f28c4ca97865c,Mixed Produce Box #50,5,5,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b473efb240c94378ad05c,Macaroni Salad,3.74,7.49,3,HMR
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,697515eee4fe4341353ac7de,Frozen Bananas,1,0,2,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698bb10f5f6e0bbdf058f0b9,Peanuts unsalted 227g,1.5,3.5,11,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6ff038ce139b2519890e,Inshell Peanuts Unsalted,2,4,4,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6fc110bcc888935c6c25,Inshell Peanuts Salted,2.5,4,7,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6f4260a3aaa497307211,Fancy Nut Mix,11,15,5,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6ef0631683bc348cb934,Super Mac Nut Mix,14,20,5,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6e5d60a3aaa49730527e,Truffle Pistachios,8.5,13.5,5,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6de210bcc888935c3465,Dark Choco Gingers,3,4.5,14,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,697148999f875680704e521a,Choco Salted Caramel Cashews,3.5,4.5,15,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6971485c9f875680704e4823,Yogurt Almonds,2.25,4.5,2,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6971481f077af9138bbd30d3,Matcha Choco Dipped Almonds,3.5,4.5,15,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,697147e9077af9138bbd2b71,Strawberry Choco Dipped Almonds,3.5,4.5,16,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6971479b40e632216a6747a2,Durian Choco Dipped Almonds,3.5,4.5,17,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6971473140e632216a673804,Butter Toffee Almonds,2,3.5,22,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,697146fbe2f09d0b9327b973,Salted Caramel Cashew,2,3.5,25,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,69714698a0eb91f622f82d6c,Whisky Kiss Almonds,2,3.5,36,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6941ca5d3da7f42e08c87057,Cinnamon Banana Chips,1,2,18,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,691f6eb770ccf1c96852c9f3,Coconut Cashews,2,3.5,26,Nuts & Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698baab19476de55747d20c8,Free From Original Breakfast Pork Sausages,3.75,7.5,2,"Bacon, Sausages & Hot Dogs"
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698b96959476de557476b191,"Dairy-Free Whipping Cream Alternative, Coconut based",2.89,5.79,2,Centre of Store
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698a1dd4b6083324ab2bd08d,Organic Cream 10%,1.99,3.99,8,Centre of Store
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698650b7cdf3ac47e4cf2fe7,top dogs,2.99,5.99,8,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d539f1afe283c4b5e6e97,pork rib end chops,10.83,21.66,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d538d9476de5574d376e0,pork rib end chops,10.76,21.52,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d533aff05ab02e9b1723a,pork shoulder blade steak cp,6.61,13.22,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d52f31afe283c4b5e6386,pork shoulder blade steak cp,6.31,12.63,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d52dcff05ab02e9b16b6f,pork shoulder blade steak cp,8.03,16.07,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d52c31afe283c4b5e60e3,Halal Stewing Beef,13.22,26.44,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d527c1afe283c4b5e5bf1,Halal Stewing Beef,10.43,20.87,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d526a173fcd3e61a318e4,Halal Stewing Beef,11.17,22.35,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d524d1afe283c4b5e5800,Bone In Rib and Centr chop fast fry,6.15,12.31,1,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698b97e7c4a187cb6c15e5d2,"Pepperoni, Sliced",3,6,6,Meat
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65bd257956f2d4f45a3da0e2,Unknown,698ce47ce9be5bffd235d1a6,Cucumbers 11 count,2.99,5.99,2,Fruits & Vegetables
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65bd257956f2d4f45a3da0e2,Unknown,698ce43e1afe283c4b42ba7f,Blueberries 1 pint,2.49,4.99,1,Fruits & Vegetables
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65bd257956f2d4f45a3da0e2,Unknown,698ce41c1afe283c4b42acc5,Whole Cremini Mushrooms,2.99,5.99,1,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,65a1a8282f4530e32514d6c3,Unknown,698a3e5c38ce139b25121731,iceberg lettuce,2.5,4.99,7,Produce
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d90055f6e0bbdf07ec3a3,Aquafina Vitamin Orange Tangerine (591 ml),1.25,2.49,8,Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8ffe730afb77e742e009,Clif Bar White Chocolate Macadamia (68 g x 10 ct),11.19,22.39,1,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8ffe9f2f71d05b105639,Mini Cinnamon Croissant,3.29,6.59,1,Bakery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8ffe3887249b9e43fdb7,Taco Bell Mild Sauce (207 ml),1.78,3.57,9,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8ffe5f6e0bbdf07ec389,Aero Scoops Double Chocolate Bar (105 g),1.94,3.89,4,Candy
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8ffecef1e3f1e12b7861,Old Dutch Dill Pickle Potato Chips (235 g),2.64,5.29,10,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a67730afb77e742d030,Charlotte's Mini Strawberry Parfait (133 g),2.14,4.29,3,Bakery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a673887249b9e43ec54,Yoplait Mango Yogurt tubes,1.58,3.17,3,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a67cef1e3f1e12b69c5,Iogo 1.5% Strawberry/Raspberry/Blueberry/Vanilla Creamy Yogurt Variety Pack (100 g x 16 ct),4.24,8.49,1,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a673887249b9e43ec48,Amooza Mozzarella Cheddar Twist Cheese Sticks (228 g),4.49,8.99,3,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a675f6e0bbdf07eb4fc,Smucker's Uncrustables Peanut Butter & Raspberry Spread Sandwich (58 g),0.79,1.59,1,Easy Meals
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a679f2f71d05b104813,Smucker's Uncrustables Peanut Butter & Grape Spread Sandwich (58 g),0.79,1.59,2,Easy Meals
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698c3f3d9f2f71d05bf4ddfd,Maynards Original Gummies (150 g),1.94,3.89,2,Candy
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698c3f259f2f71d05bf4ddb7,"""Balady Bread 7"""" Whole Wheat Pita (300 g)""",1.49,2.99,2,Bakery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698c3f25cef1e3f1e10f49af,Little Sheep Plain Hot Pot Soup Base (130 g),3.19,6.39,24,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698c3f25730afb77e72565ec,WAKEMAKE Water Glow Coating Foundation #23 Beige (30 ml),19.99,39.99,2,Beauty
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698aeb0010bcc88893640f1e,Dairyland 33% Whipping Cream Carton (946 ml),3.84,7.69,8,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698999fb60a3aaa4971b5d1d,Pedigree DentaStix Medium Original Flavour Dog Treats (608 g),6.64,13.29,1,Pet Care
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698999fb10bcc88893489f3b,Renee's Greek Feta Dressing (355 ml),3.74,7.49,4,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6988481d10bcc88893304cdf,Terra Sour Cream & Onion Vegetable Chips (141 g),3.24,6.49,8,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6988480a631683bc34617df2,Snyder's of Hanover Twisted Nacho Cheese Pretzel Sticks (340 g),3.04,6.09,2,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6986fbc760a3aaa497e2cad6,Amooza Mozzarella Cheese Sticks (228 g),4.49,8.99,2,Dairy & Eggs
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6985a050d0ddd9320a3692bb,Taco Bell Mild Taco Seasoning Mix (28 g),0.89,1.79,7,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6985a013e9a0a7e95d158d0f,Knorr Zero Salt Beef Bouillon Powder (160 g),4.64,9.29,9,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69859fe3e9a0a7e95d158c88,PAM No-Stick Air Fryer Cooking Spray (141 g),3.64,7.29,9,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69845853e9a0a7e95df6763d,Knorr Zero Salt Roasted Garlic Bouillon Powder (160 g),4.64,9.29,7,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69845853865b0875771df311,Heinz Tartar Sauce (354 ml),2.94,5.89,1,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69845853e9a0a7e95df67630,Kraft Calorie-Wise Catalina Dressing (425 ml),2.24,4.49,9,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698301c4d0ddd9320afee0fc,Dare Bear Paws Banana Bread Cookies (240 g),2.24,4.49,2,Snacks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698301c4865b08757701d107,Carnaby Sweet Cotton Candy Syrup (428 ml),2.74,5.49,10,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698301c3d0ddd9320afee0ef,Gatorade Zero Lemon-Lime Powder Packets (10 ct),4.99,9.99,2,Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6981b3e1861645b84c827709,Taco Bell Crunchy Taco Cravings Kit (260 g),2.89,5.79,3,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6981b351ee5a6123d41bf76f,Greetalia Honey Dill sauce,2.5,4.99,4,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6981b348861645b84c82754e,Mama Sita's Tocino Marinating Mix (75 g),0.94,1.89,15,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6981b348ee5a6123d41bf74e,Carnaby Sweet Sour Watermelon Syrup (428 ml),2.74,5.49,11,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6980628fe9a0a7e95d9b70e3,Pedigree Vitality+ Hearty Beef & Vegetable Dry Dog Food (8 kg),14.84,29.69,1,
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69806277d0ddd9320ac86a29,Taco Bell Crunchwrap Supreme Cravings Kit (642 g),4.99,9.99,2,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697f0c63e9a0a7e95d7f4814,Taco Bell Creamy Baja Sauce (354 ml),2.89,5.79,3,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697f0b2ee9a0a7e95d7f4110,Kraft French Dressing (425 ml),2.24,4.49,8,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697dbe12865b08757797f640,Gatorade Zero Grape Powder Packets (10 ct),4.79,9.59,4,Vitamins&Supplements
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6d5c99d3c5ddb47f9886,Purina Dog Chow Complete Adult Dry Dog Food (8 kg),14.29,28.59,1,Pet Care
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6d3e99d3c5ddb47f9800,Purina One +Plus Healthy Puppy Lamb Dry Puppy Food (1.81 kg),7.79,15.59,2,Pet Care
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6ced99d3c5ddb47f96c2,Blistex Deep Moisture Renewal Broad Spectrum SPF 15 Lip Protectant (1 ct),3.19,6.39,4,Beauty
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6cc02144d4a53d590063,Imodium Complete Caplets (20 ct),16.74,33.49,6,Medicine
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6c34b18d7c28790198c2,Emergen-C Immune Support Strawberry Crystals (24 ct),10.44,20.89,1,Vitamins&Supplements
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6c27b18d7c28790198a9,Children's Motrin Fever & Pain Relief Dye-Free Berry Oral Suspension (120 ml),5.99,11.99,1,Medicine
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6bee2144d4a53d58fe1d,Honibe Immune Boost Honey Lozenges (10 ct),2.94,5.89,3,Medicine
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6b5e9a94d1f5707d5618,Hershey's Fudge Brownie ,1.89,3.79,2,Candy
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697b1c5be41ad7f038357c14,Heinz Mayonnaise Style Mango Habanero Sauce,2.5,4.99,9,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697b1c53cf0decd78831de09,Betty Crocker Walnut Banana Bread Mix (348 g),2.34,4.69,6,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697b1c53e41ad7f038357be5,Knorr Mexican Beef Bouillon Cubes (63 g),1.38,2.77,13,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697b1a42cf0decd78831d942,Knorr Beef Bouillon Cubes (63 g),1.99,3.99,16,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697879cc3695546c5d633170,Quaker Carrot Muffin Mix (900 g),2.53,5.07,9,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697723d0cf5c56b4f11902fb,Gerber Meals Mac & Cheese with Peas & Carrots Baby Food (187 g),2.24,4.49,7,Baby
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6975ce314e0f1abfea9c5cc8,Heinz Sriracha Mayonnaise,2.49,4.99,2,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697330594e0f1abfea691014,Pearl Milling Company Lite Syrup (710 ml),2.64,5.29,1,Pantry
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,696f3e28f3eeb6c636cdf9e4,Gerber Meals Cheese Ravioli in Tomato Sauce with Mixed Vegetables Baby Food (187 g),1.84,3.69,6,Baby
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6968a886ec5bd6df663bd843,Gerber Lil' Entrées Mashed Potato & Gravy with Roasted Chicken & Carrots Baby Food (187 g),1.84,3.69,2,Baby
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bd304e0f1abfeaaeefcf,Karma Berry Soda 285ml,1.99,3.99,29,Beverages
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bce23695546c5d4594c5,Karma Apple Soda 285ml,1.99,3.99,25,Beverages
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bc9ccf5c56b4f114614f,Karma Sparkling Grape Hydration Drink 285ml,1.99,3.99,25,Beverages
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bbec7717e37fa681e259,Karma Sparkling Watermelon Hydration Drink 285ml,1.99,3.99,26,Beverages
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bb2dcf5c56b4f1144310,Bestropics Coconut Smoothie 355ml,1.99,3.49,49,Beverages
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976ba764bb7d7af11f788f7,New World Almond Butter Crunchy Roasted 500g,9.99,14.99,46,Grocery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,692e5b5c7aaefcde17875128,Everland Himalayan Crystal Salt 500g,2.99,5.99,6,Grocery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,68a523bee4d63010325aea25,Herbafresh Dead Sea Bath Salt 500g,3.99,8.99,15,Grocery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6850875cf14056777f0acbd8,Desert Essence Red Raspberry Shampoo 237ml,7.99,15.99,2,Grocery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,682bbf183e6e6efab73a3fb7,Meditation Incense Cones,6.99,12.99,8,Grocery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,682bbe4326bdd6612a51d31e,Auroshikha 18 Fragrance (Mini Palette),4.99,10.99,4,Grocery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,682bbc06c8802244e1542253,Banat Toothbrush Pack Of 2,2.99,4.99,6,Grocery
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,68213c05b14699806189b2b0,Wildrose Herbal D-TOX Kit 12day Program,54.99,64.99,9,Health & Wellness
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,69580a580c79613ef47f3b0e,Arizona Fruit Snacks,4.29,5.79,4,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,695809afa1132e12bc6a0f28,Trolli Sweet Peach,3.69,4.49,8,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,695808f35e79deb3beeece5d,Warheads Sour Galactic Cubes,3.69,4.29,2,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,695807dba1132e12bc69c1a4,Haribo Peaches,4.19,4.79,6,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,695807500c79613ef47ed200,Pretzel Pzazz Sour Cream & Chive,3.49,4.49,2,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,686af3f226c9413d168f16fa,Pringles Original Party Pack,5.5,5.99,4,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869bae4d45286d9ce5ec328,Sour Strips Wild Cherry,7.99,8.99,3,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869ba9ee76ab7f392353a9d,Sour Strips Pink Lemonade,7.99,8.99,5,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b9bdd45286d9ce5ea147,Sour Strips Tropical Mango,7.99,8.99,1,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b96c26c9413d166fc310,Sour Strips Watermelon,7.99,8.99,1,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b92126c9413d166fb8bf,Sour Strips Cotton Candy,7.99,8.99,1,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b8b6e76ab7f3923502a3,Sour Strips Strawberry,7.99,8.99,4,Snacks & Drinks
-Vancouver,2026-02-12 23:29,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b846e76ab7f39234f42b,Sour Strips Green Apple,7.99,8.99,3,Snacks & Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,690a5bff765cb78193ff6130,Unknown,695c47a1a1132e12bcbd04b0,La Viuda Sanchez,12,15.99,2,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,695402dda1132e12bc23f6a2,Premium Original Saltine Crackers 12 ea,4.99,16.99,3,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,695328310c79613ef42dfbbc,Absolutely! Gluten Free Grain Free Everything Flatbreads 5.29 oz,1.99,7.99,11,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6951bce900bf04afcf01ed9f,4 Sisters Tony Tomato Rice,2.24,4.49,3,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6951bc0d00bf04afcf01da20,Sun Luck Gluten-Free Yum Yum Sauce 13 oz Bottle,3.99,6.99,1,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6951a5bd5e79deb3be858f03,Hershey's Snack Size Milk Chocolate 10.35 oz,3.49,6.99,9,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6951a478bd714bcff1b0edc1,Baby Ruth Fun Size Candy Bar 10.2 oz,3.49,6.99,9,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,694f2b1dbd714bcff186efc2,Brach's Classic Candy Corn 11 oz,1.75,3.49,4,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6938d9c6b9dff1ccb892db41,Mari Wine Vinegar,1,1.99,18,Grocery
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6973ee067717e37fa64549a2,GF chicken tenders ,5.39,8.99,11,Frozen
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6973eda74bb7d7af11bb5369,orange sherbet ice cream,2.4,5.99,2,Ice Cream
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6973ed7e3695546c5d1067d6,cooked shrimp,7.79,12.99,9,Frozen
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,695f22d34ca25d90756c7fe2,Snapple Kiwi Strawberry 6 pack,3.25,6.49,2,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950f5f600bf04afcff34ecf,Smoked Spicy Gouda ,3.5,6.99,9,Dairy & Eggs
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950f3815e79deb3be798390,Pure Leaf Sweet Real Brewed Iced Tea (64 oz),2.08,5.19,6,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950f27ca1132e12bce86d8c,Fruit Gushers Snacks Tropical (4.25 oz),0.87,2.89,29,Snacks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950f1ed00bf04afcff346a9,Ghirardelli Premium Brownie Mix Double Chocolate Box (18 oz),2.34,7.79,4,Pantry
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950e518bd714bcff1a35da5,Trojan BareSkin Condoms Lubricated Latex (10 ct),5.72,14.29,4,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950e4520c79613ef4053c6d,Soy Vay Marinade & Sauce Veri Veri Teriyaki (21 oz),2.16,7.19,5,Pantry
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6927fb17c25da3ef8d1c8676,Plan B One-Step Emergency Contraceptive Tablet,18.4,45.99,3,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,690849870a37bb93e974ec28,Cera Ce foaming cleanser ,6.88,17.19,5,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68f6bcc05c6c2e79c3c8a73e,Suave Deodorant ,1.5,2.99,9,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68ec7bbe16a25ac6c1882c5d,McCormick Chili Powder (2.5 oz),2.45,4.89,4,Pantry
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68ec7acc6305f489a3dbeb5d,McCormick Black Pepper ,2.4,7.99,11,Pantry
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68ec77666305f489a3dbc1d3,McCormick Oregano Leaves (0.75oz),2.2,4.39,3,Pantry
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e1f5d584e763e3612bc8,Coppertone Baby Pure & Simple SPF 50 100% Mineral Sunscreen Lotion (6 oz),6.76,16.89,2,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e16df3e307fa672b8d4c,Zarbee's Naturals Children's Sleep Chewable Tablets with Melatonin (30 ct),4.16,10.39,4,Medicine
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e12ef3e307fa672b8ce9,Pepto-Bismol Kids Bubble Gum Flavor Chewable Tablets (24ct),4.68,11.69,6,Medicine
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e1099a475e1ca50ae559,Mylicon Infants' Dye-Free Drops Gas Relief Syrup (1 oz),5.16,12.89,3,Medicine
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e0cfb964b54ef38d3bc5,Tylenol Childrens Pain and Fever Reliever Grape Oral Suspension (4 oz),5.72,14.29,6,Medicine
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2dad6b964b54ef38d2a00,Desitin Maximum Strength Diaper Rash Paste (4 oz),4.12,10.29,10,Baby
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2d9d5b964b54ef38d2717,Crest 3D White Radiant Mint Fluoride Anticavity Toothpaste (0.85 oz),1.48,3.69,9,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6864dca2e76ab7f392b50e37,Plan B One-Step Emergency Contraceptive Tablet,18.4,45.99,1,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6864b0dbd45286d9ced9740d,Vaseline Healing Petroleum Jelly Original Unscented (1.75 oz),2.08,5.19,5,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6864ac8a26c9413d16dda12e,Banana Boat After Sun Soothing Aloe Gel (16 oz),4.16,10.39,1,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68649894d45286d9ced79f69,Genabio COVID-19 Rapid Self-Test Kit (2 ct),4.68,11.69,8,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,698b769ccef1e3f1e1fcc252,Ling Ling Pork & Vegetable Potstickers (56oz),11.81,19.69,2,Frozen
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,698b76969f2f71d05be25c1e,Snapple All Natural Juice Kiwi Strawberry (16 oz),1.08,2.69,6,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ed9f10bcc888933c5453,Arrowhead 100% Mountain Spring Water Plastic Bottles (16.9 oz x 6 ct),2.33,3.89,1,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec71631683bc346d8f0d,Orville Redenbacher's Popcorn Kettle Corn (3.29 oz x 6 ct),2.34,7.79,2,Snacks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec5b10bcc888933c2058,La Costena Pickled Jalapeno Peppers (26 oz),2.51,3.89,1,Pantry
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec4738ce139b25f5f7a5,Popcorners White Cheddar Popped-Corn Snack (7oz),4.47,6.39,1,Snacks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec1910bcc888933c15bb,solo pomodoro mutti Parma sauce for pizza Napoli,4.19,6.99,1,Pantry
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec0038ce139b25f5ed42,damaged Kool Aid Bursts Soda Berry Blue Artificially Flavored (6.75 oz x 6 ct),1.97,3.29,1,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988e3fe60a3aaa4970d02df,Minute Maid Juice Fruit Punch (59 oz),2.09,2.99,8,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988e3d060a3aaa4970cfc01,Organic Valley Ultra Pasteurized 2% Reduced Fat Milk (1 gal),6.36,12.59,4,Dairy & Eggs
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,697fc835ee5a6123d4f34412,Nabisco Premium Original Saltine Crackers (1 lb),3.42,4.79,1,Snacks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,697fc425861645b84c5c497f,Lean Cuisine Apple Cranberry Chicken Ready Meal (9oz),2.69,4.49,8,Frozen
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,697d8c8bd0ddd9320a939eeb,Bolci Dubai Chocolate Bar ,4.44,14.79,135,Candy
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696f55783e76e9ec14e27c6b,5-Hour Extra Strength Energy Shot Grape (1.93 oz),1.72,4.29,1,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696f5542e4d68b246f61cac2,"""Equalline Small 2""""x2"""" Sterile Gauze Pads (25ct)""",1.6,3.99,1,Other
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696f547b3e76e9ec14e27b0e,U by Kotex Click Compact Super Plus Unscented Tampons (16 ct),3.64,9.09,8,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696e12bae4d68b246f448600,AI Freeze Dried Nerdy Bursts Candy (1 oz),1.89,6.29,5,Candy
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696e129372737f94913f008a,Lucas Polvos Watermelon Flavored Candy,0.3,0.99,3,Candy
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696d5f2ff3eeb6c636a71210,Gerber Puffs Blueberry 1.48oz,1.29,4.29,1,Baby
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696d5e163e76e9ec14bf4666,Revlon Colorsilk Permanent Hair Dye Shade 10 Black,2.2,5.49,5,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696d5d67e4d68b246f3a3689,TRESemme Extra Hold Hairspray 1.5oz can,1.4,3.49,9,Personal Care
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696d590a3e76e9ec14beb727,Amy's Kitchen Bowls Broccoli and Cheddar Bake (9.5 oz),5.09,8.49,9,Frozen
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6943df2d00bf04afcf256458,New Creation Krümkake Butter Pecan Cream Soda (12 oz),0.8,1.99,16,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,68feb0bd7cd892ca5617f2e4,Moonglade Craft Soda Organic Root Beer 4 pack,5.2,12.99,3,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,68ba4efaddf4c4ea82be1eb8,Nut Harvest Salted Whole Peanuts,0.8,1.99,56,Snacks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,687a9c2e4b996a2220ad4556,A&W Zero Sugar Soda Root Beer (20 oz),1.32,3.29,1,Drinks
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,687021d0ec9500620a8fa5e3,beech nut,1.12,2.79,2,Baby
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,677dfd51e9250f1b38627880,Morton & Basset Ground Nutmeg (2.3oz),6.8,16.99,1,Pantry
-Seattle,2026-02-12 23:29,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,672d9fe0ce2a4ce4e780b931,Winx Health Restart Morning After Pill Levonorgestrel 1.5 mg Tablet,21,41.99,10,Personal Care
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,69379713a3687e3a3db2d8bc,Unknown,698b796a3887249b9e110706,Boost Protein Drink 20g Protein 237ml,1.5,3.99,4,Grocery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,69379713a3687e3a3db2d8bc,Unknown,69652c1c4af2f7687af33324,Milk Crate,0.01,0.25,7,General Merchandise
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,6984d96dee5a6123d462a3da,"250 Ml Soup ,1 Loaf Bread  , Croissant",9,18,8,Pizza Dough
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,6984d8d7ee5a6123d4628adf,1 Mixed Artisan Frozen,2,6.99,4,Sourdough
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,6984d853e9a0a7e95dffd353,2 Pizza Dough FRESH,4.99,12,9,Pizza Dough
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,6984d7afee5a6123d46250de,Mixed Frozen Pastry  3 Pc,5,20,4,Pizza Dough
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,693afbd1d3fd4f887138df8c,"Mixed Artisan Loaf , Frozen ( 4 Loaves )",9.99,30,19,Artisan Crosta
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67e6b1577b5f59b1bba8c7c4,Unknown,692ddf41ddfa836f5a52b63f,Sandwiches Frozen ( 1 sandwich),3,13,9,Pizza Dough
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5ddef30c9af4e045c44b9d67,Unknown,698cf50d1afe283c4b4942d3,dilly dip,3,7.5,7,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5ddef30c9af4e045c44b9d67,Unknown,698cdee71afe283c4b40a634,Cauliflower Florets,2.99,5.99,6,Fresh Cut Fruits & Vegetables
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5ddef30c9af4e045c44b9d67,Unknown,698b9c403b056c06dee6fa42,Frozen Berries,3,0,8,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5ddef30c9af4e045c44b9d67,Unknown,6988ffede5de2b13bb4746be,candy cane cake poppers,3.25,6.5,3,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e158f5e6d54d209100d8b,"Roti Wrap Original, 15pieces",1.89,3.79,8,"Wraps, Pitas & Flatbread"
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e15721df81d9c30b41815,"Roti Wrap Whole Wheat, 15pieces",1.89,3.79,6,"Wraps, Pitas & Flatbread"
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e1565c16c2d12ccb46121,"Cake Poppers, Strawberry",2.89,5.79,2,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e154f9bcb5948f0f6d683,donut paczki,2.75,5.5,1,Bakery Instore
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e153c590b96aae553769b,With Gusto! Hamburger Buns Original,2.14,4.29,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e151e9bcb5948f0f6c8bf,FM MUFFINS BERRY MEDLEY,3.25,6.5,4,Other
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e150d590b96aae5536447,Brioche Hot Dog Buns,2.5,5,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e14de5e6d54d2090fc0e3,"La Baguetterie Bread, White Miche Sliced",2.62,5.25,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e14d4c16c2d12ccb42b68,Furlani Original Garlic Toast 16 Thick Cut Slices,2.5,5,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e14cb590b96aae55351b7,Furlani Parmesan Garlic Toast 16 Thick Cut Slices,2.5,5,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e13129bcb5948f0f62765,White Bread,1.5,3,4,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e12d4c16c2d12ccb33ab8,White Bread Unsliced Club Pack,3.25,6.5,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e12a5c16c2d12ccb328a8,"Ciabatta Demi, Multi-grain",1.62,3.25,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e125c1df81d9c30b2fb8f,Sesame Baguette,1.75,3.5,3,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e1246c16c2d12ccb2f973,Ciabatta Cluster,1.75,3.5,2,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e123c1df81d9c30b2ec64,"7 Grain Bread, Sliced",1.75,3.5,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e12299bcb5948f0f5d230,"Instore Baked Raspberry Turnovers, 6 pack",2.5,5,3,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e121ac16c2d12ccb2e28a,"Instore Baked Maple Pecan Danishes, 4 pack",3.24,6.49,2,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e1205c16c2d12ccb2d9e3,Croissant Cheese Mini 20pk,3.5,7,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e11efaecda2a8af68167f,"Instore Baked Berry Burst Strudels, 6 pack",3,6,5,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698e0914d7057f02608fde75,Flavored Ground Coffee The Original Irish Cream,8.49,16.99,4,Centre of Store
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ceda8ff05ab02e99ac14e,Mixed Produce Box #508,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ced919476de5574be1f09,Mixed Produce Box #503,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ced7d9476de5574be1824,Mixed Produce Box #200,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ced3c9476de5574be035e,Mixed Produce Box #702,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ced14e9be5bffd238c76b,Mixed Produce Box #75,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698ceccfff05ab02e99a706b,Mixed Produce Box #117,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cecb5173fcd3e618dce6a,Mixed Produce Box #60,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cec9f173fcd3e618dc9c4,Mixed Produce Box #77,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cec6be9be5bffd238873c,Mixed Produce Box #109,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cec379476de5574bdafd4,Mixed Produce Box #501,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cebe09476de5574bd9c2f,Mixed Produce Box #102,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698cebc51afe283c4b45a5c9,Mixed Produce Box #105,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698bf4a3e9be5bffd2061d46,assorted bulk  hotdog buns 12 pack,1.44,4,1,Bakery Instore
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698bf46ee9be5bffd20617bc,assorted bulk  buns 12 pack,1.44,4,1,Bakery Instore
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7e3cff05ab02e94882ae,Mixed Produce Box #172,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7da5c4a187cb6c0bb186,Mixed Produce Box #171,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7d9c3b056c06deddd08c,Mixed Produce Box #170,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7d919476de55746e6296,Mixed Produce Box #169,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7d303b056c06deddb000,Mixed Produce Box #167,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7d23ff05ab02e948211c,Mixed Produce Box #166,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c9e9476de55746e159a,Mixed Produce Box #165,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c919476de55746e0fb7,Mixed Produce Box #164,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c879476de55746e0b7c,Mixed Produce Box #163,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c519476de55746df3ae,Mixed Produce Box #161,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c0cc4a187cb6c0b1d39,Mixed Produce Box #159,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7c01ff05ab02e947ac99,Mixed Produce Box #158,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7bf5c4a187cb6c0b1407,Mixed Produce Box #157,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7bd03b056c06dedd209a,Mixed Produce Box #155,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7bc6e9be5bffd2e6e3fc,Mixed Produce Box #154,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7bb7ff05ab02e94795cd,Mixed Produce Box #153,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7b8bc4a187cb6c0ae332,Mixed Produce Box #152,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,698b7b74e9be5bffd2e6d38c,Mixed Produce Box #150,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76c8894a4ebbfd704b8,Unknown,6988d7c100585416b95429e4,From Our Chef Oven Roasted Ham 900gr,18,40,5,HMR
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d8665730afb77e742c197,Surati Bombay Bhel Mix Snacks (341 g),1.74,3.49,7,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d863a9f2f71d05b103a8d,Clif Bar White Chocolate Macadamia (68 g x 10 ct),11.19,22.39,2,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d861f9f2f71d05b103a2e,Taco Bell Mild Sauce (207 ml),2.14,4.29,13,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d84993887249b9e43d685,Aquafina + vitamines Strawberry Kiwi / Aquafina + Vitamins Strawberry Kiwi (591 ml),0.83,1.67,11,Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d82cacef1e3f1e12b4d85,Amooza Mozzarella Cheddar twists cheese strings  12 units,4.49,8.99,1,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d82aa5f6e0bbdf07e9a8a,Suraj 3.25% Dahi Yogurt (750 g),1.39,2.79,1,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698d827e730afb77e742b185,Dairyland 33% Whipping Cream Carton (946 ml),3.84,7.69,7,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698c2f0d730afb77e7253193,Little Sheep Plain Hot Pot Soup Base (130 g),3.19,6.39,14,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698c2ebb9f2f71d05bf4ad3e,Grace Peanut Punch,0.79,1.59,2,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698c2ea85f6e0bbdf062e31a,WAKEMAKE Water Glow Coating Foundation #23 Beige (30 ml),19.99,39.99,3,Beauty
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698aeee410bcc888936418e6,Goldfish Crisps Salt & Vinegar Baked Crackers (177 g),1.58,3.17,3,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae850631683bc34942ba3,Liberte 5% Raspberry Greek Yogurt (100 g x 4 ct),2.69,5.39,1,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae7fe38ce139b2521c690,The Laughing Cow Original Cheese Dippers with Whole Grain Breadsticks (140 g),2.19,4.39,3,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae7ea10bcc888936407e6,Pillsbury Reese's Peanut Butter Cookie Dough (454 g),2.84,5.69,4,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae5e410bcc8889364014d,Dairyland chocolate milk 946ml,1.5,3,3,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698ae5aa631683bc3494241b,"Cesar Simply Crafted Chicken, Carrots, & Green Beans Wet Dog Food (37 g)",1.49,2.99,5,
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6989925138ce139b25038e07,Club House La Grille Spicy Montreal Steak Spice Seasoning (157 g),3.79,7.59,3,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6989922a631683bc347995c6,Ritz Cheddar Flavoured Cheese Nibs (180 g),2.34,4.69,1,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698844d060a3aaa4970119e9,Snyder's of Hanover Twisted Nacho Cheese Pretzel Sticks (340 g),3.04,6.09,9,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698706db38ce139b25c98773,Quaker Carrot Muffin Mix (900 g),2.53,5.07,2,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6986e94260a3aaa497e27dc7,Milk Bone Soft & Chewy Steak & Cheese Dog Treats (113 g),1.64,3.29,3,Pet Care
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6986e8e860a3aaa497e27c54,Knorr Poudre de bouillon de bœuf sans sel / Zero Salt Beef Bouillon Powder (160 g),4.64,9.29,11,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69859c26ee5a6123d4782428,Kraft Zesty Italian Dressing (425 ml),2.24,4.49,4,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6985992fd0ddd9320a36731d,PAM No-Stick Air Fryer Cooking Spray (141 g),3.64,7.29,10,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6985991c865b08757739c1c8,Taco Bell Mild Taco Seasoning Mix (28 g),0.89,1.79,8,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698598b5861645b84cd7157b,Breton Bites Pizza Crackers (180 g),2.14,4.29,8,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69844ab4861645b84cbaf8ef,Sempio Korean BBQ Bulgogi Marinade Sauce (900 g),3.99,7.99,4,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,698448a5d0ddd9320a1a6514,Knorr Zero Salt Roasted Garlic Bouillon Powder (160 g),4.64,9.29,10,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6984486b861645b84cbaf00d,Mama Sita's Caldereta Spicy Sauce Mix (50 g),0.94,1.89,23,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6982fcfb861645b84c9e1bfd,Gatorade Zero Lemon-Lime Powder Packets (10 ct),4.99,9.99,8,Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6982fcea861645b84c9e1ba9,Carnaby Sweet Cotton Candy Syrup (428 ml),2.74,5.49,6,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6982f9e4861645b84c9e1169,Old Dutch Gourmet Seasoned Pretzel Spindles (250 g),2.74,5.49,7,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6982f85b861645b84c9e0c87,Carnaby Sweet Cotton Candy Syrup (428 ml),2.74,5.49,6,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6981b184865b087577e6a5df,Kraft Stove Top Lower Sodium Chicken Stuffing Mix (120 g),1.44,2.89,6,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6981b13fd0ddd9320ae3b689,Greetalia Honey Dill Sauce (500ml),2.35,4.7,6,Easy Meals
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6981b0a5d0ddd9320ae3b5f4,Carnaby Sweet Sour Watermelon Syrup (428 ml),2.74,5.49,11,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6981b06c865b087577e6a294,Kraft Calorie-Wise Catalina Dressing (425 ml),2.24,4.49,9,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69805ba4865b087577cb4402,Kraft Stove Top Lower Sodium Chicken Stuffing Mix (120 g),1.44,2.89,1,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69805b7e865b087577cb4385,Old El Paso Smart Fiesta Taco Seasoning Mix (24 g),0.94,1.89,5,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69805b13e9a0a7e95d9b5888,Taco Bell Crunch Wrap Supreme Cravings Kit(642 g),4.99,9.99,3,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697f033b865b087577b24cf7,Kraft French Dressing (425 ml),2.24,4.49,8,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697f0327d0ddd9320aafc592,Taco Bell Creamy Baja Sauce (354 ml),2.89,5.79,6,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697db857ee5a6123d4c57e5c,Durex Play 2-in-1 Ylang Ylang Massage Lubricant (200 ml),9.99,19.99,4,Personal Care
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697db7f7861645b84c325593,Enfamil A+ Stage 1 Powder Formula Refill (992 g),37.99,75.99,2,Baby
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697db336e9a0a7e95d6182b0,"Alpo Cookout Classics Pork, Beef, Chicken, & Veggie Dog Food (7.2 kg)",13.15,26.29,1,Pet Care
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3dbabcbf3ae52d1f0219,Blistex Complete Moisture Lip Balm (1 ct),2.94,5.89,151,Beauty
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3cf47d3c1497a47220a9,Gerber Mealtime Beef & Veggies Purée (160 ml),1.49,2.99,2,Baby
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3cadd96ad3ac17018653,Gaviscon Max Relief Berry Blend Acid Reflux & Heartburn Relief Tablets (50 ct),10.44,20.89,1,Medicine
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3c47719e3aa44e7ea49d,Old Spice Sweat Defense Stronger Swagger Dry Spray Antiperspirant (122 g),6.24,12.49,1,Personal Care
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697d3bf2d96ad3ac17016eb7,Honibe Immune Boost Honey Lozenges (10 ct),2.94,5.89,1,Medicine
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b12c9f9dbb16ff2ffb1d4,Heinz Mango Habanero Mayo,2,4,1,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b1262f9dbb16ff2ffaf5a,Betty Crocker Walnut Banana Bread Mix (348 g),2.34,4.69,5,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b115fcf0decd78831b8f8,Super Q Golden Bihon Cornstarch Sticks (454 g),1.34,2.69,4,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b1070f9dbb16ff2ffa653,Knorr Mexican Beef Bouillon Cubes (63 g),1.39,2.77,21,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b101b07574c87e30b2880,Knorr Beef Bouillon Cubes (63 g),1.99,3.99,20,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697b0a40e41ad7f03835403a,Schneider's Juicy Jumbo Three Cheese Jalapeno Loaded Wieners (375 g),5.69,11.39,4,Meat & Fish
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6979bddc4e0f1abfeae5589b,Gatorade Zero Glacier Cherry Powder Packets (10 ct),4.99,9.99,5,Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,697877287717e37fa6a37ac5,Quaker Carrot Muffin Mix (900 g),2.53,5.07,7,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69771b633695546c5d49e49d,IAMS Proactive Health Large Breed Chicken & Whole Grains Recipe Dry Dog Food (6.80 kg),19.99,39.99,1,
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69771ab14e0f1abfeab3331f,Gerber Lil' Entrées Mac & Cheese with Peas & Carrots Baby Food (187 g),2.24,4.49,8,Baby
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69732c3e4bb7d7af11a91f93,Gatorade Orange Powder Packets (10 ct),4.79,9.59,2,Vitamins&Supplements
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6971ddb8cf5c56b4f1afbe84,Jennyhouse Salon Code Glam Hair Color Glam Black Hair Dye (70 ml x 2 ct),8.99,17.99,1,Beauty
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,6971dd5fcf5c56b4f1afbd3a,SmartSweets Jolly Gems Assorted Flavour Hard Candy (70 g),4.99,9.99,2,Candy
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,696f38c1f3eeb6c636cde93a,Gerber Meals Cheese Ravioli in Tomato Sauce with Mixed Vegetables Baby Food (187 g),1.84,3.69,8,Baby
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,696de627f3eeb6c636b06463,Gits Sambhar Mix (100 g),1.19,2.39,1,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,696b3c4ee4d68b246f0e4639,Chef Boyardee ABC123 Pasta in Tomato Sauce (425 g),1.34,2.69,1,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69689d43ec5bd6df663bb585,Mrs. Dash Lemon Pepper Seasoning Blend (70 g),2.94,5.89,1,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69689ccf72737f9491dae2ae,Gerber Lil' Entrées Mashed Potato & Gravy with Roasted Chicken & Carrots Baby Food (187 g),1.84,3.69,1,Baby
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,69689ba1ec5bd6df663bb105,Frank's RedHot Spicy Buffalo Wings Sauce (354 ml),2.89,5.79,2,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,696746f2d19b1cd887bcac80,Maple Leaf Vienna Sausage (113 g),0.83,1.67,4,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,694f4f235e79deb3be62174a,TRESemme Extra Hold Hairspray (311 g),5.89,11.79,1,Beauty
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,692b87b2ddfa836f5a2ef579,CanadaDry Tonic Water,1,2,4,Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,68bc5e026e06f3f1d9451757,L'Oreal Paris Feria Smokey Silver S1 Silver Grey Permanent Hair Dye Kit (1 ct),10.65,21.29,1,Beauty
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65e8f30bcb43951cbd853f59,Unknown,689d126ad4eefc4286f0c86b,Halloween Sprinkles (186g),3.99,7.99,1,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e18359bcb5948f0f7d4fb,fresh rainbow trout whole,5.84,11.68,1,Seafood
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e1828664d59f4863fafaf,fresh rainbow trout whole,7.24,14.49,1,Seafood
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e1818c16c2d12ccb5a3cd,previous frozen scallops,6.45,12.91,1,Seafood
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e18071df81d9c30b501c5,previous frozen scallops,5.37,10.74,1,Seafood
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e17e5664d59f4863f93a1,fresh ASC tilapia fillets regular tray,3.24,6.49,1,Seafood
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e14289bcb5948f0f6755e,cheese dippers,2.39,4.79,3,Deli
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e140f1df81d9c30b3a950,Free From Smoked Black Forest Ham,4.25,8.5,9,Deli & Ready Meals
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e01db7e734fd1240509e0,Skim Milk 0%,1.47,2.95,3,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e01c0d7057f02608dce7a,1% Chocolate Milk Beverage,1.33,2.67,1,Centre of Store
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e01a9eae502183762e156,2% Milk,0.75,1.51,9,Dairy and Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698e0179eae502183762cf3a,Coffee Cream 18% M.F.,1.81,3.62,2,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698dfd05358acaf0fc994e97,Bio-K+ Strawberry 6 Pack,14.99,29.99,1,Natural Foods
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698dfcd7358acaf0fc993cb4,"Original, Vanilla",14.99,29.99,1,Natural Foods
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698cc3151afe283c4b35d6f9,Macaroni Salad,3.74,7.49,3,HMR
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698cc306e9be5bffd22aaacc,Potato & Egg Salad,3.74,7.49,2,HMR
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698cba89ff05ab02e98911e2,"Cheese Dippers, Original",1.75,3.5,1,Deli
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698cba61ff05ab02e9890455,cheese dippers,2.39,4.79,22,Deli
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c880f9476de55749954a7,Mixed Produce Box #64,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c87c39476de5574993a37,Mixed Produce Box #59,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c87b63b056c06de06f020,Mixed Produce Box #58,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c87b1c4a187cb6c3cd41f,Mixed Produce Box #57,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c879e9476de5574992e49,Mixed Produce Box #56,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c8791e9be5bffd2139636,Mixed Produce Box #55,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c16bcc4a187cb6c30002a,Mixed Produce Box #61,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c13c0ff05ab02e9698914,Mixed Produce Box #94,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c13af3b056c06defc3b93,Mixed Produce Box #64,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c13649476de55748e26c0,Mixed Produce Box #91,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c1336ff05ab02e96981df,Mixed Produce Box #105,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698c13099476de55748e2437,Mixed Produce Box #106,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b78f6e9be5bffd2e5c343,Frozen Bananas,1.5,0,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b78e53b056c06dedc4320,FROZEN berries,3,0,4,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b6c9a89dc00ce48fabf9b,Free From Smoked Black Forest Ham,4.25,8.5,6,Deli & Ready Meals
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b6940b6083324ab7bea85,Mixed Produce Box #70,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b68c089dc00ce48f93c00,Mixed Produce Box #68,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b685b988f28c4ca979701,Mixed Produce Box #60,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b6845e5de2b13bbb5d573,Mixed Produce Box #51,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b682d988f28c4ca97865c,Mixed Produce Box #50,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,698b473efb240c94378ad05c,Macaroni Salad,3.74,7.49,3,HMR
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5d0bd76b8894a4ebbfd7048a,Unknown,697515eee4fe4341353ac7de,Frozen Bananas,1,0,2,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e1857590b96aae5544090,Macaroni Salad,1.5,3,4,HMR
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e18321df81d9c30b51481,Italian Deli Meat Sandwich,1.99,6,8,HMR
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e17d99bcb5948f0f7b4d7,Original Thin Pizza Crusts Thin,1.99,4.69,6,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e17aec16c2d12ccb5729a,Kaiser Buns,1.99,4,2,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e17421df81d9c30b4adee,Tortillas Triple Baked 50/50 Corn-Wheat,1.25,4.69,24,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e1718c16c2d12ccb53234,Prebiotic Multigrain Bread,1.99,4.29,3,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e1702c16c2d12ccb52787,Original English Muffins,1.25,5.5,2,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e16c7590b96aae553dafa,"10 Medium Tortillas, Whole Wheat",1.99,4.69,4,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e167ec16c2d12ccb4ddfa,Original English Muffins,1.5,3,2,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e16641df81d9c30b46499,Original Bagels,1.99,4.49,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e1651590b96aae553c000,Boston Cream Mini Doughnuts,1.99,4.5,1,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e163f9bcb5948f0f72a06,Pound Cake,1.99,4,2,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e1624590b96aae553b3c5,Multi Grain Morning Rounds,1.99,3.25,3,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e154e1df81d9c30b40e82,Cooked Turkey Breast Slices,1.99,3.75,3,Deli
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e152ec16c2d12ccb44852,Turkey And Swiss Cheese Sandwich,1.99,6,4,HMR
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,6969181f05a95a3633344338,Unknown,698e150d9bcb5948f0f6c1c7,Cold Cut Trio Sandwich,1.99,6,3,HMR
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698bb10f5f6e0bbdf058f0b9,Peanuts unsalted 227g,1.5,3.5,11,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6ff038ce139b2519890e,Inshell Peanuts Unsalted,2,4,4,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6fc110bcc888935c6c25,Inshell Peanuts Salted,2.5,4,7,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6f4260a3aaa497307211,Fancy Nut Mix,11,15,5,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6ef0631683bc348cb934,Super Mac Nut Mix,14,20,5,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6e5d60a3aaa49730527e,Truffle Pistachios,8.5,13.5,3,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,698a6de210bcc888935c3465,Dark Choco Gingers,3,4.5,12,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,697148999f875680704e521a,Choco Salted Caramel Cashews,3.5,4.5,15,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6971485c9f875680704e4823,Yogurt Almonds,2.25,4.5,2,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6971481f077af9138bbd30d3,Matcha Choco Dipped Almonds,3.5,4.5,15,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,697147e9077af9138bbd2b71,Strawberry Choco Dipped Almonds,3.5,4.5,16,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6971479b40e632216a6747a2,Durian Choco Dipped Almonds,3.5,4.5,17,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6971473140e632216a673804,Butter Toffee Almonds,2,3.5,22,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,697146fbe2f09d0b9327b973,Salted Caramel Cashew,2,3.5,25,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,69714698a0eb91f622f82d6c,Whisky Kiss Almonds,2,3.5,36,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,6941ca5d3da7f42e08c87057,Cinnamon Banana Chips,1,2,18,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,691b59a5669ef62168a65bdb,Unknown,691f6eb770ccf1c96852c9f3,Coconut Cashews,2,3.5,26,Nuts & Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698e08e07e734fd124080669,Halal Stewing Beef,10.18,20.37,1,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698e08ce9bcb5948f0f28e87,Free From Split Turkey Wings,3.41,6.82,1,"Legs, Drumsticks & Wings"
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698e0894eae502183765c29a,Beef Top Sirloin Steak,8.87,17.75,1,Beef
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698e084b9bcb5948f0f256e5,Sirloin tip steak,10.24,20.48,1,Beef
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698e081c9bcb5948f0f240cf,Free From Split Turkey Wings,3.61,7.22,1,"Legs, Drumsticks & Wings"
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698baab19476de55747d20c8,Free From Original Breakfast Pork Sausages,3.75,7.5,2,"Bacon, Sausages & Hot Dogs"
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698b96959476de557476b191,"Dairy-Free Whipping Cream Alternative, Coconut based",2.89,5.79,2,Centre of Store
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698a1dd4b6083324ab2bd08d,Organic Cream 10%,1.99,3.99,8,Centre of Store
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,5fac3e04d7528a3c966b13a4,Unknown,698650b7cdf3ac47e4cf2fe7,top dogs,2.99,5.99,8,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d539f1afe283c4b5e6e97,pork rib end chops,10.83,21.66,1,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d538d9476de5574d376e0,pork rib end chops,10.76,21.52,1,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d533aff05ab02e9b1723a,pork shoulder blade steak cp,6.61,13.22,1,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d52f31afe283c4b5e6386,pork shoulder blade steak cp,6.31,12.63,1,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d52dcff05ab02e9b16b6f,pork shoulder blade steak cp,8.03,16.07,1,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d52c31afe283c4b5e60e3,Halal Stewing Beef,13.22,26.44,1,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698d526a173fcd3e61a318e4,Halal Stewing Beef,11.17,22.35,1,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,629cec56061cc278a85326dc,Unknown,698b97e7c4a187cb6c15e5d2,"Pepperoni, Sliced",3,6,6,Meat
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65bd257956f2d4f45a3da0e2,Unknown,698e14785e6d54d2090fa300,Naturally Imperfect English Cucumber 3lb Bag,3,6,2,Fruits & Vegetables
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65bd257956f2d4f45a3da0e2,Unknown,698e14595e6d54d2090f9343,Apple Honey crisp 3LB,3.5,7,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65bd257956f2d4f45a3da0e2,Unknown,698e142ac16c2d12ccb3e1b7,"Ambrosia Apples, 5 lb Bag",3.49,6.99,1,Fruits & Vegetables
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65bd257956f2d4f45a3da0e2,Unknown,698e14139bcb5948f0f6713e,Mini Cucumbers (opened package),2.24,4.49,1,Fruits & Vegetables
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65bd257956f2d4f45a3da0e2,Unknown,698ce41c1afe283c4b42acc5,Whole Cremini Mushrooms,2.99,5.99,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,65a1a8282f4530e32514d6c3,Unknown,698a3e5c38ce139b25121731,iceberg lettuce,2.5,4.99,6,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698e123d3887249b9e4cbef9,Mixed Produce Bundle #3,5,5,1,Produce
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8ffe5f6e0bbdf07ec389,Aero Scoops Double Chocolate Bar (105 g),1.94,3.89,1,Candy
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8ffecef1e3f1e12b7861,Old Dutch Dill Pickle Potato Chips (235 g),2.64,5.29,9,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a67730afb77e742d030,Charlotte's Mini Strawberry Parfait (133 g),2.14,4.29,3,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a673887249b9e43ec54,Yoplait Mango Yogurt tubes,1.58,3.17,3,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a673887249b9e43ec48,Amooza Mozzarella Cheddar Twist Cheese Sticks (228 g),4.49,8.99,2,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698d8a679f2f71d05b104813,Smucker's Uncrustables Peanut Butter & Grape Spread Sandwich (58 g),0.79,1.59,2,Easy Meals
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698c3f3d9f2f71d05bf4ddfd,Maynards Original Gummies (150 g),1.94,3.89,2,Candy
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698c3f259f2f71d05bf4ddb7,"""Balady Bread 7"""" Whole Wheat Pita (300 g)""",1.49,2.99,2,Bakery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698c3f25cef1e3f1e10f49af,Little Sheep Plain Hot Pot Soup Base (130 g),3.19,6.39,24,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698c3f25730afb77e72565ec,WAKEMAKE Water Glow Coating Foundation #23 Beige (30 ml),19.99,39.99,2,Beauty
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698aeb0010bcc88893640f1e,Dairyland 33% Whipping Cream Carton (946 ml),3.84,7.69,8,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698999fb60a3aaa4971b5d1d,Pedigree DentaStix Medium Original Flavour Dog Treats (608 g),6.64,13.29,1,Pet Care
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698999fb10bcc88893489f3b,Renee's Greek Feta Dressing (355 ml),3.74,7.49,4,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6988481d10bcc88893304cdf,Terra Sour Cream & Onion Vegetable Chips (141 g),3.24,6.49,8,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6988480a631683bc34617df2,Snyder's of Hanover Twisted Nacho Cheese Pretzel Sticks (340 g),3.04,6.09,2,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6986fbc760a3aaa497e2cad6,Amooza Mozzarella Cheese Sticks (228 g),4.49,8.99,2,Dairy & Eggs
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6985a050d0ddd9320a3692bb,Taco Bell Mild Taco Seasoning Mix (28 g),0.89,1.79,7,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6985a013e9a0a7e95d158d0f,Knorr Zero Salt Beef Bouillon Powder (160 g),4.64,9.29,9,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69859fe3e9a0a7e95d158c88,PAM No-Stick Air Fryer Cooking Spray (141 g),3.64,7.29,9,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69845853e9a0a7e95df6763d,Knorr Zero Salt Roasted Garlic Bouillon Powder (160 g),4.64,9.29,7,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69845853865b0875771df311,Heinz Tartar Sauce (354 ml),2.94,5.89,1,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69845853e9a0a7e95df67630,Kraft Calorie-Wise Catalina Dressing (425 ml),2.24,4.49,9,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698301c4d0ddd9320afee0fc,Dare Bear Paws Banana Bread Cookies (240 g),2.24,4.49,2,Snacks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698301c4865b08757701d107,Carnaby Sweet Cotton Candy Syrup (428 ml),2.74,5.49,10,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,698301c3d0ddd9320afee0ef,Gatorade Zero Lemon-Lime Powder Packets (10 ct),4.99,9.99,2,Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6981b3e1861645b84c827709,Taco Bell Crunchy Taco Cravings Kit (260 g),2.89,5.79,3,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6981b351ee5a6123d41bf76f,Greetalia Honey Dill sauce,2.5,4.99,4,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6981b348861645b84c82754e,Mama Sita's Tocino Marinating Mix (75 g),0.94,1.89,15,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6981b348ee5a6123d41bf74e,Carnaby Sweet Sour Watermelon Syrup (428 ml),2.74,5.49,11,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6980628fe9a0a7e95d9b70e3,Pedigree Vitality+ Hearty Beef & Vegetable Dry Dog Food (8 kg),14.84,29.69,1,
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,69806277d0ddd9320ac86a29,Taco Bell Crunchwrap Supreme Cravings Kit (642 g),4.99,9.99,2,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697f0c63e9a0a7e95d7f4814,Taco Bell Creamy Baja Sauce (354 ml),2.89,5.79,3,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697f0b2ee9a0a7e95d7f4110,Kraft French Dressing (425 ml),2.24,4.49,8,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697dbe12865b08757797f640,Gatorade Zero Grape Powder Packets (10 ct),4.79,9.59,4,Vitamins&Supplements
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6d5c99d3c5ddb47f9886,Purina Dog Chow Complete Adult Dry Dog Food (8 kg),14.29,28.59,1,Pet Care
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6d3e99d3c5ddb47f9800,Purina One +Plus Healthy Puppy Lamb Dry Puppy Food (1.81 kg),7.79,15.59,2,Pet Care
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6ced99d3c5ddb47f96c2,Blistex Deep Moisture Renewal Broad Spectrum SPF 15 Lip Protectant (1 ct),3.19,6.39,3,Beauty
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6cc02144d4a53d590063,Imodium Complete Caplets (20 ct),16.74,33.49,6,Medicine
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6c34b18d7c28790198c2,Emergen-C Immune Support Strawberry Crystals (24 ct),10.44,20.89,1,Vitamins&Supplements
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6c27b18d7c28790198a9,Children's Motrin Fever & Pain Relief Dye-Free Berry Oral Suspension (120 ml),5.99,11.99,1,Medicine
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6bee2144d4a53d58fe1d,Honibe Immune Boost Honey Lozenges (10 ct),2.94,5.89,3,Medicine
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697c6b5e9a94d1f5707d5618,Hershey's Fudge Brownie ,1.89,3.79,2,Candy
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697b1c5be41ad7f038357c14,Heinz Mayonnaise Style Mango Habanero Sauce,2.5,4.99,9,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697b1c53cf0decd78831de09,Betty Crocker Walnut Banana Bread Mix (348 g),2.34,4.69,6,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697b1c53e41ad7f038357be5,Knorr Mexican Beef Bouillon Cubes (63 g),1.38,2.77,13,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697b1a42cf0decd78831d942,Knorr Beef Bouillon Cubes (63 g),1.99,3.99,16,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697879cc3695546c5d633170,Quaker Carrot Muffin Mix (900 g),2.53,5.07,9,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697723d0cf5c56b4f11902fb,Gerber Meals Mac & Cheese with Peas & Carrots Baby Food (187 g),2.24,4.49,7,Baby
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6975ce314e0f1abfea9c5cc8,Heinz Sriracha Mayonnaise,2.49,4.99,2,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,697330594e0f1abfea691014,Pearl Milling Company Lite Syrup (710 ml),2.64,5.29,1,Pantry
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,696f3e28f3eeb6c636cdf9e4,Gerber Meals Cheese Ravioli in Tomato Sauce with Mixed Vegetables Baby Food (187 g),1.84,3.69,6,Baby
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67bdc806855e4112ad907797,Unknown,6968a886ec5bd6df663bd843,Gerber Lil' Entrées Mashed Potato & Gravy with Roasted Chicken & Carrots Baby Food (187 g),1.84,3.69,2,Baby
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bd304e0f1abfeaaeefcf,Karma Berry Soda 285ml,1.99,3.99,29,Beverages
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bce23695546c5d4594c5,Karma Apple Soda 285ml,1.99,3.99,25,Beverages
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bc9ccf5c56b4f114614f,Karma Sparkling Grape Hydration Drink 285ml,1.99,3.99,25,Beverages
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bbec7717e37fa681e259,Karma Sparkling Watermelon Hydration Drink 285ml,1.99,3.99,26,Beverages
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976bb2dcf5c56b4f1144310,Bestropics Coconut Smoothie 355ml,1.99,3.49,49,Beverages
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6976ba764bb7d7af11f788f7,New World Almond Butter Crunchy Roasted 500g,9.99,14.99,46,Grocery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,692e5b5c7aaefcde17875128,Everland Himalayan Crystal Salt 500g,2.99,5.99,6,Grocery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,68a523bee4d63010325aea25,Herbafresh Dead Sea Bath Salt 500g,3.99,8.99,15,Grocery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,6850875cf14056777f0acbd8,Desert Essence Red Raspberry Shampoo 237ml,7.99,15.99,2,Grocery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,682bbf183e6e6efab73a3fb7,Meditation Incense Cones,6.99,12.99,8,Grocery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,682bbe4326bdd6612a51d31e,Auroshikha 18 Fragrance (Mini Palette),4.99,10.99,4,Grocery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,682bbc06c8802244e1542253,Banat Toothbrush Pack Of 2,2.99,4.99,6,Grocery
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,67ffcc6581edee2219c54e94,Unknown,68213c05b14699806189b2b0,Wildrose Herbal D-TOX Kit 12day Program,54.99,64.99,9,Health & Wellness
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,69580a580c79613ef47f3b0e,Arizona Fruit Snacks,4.29,5.79,4,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,695809afa1132e12bc6a0f28,Trolli Sweet Peach,3.69,4.49,8,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,695808f35e79deb3beeece5d,Warheads Sour Galactic Cubes,3.69,4.29,2,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,695807dba1132e12bc69c1a4,Haribo Peaches,4.19,4.79,6,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,695807500c79613ef47ed200,Pretzel Pzazz Sour Cream & Chive,3.49,4.49,2,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,686af3f226c9413d168f16fa,Pringles Original Party Pack,5.5,5.99,4,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869bae4d45286d9ce5ec328,Sour Strips Wild Cherry,7.99,8.99,3,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869ba9ee76ab7f392353a9d,Sour Strips Pink Lemonade,7.99,8.99,5,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b9bdd45286d9ce5ea147,Sour Strips Tropical Mango,7.99,8.99,1,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b96c26c9413d166fc310,Sour Strips Watermelon,7.99,8.99,1,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b92126c9413d166fb8bf,Sour Strips Cotton Candy,7.99,8.99,1,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b8b6e76ab7f3923502a3,Sour Strips Strawberry,7.99,8.99,4,Snacks & Drinks
+Vancouver,2026-02-13 02:18,2026-02-12 09:30,685f076cae659ef8e57956fc,Unknown,6869b846e76ab7f39234f42b,Sour Strips Green Apple,7.99,8.99,3,Snacks & Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,690a5bff765cb78193ff6130,Unknown,695c47a1a1132e12bcbd04b0,La Viuda Sanchez,12,15.99,2,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,695402dda1132e12bc23f6a2,Premium Original Saltine Crackers 12 ea,4.99,16.99,3,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,695328310c79613ef42dfbbc,Absolutely! Gluten Free Grain Free Everything Flatbreads 5.29 oz,1.99,7.99,11,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6951bce900bf04afcf01ed9f,4 Sisters Tony Tomato Rice,2.24,4.49,3,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6951bc0d00bf04afcf01da20,Sun Luck Gluten-Free Yum Yum Sauce 13 oz Bottle,3.99,6.99,1,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6951a5bd5e79deb3be858f03,Hershey's Snack Size Milk Chocolate 10.35 oz,3.49,6.99,9,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6951a478bd714bcff1b0edc1,Baby Ruth Fun Size Candy Bar 10.2 oz,3.49,6.99,9,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,694f2b1dbd714bcff186efc2,Brach's Classic Candy Corn 11 oz,1.75,3.49,4,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,6915e6d23ab36474aacadcbc,Unknown,6938d9c6b9dff1ccb892db41,Mari Wine Vinegar,1,1.99,18,Grocery
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6973ee067717e37fa64549a2,GF chicken tenders ,5.39,8.99,11,Frozen
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6973eda74bb7d7af11bb5369,orange sherbet ice cream,2.4,5.99,2,Ice Cream
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6973ed7e3695546c5d1067d6,cooked shrimp,7.79,12.99,9,Frozen
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,695f22d34ca25d90756c7fe2,Snapple Kiwi Strawberry 6 pack,3.25,6.49,2,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950f5f600bf04afcff34ecf,Smoked Spicy Gouda ,3.5,6.99,9,Dairy & Eggs
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950f3815e79deb3be798390,Pure Leaf Sweet Real Brewed Iced Tea (64 oz),2.08,5.19,6,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950f27ca1132e12bce86d8c,Fruit Gushers Snacks Tropical (4.25 oz),0.87,2.89,29,Snacks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950f1ed00bf04afcff346a9,Ghirardelli Premium Brownie Mix Double Chocolate Box (18 oz),2.34,7.79,4,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950e518bd714bcff1a35da5,Trojan BareSkin Condoms Lubricated Latex (10 ct),5.72,14.29,4,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6950e4520c79613ef4053c6d,Soy Vay Marinade & Sauce Veri Veri Teriyaki (21 oz),2.16,7.19,5,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6927fb17c25da3ef8d1c8676,Plan B One-Step Emergency Contraceptive Tablet,18.4,45.99,3,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,690849870a37bb93e974ec28,Cera Ce foaming cleanser ,6.88,17.19,5,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68f6bcc05c6c2e79c3c8a73e,Suave Deodorant ,1.5,2.99,9,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68ec7bbe16a25ac6c1882c5d,McCormick Chili Powder (2.5 oz),2.45,4.89,4,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68ec7acc6305f489a3dbeb5d,McCormick Black Pepper ,2.4,7.99,11,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68ec77666305f489a3dbc1d3,McCormick Oregano Leaves (0.75oz),2.2,4.39,3,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e1f5d584e763e3612bc8,Coppertone Baby Pure & Simple SPF 50 100% Mineral Sunscreen Lotion (6 oz),6.76,16.89,2,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e16df3e307fa672b8d4c,Zarbee's Naturals Children's Sleep Chewable Tablets with Melatonin (30 ct),4.16,10.39,4,Medicine
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e12ef3e307fa672b8ce9,Pepto-Bismol Kids Bubble Gum Flavor Chewable Tablets (24ct),4.68,11.69,6,Medicine
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e1099a475e1ca50ae559,Mylicon Infants' Dye-Free Drops Gas Relief Syrup (1 oz),5.16,12.89,3,Medicine
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2e0cfb964b54ef38d3bc5,Tylenol Childrens Pain and Fever Reliever Grape Oral Suspension (4 oz),5.72,14.29,6,Medicine
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2dad6b964b54ef38d2a00,Desitin Maximum Strength Diaper Rash Paste (4 oz),4.12,10.29,10,Baby
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68a2d9d5b964b54ef38d2717,Crest 3D White Radiant Mint Fluoride Anticavity Toothpaste (0.85 oz),1.48,3.69,9,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6864dca2e76ab7f392b50e37,Plan B One-Step Emergency Contraceptive Tablet,18.4,45.99,1,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6864b0dbd45286d9ced9740d,Vaseline Healing Petroleum Jelly Original Unscented (1.75 oz),2.08,5.19,5,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,6864ac8a26c9413d16dda12e,Banana Boat After Sun Soothing Aloe Gel (16 oz),4.16,10.39,1,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55200426fac142f110,Unknown,68649894d45286d9ced79f69,Genabio COVID-19 Rapid Self-Test Kit (2 ct),4.68,11.69,8,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,698dffab9f2f71d05b158346,Gulden's Spicy Brown Mustard (12 oz),2.75,4.59,9,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,698dffab3887249b9e49aa11,Snack Factory Pretzel Crisps Garlic Parmesan (7.2 oz),2.41,4.59,10,Snacks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,698b769ccef1e3f1e1fcc252,Ling Ling Pork & Vegetable Potstickers (56oz),11.81,19.69,2,Frozen
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,698b76969f2f71d05be25c1e,Snapple All Natural Juice Kiwi Strawberry (16 oz),1.08,2.69,6,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ed9f10bcc888933c5453,Arrowhead 100% Mountain Spring Water Plastic Bottles (16.9 oz x 6 ct),2.33,3.89,1,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec71631683bc346d8f0d,Orville Redenbacher's Popcorn Kettle Corn (3.29 oz x 6 ct),2.34,7.79,2,Snacks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec5b10bcc888933c2058,La Costena Pickled Jalapeno Peppers (26 oz),2.51,3.89,1,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec4738ce139b25f5f7a5,Popcorners White Cheddar Popped-Corn Snack (7oz),4.47,6.39,1,Snacks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec1910bcc888933c15bb,solo pomodoro mutti Parma sauce for pizza Napoli,4.19,6.99,1,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988ec0038ce139b25f5ed42,damaged Kool Aid Bursts Soda Berry Blue Artificially Flavored (6.75 oz x 6 ct),1.97,3.29,1,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988e3fe60a3aaa4970d02df,Minute Maid Juice Fruit Punch (59 oz),2.09,2.99,8,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6988e3d060a3aaa4970cfc01,Organic Valley Ultra Pasteurized 2% Reduced Fat Milk (1 gal),5.74,12.59,4,Dairy & Eggs
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,697fc835ee5a6123d4f34412,Nabisco Premium Original Saltine Crackers (1 lb),3.42,4.79,1,Snacks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,697fc425861645b84c5c497f,Lean Cuisine Apple Cranberry Chicken Ready Meal (9oz),2.69,4.49,8,Frozen
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,697d8c8bd0ddd9320a939eeb,Bolci Dubai Chocolate Bar ,4.44,14.79,135,Candy
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696f55783e76e9ec14e27c6b,5-Hour Extra Strength Energy Shot Grape (1.93 oz),1.72,4.29,1,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696f5542e4d68b246f61cac2,"""Equalline Small 2""""x2"""" Sterile Gauze Pads (25ct)""",1.6,3.99,1,Other
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696f547b3e76e9ec14e27b0e,U by Kotex Click Compact Super Plus Unscented Tampons (16 ct),3.64,9.09,8,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696e12bae4d68b246f448600,AI Freeze Dried Nerdy Bursts Candy (1 oz),1.89,6.29,5,Candy
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696e129372737f94913f008a,Lucas Polvos Watermelon Flavored Candy,0.3,0.99,3,Candy
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696d5f2ff3eeb6c636a71210,Gerber Puffs Blueberry 1.48oz,1.29,4.29,1,Baby
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696d5e163e76e9ec14bf4666,Revlon Colorsilk Permanent Hair Dye Shade 10 Black,2.2,5.49,5,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696d5d67e4d68b246f3a3689,TRESemme Extra Hold Hairspray 1.5oz can,1.4,3.49,9,Personal Care
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,696d590a3e76e9ec14beb727,Amy's Kitchen Bowls Broccoli and Cheddar Bake (9.5 oz),5.09,8.49,9,Frozen
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,6943df2d00bf04afcf256458,New Creation Krümkake Butter Pecan Cream Soda (12 oz),0.8,1.99,16,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,68feb0bd7cd892ca5617f2e4,Moonglade Craft Soda Organic Root Beer 4 pack,5.2,12.99,3,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,68ba4efaddf4c4ea82be1eb8,Nut Harvest Salted Whole Peanuts,0.8,1.99,56,Snacks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,687a9c2e4b996a2220ad4556,A&W Zero Sugar Soda Root Beer (20 oz),1.32,3.29,1,Drinks
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,687021d0ec9500620a8fa5e3,beech nut,1.12,2.79,2,Baby
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,677dfd51e9250f1b38627880,Morton & Basset Ground Nutmeg (2.3oz),6.8,16.99,1,Pantry
+Seattle,2026-02-13 02:18,2026-02-12 09:30,66c41b55de1f5583d3c6db69,Unknown,672d9fe0ce2a4ce4e780b931,Winx Health Restart Morning After Pill Levonorgestrel 1.5 mg Tablet,21,41.99,10,Personal Care
