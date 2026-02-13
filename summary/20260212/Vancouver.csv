@@ -213,7 +213,7 @@
 698c880f9476de55749954a7,Mixed Produce Box #64,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 698cba61ff05ab02e9890455,cheese dippers,5d0bd76b8894a4ebbfd7048a,Unknown,4.79,2.39,Deli,22.0,21.0,21.0,1.0,0.0,1.0
 698cba89ff05ab02e98911e2,"Cheese Dippers, Original",5d0bd76b8894a4ebbfd7048a,Unknown,3.5,1.75,Deli,1.0,,,,,
-698cc306e9be5bffd22aaacc,Potato & Egg Salad,5d0bd76b8894a4ebbfd7048a,Unknown,7.49,3.74,HMR,2.0,2.0,1.0,0.0,1.0,1.0
+698cc306e9be5bffd22aaacc,Potato & Egg Salad,5d0bd76b8894a4ebbfd7048a,Unknown,7.49,3.74,HMR,2.0,2.0,,0.0,,
 698cc3151afe283c4b35d6f9,Macaroni Salad,5d0bd76b8894a4ebbfd7048a,Unknown,7.49,3.74,HMR,3.0,3.0,3.0,0.0,0.0,0.0
 698cdee71afe283c4b40a634,Cauliflower Florets,5ddef30c9af4e045c44b9d67,Unknown,5.99,2.99,Fresh Cut Fruits & Vegetables,6.0,6.0,6.0,0.0,0.0,0.0
 698ce41c1afe283c4b42acc5,Whole Cremini Mushrooms,65bd257956f2d4f45a3da0e2,Unknown,5.99,2.99,Produce,1.0,1.0,,0.0,,
@@ -362,7 +362,7 @@
 698e2fa31df81d9c30bd05f1,PC Oven Roasted Chicken Breast,5d0bd76b8894a4ebbfd7048a,Unknown,10.29,5.14,Deli,,1.0,1.0,,0.0,
 698e2fb34a4f6bbca949a19e,Large House Salad,5d0bd76b8894a4ebbfd7048a,Unknown,9.0,4.5,Produce,,1.0,,,,
 698e2fe7664d59f486496686,Large Chicken Caesar Salad,5d0bd76b8894a4ebbfd7048a,Unknown,12.0,6.0,Produce,,1.0,,,,
-698e3114ee414cfcab291122,Fruit Salad Small,5d0bd76b8894a4ebbfd7048a,Unknown,4.38,2.19,Produce,,1.0,1.0,,0.0,
+698e3114ee414cfcab291122,Fruit Salad Small,5d0bd76b8894a4ebbfd7048a,Unknown,4.38,2.19,Produce,,1.0,,,,
 698e34c1ee414cfcab2a0382,Mixed Produce Box #6,5ddef30c9af4e045c44b9d67,Unknown,5.0,5.0,Produce,,1.0,,,,
 698e34e5ee414cfcab2a0ebc,Mixed Produce Box #4,5ddef30c9af4e045c44b9d67,Unknown,5.0,5.0,Produce,,1.0,,,,
 698e3e6e19ce08acfa8bec7a,orange tangerine aquafijs plus+ (591ml),65e8f30bcb43951cbd853f59,Unknown,2.7,1.35,Drinks,,11.0,11.0,,0.0,
