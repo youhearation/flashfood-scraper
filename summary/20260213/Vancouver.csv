@@ -1,383 +1,415 @@
 ﻿item_id,item_name,store_id,store_name,original_price,price,category,stock_0930,stock_1630,stock_2030,change_1,change_2,change_3
-68213c05b14699806189b2b0,Wildrose Herbal D-TOX Kit 12day Program,67ffcc6581edee2219c54e94,Unknown,64.99,54.99,Health & Wellness,9.0,9.0,,0.0,,
-682bbc06c8802244e1542253,Banat Toothbrush Pack Of 2,67ffcc6581edee2219c54e94,Unknown,4.99,2.99,Grocery,6.0,6.0,,0.0,,
-682bbe4326bdd6612a51d31e,Auroshikha 18 Fragrance (Mini Palette),67ffcc6581edee2219c54e94,Unknown,10.99,4.99,Grocery,4.0,4.0,,0.0,,
-682bbf183e6e6efab73a3fb7,Meditation Incense Cones,67ffcc6581edee2219c54e94,Unknown,12.99,6.99,Grocery,8.0,8.0,,0.0,,
-6850875cf14056777f0acbd8,Desert Essence Red Raspberry Shampoo 237ml,67ffcc6581edee2219c54e94,Unknown,15.99,7.99,Grocery,2.0,2.0,,0.0,,
-6869b846e76ab7f39234f42b,Sour Strips Green Apple,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,3.0,3.0,,0.0,,
-6869b8b6e76ab7f3923502a3,Sour Strips Strawberry,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,4.0,4.0,,0.0,,
-6869b92126c9413d166fb8bf,Sour Strips Cotton Candy,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,1.0,1.0,,0.0,,
-6869b96c26c9413d166fc310,Sour Strips Watermelon,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,1.0,1.0,,0.0,,
-6869b9bdd45286d9ce5ea147,Sour Strips Tropical Mango,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,1.0,1.0,,0.0,,
-6869ba9ee76ab7f392353a9d,Sour Strips Pink Lemonade,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,5.0,5.0,,0.0,,
-6869bae4d45286d9ce5ec328,Sour Strips Wild Cherry,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,3.0,3.0,,0.0,,
-686af3f226c9413d168f16fa,Pringles Original Party Pack,685f076cae659ef8e57956fc,Unknown,5.99,5.5,Snacks & Drinks,4.0,4.0,,0.0,,
-689d126ad4eefc4286f0c86b,Halloween Sprinkles (186g),65e8f30bcb43951cbd853f59,Unknown,7.99,3.99,Pantry,1.0,1.0,,0.0,,
-68a523bee4d63010325aea25,Herbafresh Dead Sea Bath Salt 500g,67ffcc6581edee2219c54e94,Unknown,8.99,3.99,Grocery,15.0,15.0,,0.0,,
-68bc5e026e06f3f1d9451757,L'Oreal Paris Feria Smokey Silver S1 Silver Grey Permanent Hair Dye Kit (1 ct),65e8f30bcb43951cbd853f59,Unknown,21.29,10.65,Beauty,1.0,1.0,,0.0,,
-691f6eb770ccf1c96852c9f3,Coconut Cashews,691b59a5669ef62168a65bdb,Unknown,3.5,2.0,Nuts & Snacks,26.0,26.0,,0.0,,
-692b87b2ddfa836f5a2ef579,CanadaDry Tonic Water,65e8f30bcb43951cbd853f59,Unknown,2.0,1.0,Drinks,4.0,4.0,,0.0,,
-692ddf41ddfa836f5a52b63f,Sandwiches Frozen ( 1 sandwich),67e6b1577b5f59b1bba8c7c4,Unknown,13.0,3.0,Pizza Dough,9.0,9.0,,0.0,,
-692e5b5c7aaefcde17875128,Everland Himalayan Crystal Salt 500g,67ffcc6581edee2219c54e94,Unknown,5.99,2.99,Grocery,6.0,6.0,,0.0,,
+68213c05b14699806189b2b0,Wildrose Herbal D-TOX Kit 12day Program,67ffcc6581edee2219c54e94,Unknown,64.99,54.99,Health & Wellness,9.0,9.0,9.0,0.0,0.0,0.0
+682bbc06c8802244e1542253,Banat Toothbrush Pack Of 2,67ffcc6581edee2219c54e94,Unknown,4.99,2.99,Grocery,6.0,6.0,6.0,0.0,0.0,0.0
+682bbe4326bdd6612a51d31e,Auroshikha 18 Fragrance (Mini Palette),67ffcc6581edee2219c54e94,Unknown,10.99,4.99,Grocery,4.0,4.0,4.0,0.0,0.0,0.0
+682bbf183e6e6efab73a3fb7,Meditation Incense Cones,67ffcc6581edee2219c54e94,Unknown,12.99,6.99,Grocery,8.0,8.0,8.0,0.0,0.0,0.0
+6850875cf14056777f0acbd8,Desert Essence Red Raspberry Shampoo 237ml,67ffcc6581edee2219c54e94,Unknown,15.99,7.99,Grocery,2.0,2.0,2.0,0.0,0.0,0.0
+6869b846e76ab7f39234f42b,Sour Strips Green Apple,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,3.0,3.0,3.0,0.0,0.0,0.0
+6869b8b6e76ab7f3923502a3,Sour Strips Strawberry,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,4.0,4.0,4.0,0.0,0.0,0.0
+6869b92126c9413d166fb8bf,Sour Strips Cotton Candy,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,1.0,1.0,1.0,0.0,0.0,0.0
+6869b96c26c9413d166fc310,Sour Strips Watermelon,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,1.0,1.0,1.0,0.0,0.0,0.0
+6869b9bdd45286d9ce5ea147,Sour Strips Tropical Mango,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,1.0,1.0,1.0,0.0,0.0,0.0
+6869ba9ee76ab7f392353a9d,Sour Strips Pink Lemonade,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,5.0,5.0,5.0,0.0,0.0,0.0
+6869bae4d45286d9ce5ec328,Sour Strips Wild Cherry,685f076cae659ef8e57956fc,Unknown,8.99,7.99,Snacks & Drinks,3.0,3.0,3.0,0.0,0.0,0.0
+686af3f226c9413d168f16fa,Pringles Original Party Pack,685f076cae659ef8e57956fc,Unknown,5.99,5.5,Snacks & Drinks,4.0,4.0,4.0,0.0,0.0,0.0
+689d126ad4eefc4286f0c86b,Halloween Sprinkles (186g),65e8f30bcb43951cbd853f59,Unknown,7.99,3.99,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+68a523bee4d63010325aea25,Herbafresh Dead Sea Bath Salt 500g,67ffcc6581edee2219c54e94,Unknown,8.99,3.99,Grocery,15.0,15.0,15.0,0.0,0.0,0.0
+68bc5e026e06f3f1d9451757,L'Oreal Paris Feria Smokey Silver S1 Silver Grey Permanent Hair Dye Kit (1 ct),65e8f30bcb43951cbd853f59,Unknown,21.29,10.65,Beauty,1.0,1.0,1.0,0.0,0.0,0.0
+691f6eb770ccf1c96852c9f3,Coconut Cashews,691b59a5669ef62168a65bdb,Unknown,3.5,2.0,Nuts & Snacks,26.0,26.0,26.0,0.0,0.0,0.0
+692b87b2ddfa836f5a2ef579,CanadaDry Tonic Water,65e8f30bcb43951cbd853f59,Unknown,2.0,1.0,Drinks,4.0,4.0,4.0,0.0,0.0,0.0
+692ddf41ddfa836f5a52b63f,Sandwiches Frozen ( 1 sandwich),67e6b1577b5f59b1bba8c7c4,Unknown,13.0,3.0,Pizza Dough,9.0,9.0,9.0,0.0,0.0,0.0
+692e5b5c7aaefcde17875128,Everland Himalayan Crystal Salt 500g,67ffcc6581edee2219c54e94,Unknown,5.99,2.99,Grocery,6.0,6.0,6.0,0.0,0.0,0.0
 6941ca5d3da7f42e08c87057,Cinnamon Banana Chips,691b59a5669ef62168a65bdb,Unknown,2.0,1.0,Nuts & Snacks,18.0,18.0,,0.0,,
-694f4f235e79deb3be62174a,TRESemme Extra Hold Hairspray (311 g),65e8f30bcb43951cbd853f59,Unknown,11.79,5.89,Beauty,1.0,1.0,,0.0,,
-695807500c79613ef47ed200,Pretzel Pzazz Sour Cream & Chive,685f076cae659ef8e57956fc,Unknown,4.49,3.49,Snacks & Drinks,2.0,2.0,,0.0,,
-695807dba1132e12bc69c1a4,Haribo Peaches,685f076cae659ef8e57956fc,Unknown,4.79,4.19,Snacks & Drinks,6.0,6.0,,0.0,,
-695808f35e79deb3beeece5d,Warheads Sour Galactic Cubes,685f076cae659ef8e57956fc,Unknown,4.29,3.69,Snacks & Drinks,2.0,2.0,,0.0,,
-695809afa1132e12bc6a0f28,Trolli Sweet Peach,685f076cae659ef8e57956fc,Unknown,4.49,3.69,Snacks & Drinks,8.0,8.0,,0.0,,
-69580a580c79613ef47f3b0e,Arizona Fruit Snacks,685f076cae659ef8e57956fc,Unknown,5.79,4.29,Snacks & Drinks,4.0,4.0,,0.0,,
-69652c1c4af2f7687af33324,Milk Crate,69379713a3687e3a3db2d8bc,Unknown,0.25,0.01,General Merchandise,6.0,6.0,,0.0,,
-69689ba1ec5bd6df663bb105,Frank's RedHot Spicy Buffalo Wings Sauce (354 ml),65e8f30bcb43951cbd853f59,Unknown,5.79,2.89,Pantry,2.0,2.0,,0.0,,
-69689ccf72737f9491dae2ae,Gerber Lil' Entrées Mashed Potato & Gravy with Roasted Chicken & Carrots Baby Food (187 g),65e8f30bcb43951cbd853f59,Unknown,3.69,1.84,Baby,1.0,1.0,,0.0,,
-69689d43ec5bd6df663bb585,Mrs. Dash Lemon Pepper Seasoning Blend (70 g),65e8f30bcb43951cbd853f59,Unknown,5.89,2.94,Pantry,1.0,1.0,,0.0,,
-696b3c4ee4d68b246f0e4639,Chef Boyardee ABC123 Pasta in Tomato Sauce (425 g),65e8f30bcb43951cbd853f59,Unknown,2.69,1.34,Pantry,1.0,1.0,,0.0,,
-696de627f3eeb6c636b06463,Gits Sambhar Mix (100 g),65e8f30bcb43951cbd853f59,Unknown,2.39,1.19,Pantry,1.0,1.0,,0.0,,
-696f38c1f3eeb6c636cde93a,Gerber Meals Cheese Ravioli in Tomato Sauce with Mixed Vegetables Baby Food (187 g),65e8f30bcb43951cbd853f59,Unknown,3.69,1.84,Baby,8.0,8.0,,0.0,,
-696f3e28f3eeb6c636cdf9e4,Gerber Meals Cheese Ravioli in Tomato Sauce with Mixed Vegetables Baby Food (187 g),67bdc806855e4112ad907797,Unknown,3.69,1.84,Baby,4.0,4.0,,0.0,,
-69714698a0eb91f622f82d6c,Whisky Kiss Almonds,691b59a5669ef62168a65bdb,Unknown,3.5,2.0,Nuts & Snacks,36.0,36.0,,0.0,,
-697146fbe2f09d0b9327b973,Salted Caramel Cashew,691b59a5669ef62168a65bdb,Unknown,3.5,2.0,Nuts & Snacks,25.0,25.0,,0.0,,
-6971473140e632216a673804,Butter Toffee Almonds,691b59a5669ef62168a65bdb,Unknown,3.5,2.0,Nuts & Snacks,22.0,22.0,,0.0,,
-6971479b40e632216a6747a2,Durian Choco Dipped Almonds,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,17.0,17.0,,0.0,,
-697147e9077af9138bbd2b71,Strawberry Choco Dipped Almonds,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,16.0,16.0,,0.0,,
-6971481f077af9138bbd30d3,Matcha Choco Dipped Almonds,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,14.0,14.0,,0.0,,
-6971485c9f875680704e4823,Yogurt Almonds,691b59a5669ef62168a65bdb,Unknown,4.5,2.25,Nuts & Snacks,2.0,2.0,,0.0,,
-697148999f875680704e521a,Choco Salted Caramel Cashews,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,15.0,15.0,,0.0,,
-6971dd5fcf5c56b4f1afbd3a,SmartSweets Jolly Gems Assorted Flavour Hard Candy (70 g),65e8f30bcb43951cbd853f59,Unknown,9.99,4.99,Candy,2.0,2.0,,0.0,,
-6971ddb8cf5c56b4f1afbe84,Jennyhouse Salon Code Glam Hair Color Glam Black Hair Dye (70 ml x 2 ct),65e8f30bcb43951cbd853f59,Unknown,17.99,8.99,Beauty,1.0,1.0,,0.0,,
-69732c3e4bb7d7af11a91f93,Gatorade Orange Powder Packets (10 ct),65e8f30bcb43951cbd853f59,Unknown,9.59,4.79,Vitamins&Supplements,2.0,2.0,,0.0,,
-697330594e0f1abfea691014,Pearl Milling Company Lite Syrup (710 ml),67bdc806855e4112ad907797,Unknown,5.29,2.64,Pantry,1.0,1.0,,0.0,,
-697515eee4fe4341353ac7de,Frozen Bananas,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,1.0,Produce,2.0,2.0,,0.0,,
-6975ce314e0f1abfea9c5cc8,Heinz Sriracha Mayonnaise,67bdc806855e4112ad907797,Unknown,4.99,2.49,Pantry,2.0,2.0,,0.0,,
-6976ba764bb7d7af11f788f7,New World Almond Butter Crunchy Roasted 500g,67ffcc6581edee2219c54e94,Unknown,14.99,9.99,Grocery,46.0,46.0,,0.0,,
-6976bb2dcf5c56b4f1144310,Bestropics Coconut Smoothie 355ml,67ffcc6581edee2219c54e94,Unknown,3.49,1.99,Beverages,49.0,49.0,,0.0,,
-6976bbec7717e37fa681e259,Karma Sparkling Watermelon Hydration Drink 285ml,67ffcc6581edee2219c54e94,Unknown,3.99,1.99,Beverages,26.0,26.0,,0.0,,
-6976bc9ccf5c56b4f114614f,Karma Sparkling Grape Hydration Drink 285ml,67ffcc6581edee2219c54e94,Unknown,3.99,1.99,Beverages,25.0,25.0,,0.0,,
-6976bce23695546c5d4594c5,Karma Apple Soda 285ml,67ffcc6581edee2219c54e94,Unknown,3.99,1.99,Beverages,25.0,25.0,,0.0,,
-6976bd304e0f1abfeaaeefcf,Karma Berry Soda 285ml,67ffcc6581edee2219c54e94,Unknown,3.99,1.99,Beverages,29.0,29.0,,0.0,,
-69771ab14e0f1abfeab3331f,Gerber Lil' Entrées Mac & Cheese with Peas & Carrots Baby Food (187 g),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Baby,8.0,8.0,,0.0,,
-697723d0cf5c56b4f11902fb,Gerber Meals Mac & Cheese with Peas & Carrots Baby Food (187 g),67bdc806855e4112ad907797,Unknown,4.49,2.24,Baby,7.0,7.0,,0.0,,
-697877287717e37fa6a37ac5,Quaker Carrot Muffin Mix (900 g),65e8f30bcb43951cbd853f59,Unknown,5.07,2.53,Pantry,7.0,7.0,,0.0,,
-697879cc3695546c5d633170,Quaker Carrot Muffin Mix (900 g),67bdc806855e4112ad907797,Unknown,5.07,2.53,Pantry,9.0,9.0,,0.0,,
-6979bddc4e0f1abfeae5589b,Gatorade Zero Glacier Cherry Powder Packets (10 ct),65e8f30bcb43951cbd853f59,Unknown,9.99,4.99,Drinks,5.0,5.0,,0.0,,
-697b0a40e41ad7f03835403a,Schneider's Juicy Jumbo Three Cheese Jalapeno Loaded Wieners (375 g),65e8f30bcb43951cbd853f59,Unknown,11.39,5.69,Meat & Fish,4.0,4.0,,0.0,,
-697b101b07574c87e30b2880,Knorr Beef Bouillon Cubes (63 g),65e8f30bcb43951cbd853f59,Unknown,3.99,1.99,Pantry,20.0,20.0,,0.0,,
-697b1070f9dbb16ff2ffa653,Knorr Mexican Beef Bouillon Cubes (63 g),65e8f30bcb43951cbd853f59,Unknown,2.77,1.39,Pantry,21.0,21.0,,0.0,,
-697b115fcf0decd78831b8f8,Super Q Golden Bihon Cornstarch Sticks (454 g),65e8f30bcb43951cbd853f59,Unknown,2.69,1.34,Pantry,1.0,1.0,,0.0,,
-697b1262f9dbb16ff2ffaf5a,Betty Crocker Walnut Banana Bread Mix (348 g),65e8f30bcb43951cbd853f59,Unknown,4.69,2.34,Pantry,5.0,5.0,,0.0,,
-697b12c9f9dbb16ff2ffb1d4,Heinz Mango Habanero Mayo,65e8f30bcb43951cbd853f59,Unknown,4.0,2.0,Pantry,1.0,1.0,,0.0,,
-697b1a42cf0decd78831d942,Knorr Beef Bouillon Cubes (63 g),67bdc806855e4112ad907797,Unknown,3.99,1.99,Pantry,16.0,16.0,,0.0,,
-697b1c53cf0decd78831de09,Betty Crocker Walnut Banana Bread Mix (348 g),67bdc806855e4112ad907797,Unknown,4.69,2.34,Pantry,6.0,6.0,,0.0,,
-697b1c53e41ad7f038357be5,Knorr Mexican Beef Bouillon Cubes (63 g),67bdc806855e4112ad907797,Unknown,2.77,1.38,Pantry,13.0,13.0,,0.0,,
-697b1c5be41ad7f038357c14,Heinz Mayonnaise Style Mango Habanero Sauce,67bdc806855e4112ad907797,Unknown,4.99,2.5,Pantry,8.0,8.0,,0.0,,
-697c6b5e9a94d1f5707d5618,Hershey's Fudge Brownie ,67bdc806855e4112ad907797,Unknown,3.79,1.89,Candy,2.0,2.0,,0.0,,
-697c6bee2144d4a53d58fe1d,Honibe Immune Boost Honey Lozenges (10 ct),67bdc806855e4112ad907797,Unknown,5.89,2.94,Medicine,3.0,3.0,,0.0,,
-697c6c27b18d7c28790198a9,Children's Motrin Fever & Pain Relief Dye-Free Berry Oral Suspension (120 ml),67bdc806855e4112ad907797,Unknown,11.99,5.99,Medicine,1.0,1.0,,0.0,,
-697c6c34b18d7c28790198c2,Emergen-C Immune Support Strawberry Crystals (24 ct),67bdc806855e4112ad907797,Unknown,20.89,10.44,Vitamins&Supplements,1.0,1.0,,0.0,,
-697c6cc02144d4a53d590063,Imodium Complete Caplets (20 ct),67bdc806855e4112ad907797,Unknown,33.49,16.74,Medicine,6.0,6.0,,0.0,,
-697c6ced99d3c5ddb47f96c2,Blistex Deep Moisture Renewal Broad Spectrum SPF 15 Lip Protectant (1 ct),67bdc806855e4112ad907797,Unknown,6.39,3.19,Beauty,2.0,2.0,,0.0,,
-697c6d3e99d3c5ddb47f9800,Purina One +Plus Healthy Puppy Lamb Dry Puppy Food (1.81 kg),67bdc806855e4112ad907797,Unknown,15.59,7.79,Pet Care,2.0,2.0,,0.0,,
-697c6d5c99d3c5ddb47f9886,Purina Dog Chow Complete Adult Dry Dog Food (8 kg),67bdc806855e4112ad907797,Unknown,28.59,14.29,Pet Care,1.0,1.0,,0.0,,
-697d3bf2d96ad3ac17016eb7,Honibe Immune Boost Honey Lozenges (10 ct),65e8f30bcb43951cbd853f59,Unknown,5.89,2.94,Medicine,1.0,1.0,,0.0,,
-697d3c47719e3aa44e7ea49d,Old Spice Sweat Defense Stronger Swagger Dry Spray Antiperspirant (122 g),65e8f30bcb43951cbd853f59,Unknown,12.49,6.24,Personal Care,1.0,1.0,,0.0,,
-697d3cadd96ad3ac17018653,Gaviscon Max Relief Berry Blend Acid Reflux & Heartburn Relief Tablets (50 ct),65e8f30bcb43951cbd853f59,Unknown,20.89,10.44,Medicine,1.0,1.0,,0.0,,
-697d3cf47d3c1497a47220a9,Gerber Mealtime Beef & Veggies Purée (160 ml),65e8f30bcb43951cbd853f59,Unknown,2.99,1.49,Baby,2.0,2.0,,0.0,,
-697d3dbabcbf3ae52d1f0219,Blistex Complete Moisture Lip Balm (1 ct),65e8f30bcb43951cbd853f59,Unknown,5.89,2.94,Beauty,151.0,151.0,,0.0,,
-697db336e9a0a7e95d6182b0,"Alpo Cookout Classics Pork, Beef, Chicken, & Veggie Dog Food (7.2 kg)",65e8f30bcb43951cbd853f59,Unknown,26.29,13.15,Pet Care,1.0,1.0,,0.0,,
-697db7f7861645b84c325593,Enfamil A+ Stage 1 Powder Formula Refill (992 g),65e8f30bcb43951cbd853f59,Unknown,75.99,37.99,Baby,2.0,2.0,,0.0,,
-697db857ee5a6123d4c57e5c,Durex Play 2-in-1 Ylang Ylang Massage Lubricant (200 ml),65e8f30bcb43951cbd853f59,Unknown,19.99,9.99,Personal Care,4.0,4.0,,0.0,,
-697dbe12865b08757797f640,Gatorade Zero Grape Powder Packets (10 ct),67bdc806855e4112ad907797,Unknown,9.59,4.79,Vitamins&Supplements,4.0,4.0,,0.0,,
-697f0327d0ddd9320aafc592,Taco Bell Creamy Baja Sauce (354 ml),65e8f30bcb43951cbd853f59,Unknown,5.79,2.89,Pantry,6.0,6.0,,0.0,,
-697f033b865b087577b24cf7,Kraft French Dressing (425 ml),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Pantry,8.0,8.0,,0.0,,
-697f0b2ee9a0a7e95d7f4110,Kraft French Dressing (425 ml),67bdc806855e4112ad907797,Unknown,4.49,2.24,Pantry,8.0,8.0,,0.0,,
-697f0c63e9a0a7e95d7f4814,Taco Bell Creamy Baja Sauce (354 ml),67bdc806855e4112ad907797,Unknown,5.79,2.89,Pantry,3.0,3.0,,0.0,,
-69805b13e9a0a7e95d9b5888,Taco Bell Crunch Wrap Supreme Cravings Kit(642 g),65e8f30bcb43951cbd853f59,Unknown,9.99,4.99,Pantry,3.0,3.0,,0.0,,
-69805b7e865b087577cb4385,Old El Paso Smart Fiesta Taco Seasoning Mix (24 g),65e8f30bcb43951cbd853f59,Unknown,1.89,0.94,Pantry,5.0,3.0,,2.0,,
-69805ba4865b087577cb4402,Kraft Stove Top Lower Sodium Chicken Stuffing Mix (120 g),65e8f30bcb43951cbd853f59,Unknown,2.89,1.44,Pantry,1.0,1.0,,0.0,,
-69806277d0ddd9320ac86a29,Taco Bell Crunchwrap Supreme Cravings Kit (642 g),67bdc806855e4112ad907797,Unknown,9.99,4.99,Pantry,2.0,2.0,,0.0,,
-6981b06c865b087577e6a294,Kraft Calorie-Wise Catalina Dressing (425 ml),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Pantry,9.0,9.0,,0.0,,
-6981b0a5d0ddd9320ae3b5f4,Carnaby Sweet Sour Watermelon Syrup (428 ml),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Pantry,11.0,11.0,,0.0,,
-6981b13fd0ddd9320ae3b689,Greetalia Honey Dill Sauce (500ml),65e8f30bcb43951cbd853f59,Unknown,4.7,2.35,Easy Meals,6.0,6.0,,0.0,,
-6981b184865b087577e6a5df,Kraft Stove Top Lower Sodium Chicken Stuffing Mix (120 g),65e8f30bcb43951cbd853f59,Unknown,2.89,1.44,Pantry,6.0,6.0,,0.0,,
-6981b348861645b84c82754e,Mama Sita's Tocino Marinating Mix (75 g),67bdc806855e4112ad907797,Unknown,1.89,0.94,Pantry,15.0,15.0,,0.0,,
-6981b348ee5a6123d41bf74e,Carnaby Sweet Sour Watermelon Syrup (428 ml),67bdc806855e4112ad907797,Unknown,5.49,2.74,Pantry,11.0,11.0,,0.0,,
-6981b351ee5a6123d41bf76f,Greetalia Honey Dill sauce,67bdc806855e4112ad907797,Unknown,4.99,2.5,Pantry,3.0,3.0,,0.0,,
-6981b3e1861645b84c827709,Taco Bell Crunchy Taco Cravings Kit (260 g),67bdc806855e4112ad907797,Unknown,5.79,2.89,Pantry,3.0,3.0,,0.0,,
-6982f85b861645b84c9e0c87,Carnaby Sweet Cotton Candy Syrup (428 ml),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Pantry,6.0,6.0,,0.0,,
-6982f9e4861645b84c9e1169,Old Dutch Gourmet Seasoned Pretzel Spindles (250 g),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Snacks,7.0,7.0,,0.0,,
-6982fcea861645b84c9e1ba9,Carnaby Sweet Cotton Candy Syrup (428 ml),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Pantry,6.0,6.0,,0.0,,
-6982fcfb861645b84c9e1bfd,Gatorade Zero Lemon-Lime Powder Packets (10 ct),65e8f30bcb43951cbd853f59,Unknown,9.99,4.99,Drinks,8.0,8.0,,0.0,,
-698301c3d0ddd9320afee0ef,Gatorade Zero Lemon-Lime Powder Packets (10 ct),67bdc806855e4112ad907797,Unknown,9.99,4.99,Drinks,2.0,1.0,,1.0,,
-698301c4865b08757701d107,Carnaby Sweet Cotton Candy Syrup (428 ml),67bdc806855e4112ad907797,Unknown,5.49,2.74,Pantry,10.0,10.0,,0.0,,
-698301c4d0ddd9320afee0fc,Dare Bear Paws Banana Bread Cookies (240 g),67bdc806855e4112ad907797,Unknown,4.49,2.24,Snacks,2.0,2.0,,0.0,,
-6984486b861645b84cbaf00d,Mama Sita's Caldereta Spicy Sauce Mix (50 g),65e8f30bcb43951cbd853f59,Unknown,1.89,0.94,Pantry,23.0,23.0,,0.0,,
-698448a5d0ddd9320a1a6514,Knorr Zero Salt Roasted Garlic Bouillon Powder (160 g),65e8f30bcb43951cbd853f59,Unknown,9.29,4.64,Pantry,9.0,9.0,,0.0,,
-69844ab4861645b84cbaf8ef,Sempio Korean BBQ Bulgogi Marinade Sauce (900 g),65e8f30bcb43951cbd853f59,Unknown,7.99,3.99,Pantry,3.0,2.0,,1.0,,
-69845853865b0875771df311,Heinz Tartar Sauce (354 ml),67bdc806855e4112ad907797,Unknown,5.89,2.94,Pantry,1.0,1.0,,0.0,,
-69845853e9a0a7e95df67630,Kraft Calorie-Wise Catalina Dressing (425 ml),67bdc806855e4112ad907797,Unknown,4.49,2.24,Pantry,9.0,9.0,,0.0,,
-69845853e9a0a7e95df6763d,Knorr Zero Salt Roasted Garlic Bouillon Powder (160 g),67bdc806855e4112ad907797,Unknown,9.29,4.64,Pantry,7.0,7.0,,0.0,,
-6984d7afee5a6123d46250de,Mixed Frozen Pastry  3 Pc,67e6b1577b5f59b1bba8c7c4,Unknown,20.0,5.0,Pizza Dough,4.0,4.0,,0.0,,
-6984d853e9a0a7e95dffd353,2 Pizza Dough FRESH,67e6b1577b5f59b1bba8c7c4,Unknown,12.0,4.99,Pizza Dough,9.0,9.0,,0.0,,
-6984d8d7ee5a6123d4628adf,1 Mixed Artisan Frozen,67e6b1577b5f59b1bba8c7c4,Unknown,6.99,2.0,Sourdough,4.0,4.0,,0.0,,
-6984d96dee5a6123d462a3da,"250 Ml Soup ,1 Loaf Bread  , Croissant",67e6b1577b5f59b1bba8c7c4,Unknown,18.0,9.0,Pizza Dough,8.0,8.0,,0.0,,
-698598b5861645b84cd7157b,Breton Bites Pizza Crackers (180 g),65e8f30bcb43951cbd853f59,Unknown,4.29,2.14,Snacks,6.0,6.0,,0.0,,
-6985991c865b08757739c1c8,Taco Bell Mild Taco Seasoning Mix (28 g),65e8f30bcb43951cbd853f59,Unknown,1.79,0.89,Pantry,8.0,8.0,,0.0,,
-6985992fd0ddd9320a36731d,PAM No-Stick Air Fryer Cooking Spray (141 g),65e8f30bcb43951cbd853f59,Unknown,7.29,3.64,Pantry,10.0,10.0,,0.0,,
-69859c26ee5a6123d4782428,Kraft Zesty Italian Dressing (425 ml),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Pantry,4.0,4.0,,0.0,,
-69859fe3e9a0a7e95d158c88,PAM No-Stick Air Fryer Cooking Spray (141 g),67bdc806855e4112ad907797,Unknown,7.29,3.64,Pantry,9.0,9.0,,0.0,,
-6985a013e9a0a7e95d158d0f,Knorr Zero Salt Beef Bouillon Powder (160 g),67bdc806855e4112ad907797,Unknown,9.29,4.64,Pantry,9.0,9.0,,0.0,,
-6985a050d0ddd9320a3692bb,Taco Bell Mild Taco Seasoning Mix (28 g),67bdc806855e4112ad907797,Unknown,1.79,0.89,Pantry,7.0,7.0,,0.0,,
-698650b7cdf3ac47e4cf2fe7,top dogs,5fac3e04d7528a3c966b13a4,Unknown,5.99,2.99,Meat,7.0,7.0,,0.0,,
-6986e8e860a3aaa497e27c54,Knorr Poudre de bouillon de bœuf sans sel / Zero Salt Beef Bouillon Powder (160 g),65e8f30bcb43951cbd853f59,Unknown,9.29,4.64,Pantry,11.0,11.0,,0.0,,
-6986e94260a3aaa497e27dc7,Milk Bone Soft & Chewy Steak & Cheese Dog Treats (113 g),65e8f30bcb43951cbd853f59,Unknown,3.29,1.64,Pet Care,3.0,3.0,,0.0,,
-698706db38ce139b25c98773,Quaker Carrot Muffin Mix (900 g),65e8f30bcb43951cbd853f59,Unknown,5.07,2.53,Pantry,2.0,2.0,,0.0,,
-698844d060a3aaa4970119e9,Snyder's of Hanover Twisted Nacho Cheese Pretzel Sticks (340 g),65e8f30bcb43951cbd853f59,Unknown,6.09,3.04,Snacks,9.0,9.0,,0.0,,
-6988480a631683bc34617df2,Snyder's of Hanover Twisted Nacho Cheese Pretzel Sticks (340 g),67bdc806855e4112ad907797,Unknown,6.09,3.04,Snacks,2.0,2.0,,0.0,,
-6988481d10bcc88893304cdf,Terra Sour Cream & Onion Vegetable Chips (141 g),67bdc806855e4112ad907797,Unknown,6.49,3.24,Snacks,7.0,7.0,,0.0,,
-6988d7c100585416b95429e4,From Our Chef Oven Roasted Ham 900gr,5d0bd76c8894a4ebbfd704b8,Unknown,40.0,18.0,HMR,4.0,4.0,,0.0,,
-6988ffede5de2b13bb4746be,candy cane cake poppers,5ddef30c9af4e045c44b9d67,Unknown,6.5,3.25,Bakery,2.0,2.0,,0.0,,
-6989925138ce139b25038e07,Club House La Grille Spicy Montreal Steak Spice Seasoning (157 g),65e8f30bcb43951cbd853f59,Unknown,7.59,3.79,Pantry,3.0,3.0,,0.0,,
-698999fb10bcc88893489f3b,Renee's Greek Feta Dressing (355 ml),67bdc806855e4112ad907797,Unknown,7.49,3.74,Pantry,4.0,4.0,,0.0,,
-698a1dd4b6083324ab2bd08d,Organic Cream 10%,5fac3e04d7528a3c966b13a4,Unknown,3.99,1.99,Centre of Store,8.0,8.0,,0.0,,
-698a3e5c38ce139b25121731,iceberg lettuce,65a1a8282f4530e32514d6c3,Unknown,4.99,2.5,Produce,6.0,5.0,,1.0,,
-698a6de210bcc888935c3465,Dark Choco Gingers,691b59a5669ef62168a65bdb,Unknown,4.5,3.0,Nuts & Snacks,12.0,12.0,,0.0,,
-698a6e5d60a3aaa49730527e,Truffle Pistachios,691b59a5669ef62168a65bdb,Unknown,13.5,8.5,Nuts & Snacks,1.0,1.0,,0.0,,
-698a6ef0631683bc348cb934,Super Mac Nut Mix,691b59a5669ef62168a65bdb,Unknown,20.0,14.0,Nuts & Snacks,2.0,2.0,,0.0,,
-698a6f4260a3aaa497307211,Fancy Nut Mix,691b59a5669ef62168a65bdb,Unknown,15.0,11.0,Nuts & Snacks,3.0,3.0,,0.0,,
-698a6fc110bcc888935c6c25,Inshell Peanuts Salted,691b59a5669ef62168a65bdb,Unknown,4.0,2.5,Nuts & Snacks,7.0,7.0,,0.0,,
-698a6ff038ce139b2519890e,Inshell Peanuts Unsalted,691b59a5669ef62168a65bdb,Unknown,4.0,2.0,Nuts & Snacks,4.0,4.0,,0.0,,
-698ae7ea10bcc888936407e6,Pillsbury Reese's Peanut Butter Cookie Dough (454 g),65e8f30bcb43951cbd853f59,Unknown,5.69,2.84,Bakery,4.0,4.0,,0.0,,
-698ae7fe38ce139b2521c690,The Laughing Cow Original Cheese Dippers with Whole Grain Breadsticks (140 g),65e8f30bcb43951cbd853f59,Unknown,4.39,2.19,Dairy & Eggs,3.0,2.0,,1.0,,
-698ae850631683bc34942ba3,Liberte 5% Raspberry Greek Yogurt (100 g x 4 ct),65e8f30bcb43951cbd853f59,Unknown,5.39,2.69,Dairy & Eggs,1.0,1.0,,0.0,,
-698aeee410bcc888936418e6,Goldfish Crisps Salt & Vinegar Baked Crackers (177 g),65e8f30bcb43951cbd853f59,Unknown,3.17,1.58,Snacks,3.0,3.0,,0.0,,
-698b6c9a89dc00ce48fabf9b,Free From Smoked Black Forest Ham,5d0bd76b8894a4ebbfd7048a,Unknown,8.5,4.25,Deli & Ready Meals,6.0,6.0,,0.0,,
-698b78e53b056c06dedc4320,FROZEN berries,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,3.0,Produce,4.0,4.0,,0.0,,
-698b78f6e9be5bffd2e5c343,Frozen Bananas,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,1.5,Produce,1.0,1.0,,0.0,,
-698b96959476de557476b191,"Dairy-Free Whipping Cream Alternative, Coconut based",5fac3e04d7528a3c966b13a4,Unknown,5.79,2.89,Centre of Store,2.0,2.0,,0.0,,
-698b9c403b056c06dee6fa42,Frozen Berries,5ddef30c9af4e045c44b9d67,Unknown,0.0,3.0,Produce,7.0,7.0,,0.0,,
-698baab19476de55747d20c8,Free From Original Breakfast Pork Sausages,5fac3e04d7528a3c966b13a4,Unknown,7.5,3.75,"Bacon, Sausages & Hot Dogs",2.0,2.0,,0.0,,
-698bb10f5f6e0bbdf058f0b9,Peanuts unsalted 227g,691b59a5669ef62168a65bdb,Unknown,3.5,1.5,Nuts & Snacks,11.0,11.0,,0.0,,
+694f4f235e79deb3be62174a,TRESemme Extra Hold Hairspray (311 g),65e8f30bcb43951cbd853f59,Unknown,11.79,5.89,Beauty,1.0,1.0,1.0,0.0,0.0,0.0
+695807500c79613ef47ed200,Pretzel Pzazz Sour Cream & Chive,685f076cae659ef8e57956fc,Unknown,4.49,3.49,Snacks & Drinks,2.0,2.0,2.0,0.0,0.0,0.0
+695807dba1132e12bc69c1a4,Haribo Peaches,685f076cae659ef8e57956fc,Unknown,4.79,4.19,Snacks & Drinks,6.0,6.0,6.0,0.0,0.0,0.0
+695808f35e79deb3beeece5d,Warheads Sour Galactic Cubes,685f076cae659ef8e57956fc,Unknown,4.29,3.69,Snacks & Drinks,2.0,2.0,2.0,0.0,0.0,0.0
+695809afa1132e12bc6a0f28,Trolli Sweet Peach,685f076cae659ef8e57956fc,Unknown,4.49,3.69,Snacks & Drinks,8.0,8.0,8.0,0.0,0.0,0.0
+69580a580c79613ef47f3b0e,Arizona Fruit Snacks,685f076cae659ef8e57956fc,Unknown,5.79,4.29,Snacks & Drinks,4.0,4.0,4.0,0.0,0.0,0.0
+69652c1c4af2f7687af33324,Milk Crate,69379713a3687e3a3db2d8bc,Unknown,0.25,0.01,General Merchandise,6.0,6.0,6.0,0.0,0.0,0.0
+69689ba1ec5bd6df663bb105,Frank's RedHot Spicy Buffalo Wings Sauce (354 ml),65e8f30bcb43951cbd853f59,Unknown,5.79,2.89,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
+69689ccf72737f9491dae2ae,Gerber Lil' Entrées Mashed Potato & Gravy with Roasted Chicken & Carrots Baby Food (187 g),65e8f30bcb43951cbd853f59,Unknown,3.69,1.84,Baby,1.0,1.0,1.0,0.0,0.0,0.0
+69689d43ec5bd6df663bb585,Mrs. Dash Lemon Pepper Seasoning Blend (70 g),65e8f30bcb43951cbd853f59,Unknown,5.89,2.94,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+696b3c4ee4d68b246f0e4639,Chef Boyardee ABC123 Pasta in Tomato Sauce (425 g),65e8f30bcb43951cbd853f59,Unknown,2.69,1.34,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+696de627f3eeb6c636b06463,Gits Sambhar Mix (100 g),65e8f30bcb43951cbd853f59,Unknown,2.39,1.19,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+696f38c1f3eeb6c636cde93a,Gerber Meals Cheese Ravioli in Tomato Sauce with Mixed Vegetables Baby Food (187 g),65e8f30bcb43951cbd853f59,Unknown,3.69,1.84,Baby,8.0,8.0,8.0,0.0,0.0,0.0
+696f3e28f3eeb6c636cdf9e4,Gerber Meals Cheese Ravioli in Tomato Sauce with Mixed Vegetables Baby Food (187 g),67bdc806855e4112ad907797,Unknown,3.69,1.84,Baby,4.0,4.0,4.0,0.0,0.0,0.0
+69714698a0eb91f622f82d6c,Whisky Kiss Almonds,691b59a5669ef62168a65bdb,Unknown,3.5,2.0,Nuts & Snacks,36.0,36.0,36.0,0.0,0.0,0.0
+697146fbe2f09d0b9327b973,Salted Caramel Cashew,691b59a5669ef62168a65bdb,Unknown,3.5,2.0,Nuts & Snacks,25.0,25.0,25.0,0.0,0.0,0.0
+6971473140e632216a673804,Butter Toffee Almonds,691b59a5669ef62168a65bdb,Unknown,3.5,2.0,Nuts & Snacks,22.0,22.0,22.0,0.0,0.0,0.0
+6971479b40e632216a6747a2,Durian Choco Dipped Almonds,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,17.0,17.0,17.0,0.0,0.0,0.0
+697147e9077af9138bbd2b71,Strawberry Choco Dipped Almonds,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,16.0,16.0,16.0,0.0,0.0,0.0
+6971481f077af9138bbd30d3,Matcha Choco Dipped Almonds,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,14.0,14.0,14.0,0.0,0.0,0.0
+6971485c9f875680704e4823,Yogurt Almonds,691b59a5669ef62168a65bdb,Unknown,4.5,2.25,Nuts & Snacks,2.0,2.0,2.0,0.0,0.0,0.0
+697148999f875680704e521a,Choco Salted Caramel Cashews,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,15.0,15.0,15.0,0.0,0.0,0.0
+6971dd5fcf5c56b4f1afbd3a,SmartSweets Jolly Gems Assorted Flavour Hard Candy (70 g),65e8f30bcb43951cbd853f59,Unknown,9.99,4.99,Candy,2.0,2.0,2.0,0.0,0.0,0.0
+6971ddb8cf5c56b4f1afbe84,Jennyhouse Salon Code Glam Hair Color Glam Black Hair Dye (70 ml x 2 ct),65e8f30bcb43951cbd853f59,Unknown,17.99,8.99,Beauty,1.0,1.0,1.0,0.0,0.0,0.0
+69732c3e4bb7d7af11a91f93,Gatorade Orange Powder Packets (10 ct),65e8f30bcb43951cbd853f59,Unknown,9.59,4.79,Vitamins&Supplements,2.0,2.0,2.0,0.0,0.0,0.0
+697330594e0f1abfea691014,Pearl Milling Company Lite Syrup (710 ml),67bdc806855e4112ad907797,Unknown,5.29,2.64,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+697515eee4fe4341353ac7de,Frozen Bananas,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,1.0,Produce,2.0,2.0,2.0,0.0,0.0,0.0
+6975ce314e0f1abfea9c5cc8,Heinz Sriracha Mayonnaise,67bdc806855e4112ad907797,Unknown,4.99,2.49,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
+6976ba764bb7d7af11f788f7,New World Almond Butter Crunchy Roasted 500g,67ffcc6581edee2219c54e94,Unknown,14.99,9.99,Grocery,46.0,46.0,46.0,0.0,0.0,0.0
+6976bb2dcf5c56b4f1144310,Bestropics Coconut Smoothie 355ml,67ffcc6581edee2219c54e94,Unknown,3.49,1.99,Beverages,49.0,49.0,49.0,0.0,0.0,0.0
+6976bbec7717e37fa681e259,Karma Sparkling Watermelon Hydration Drink 285ml,67ffcc6581edee2219c54e94,Unknown,3.99,1.99,Beverages,26.0,26.0,26.0,0.0,0.0,0.0
+6976bc9ccf5c56b4f114614f,Karma Sparkling Grape Hydration Drink 285ml,67ffcc6581edee2219c54e94,Unknown,3.99,1.99,Beverages,25.0,25.0,25.0,0.0,0.0,0.0
+6976bce23695546c5d4594c5,Karma Apple Soda 285ml,67ffcc6581edee2219c54e94,Unknown,3.99,1.99,Beverages,25.0,25.0,25.0,0.0,0.0,0.0
+6976bd304e0f1abfeaaeefcf,Karma Berry Soda 285ml,67ffcc6581edee2219c54e94,Unknown,3.99,1.99,Beverages,29.0,29.0,29.0,0.0,0.0,0.0
+69771ab14e0f1abfeab3331f,Gerber Lil' Entrées Mac & Cheese with Peas & Carrots Baby Food (187 g),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Baby,8.0,8.0,8.0,0.0,0.0,0.0
+697723d0cf5c56b4f11902fb,Gerber Meals Mac & Cheese with Peas & Carrots Baby Food (187 g),67bdc806855e4112ad907797,Unknown,4.49,2.24,Baby,7.0,7.0,7.0,0.0,0.0,0.0
+697877287717e37fa6a37ac5,Quaker Carrot Muffin Mix (900 g),65e8f30bcb43951cbd853f59,Unknown,5.07,2.53,Pantry,7.0,7.0,7.0,0.0,0.0,0.0
+697879cc3695546c5d633170,Quaker Carrot Muffin Mix (900 g),67bdc806855e4112ad907797,Unknown,5.07,2.53,Pantry,9.0,9.0,9.0,0.0,0.0,0.0
+6979bddc4e0f1abfeae5589b,Gatorade Zero Glacier Cherry Powder Packets (10 ct),65e8f30bcb43951cbd853f59,Unknown,9.99,4.99,Drinks,5.0,5.0,5.0,0.0,0.0,0.0
+697b0a40e41ad7f03835403a,Schneider's Juicy Jumbo Three Cheese Jalapeno Loaded Wieners (375 g),65e8f30bcb43951cbd853f59,Unknown,11.39,5.69,Meat & Fish,4.0,4.0,4.0,0.0,0.0,0.0
+697b101b07574c87e30b2880,Knorr Beef Bouillon Cubes (63 g),65e8f30bcb43951cbd853f59,Unknown,3.99,1.99,Pantry,20.0,20.0,20.0,0.0,0.0,0.0
+697b1070f9dbb16ff2ffa653,Knorr Mexican Beef Bouillon Cubes (63 g),65e8f30bcb43951cbd853f59,Unknown,2.77,1.39,Pantry,21.0,21.0,21.0,0.0,0.0,0.0
+697b115fcf0decd78831b8f8,Super Q Golden Bihon Cornstarch Sticks (454 g),65e8f30bcb43951cbd853f59,Unknown,2.69,1.34,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+697b1262f9dbb16ff2ffaf5a,Betty Crocker Walnut Banana Bread Mix (348 g),65e8f30bcb43951cbd853f59,Unknown,4.69,2.34,Pantry,5.0,5.0,5.0,0.0,0.0,0.0
+697b12c9f9dbb16ff2ffb1d4,Heinz Mango Habanero Mayo,65e8f30bcb43951cbd853f59,Unknown,4.0,2.0,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+697b1a42cf0decd78831d942,Knorr Beef Bouillon Cubes (63 g),67bdc806855e4112ad907797,Unknown,3.99,1.99,Pantry,16.0,16.0,16.0,0.0,0.0,0.0
+697b1c53cf0decd78831de09,Betty Crocker Walnut Banana Bread Mix (348 g),67bdc806855e4112ad907797,Unknown,4.69,2.34,Pantry,6.0,6.0,6.0,0.0,0.0,0.0
+697b1c53e41ad7f038357be5,Knorr Mexican Beef Bouillon Cubes (63 g),67bdc806855e4112ad907797,Unknown,2.77,1.38,Pantry,13.0,13.0,13.0,0.0,0.0,0.0
+697b1c5be41ad7f038357c14,Heinz Mayonnaise Style Mango Habanero Sauce,67bdc806855e4112ad907797,Unknown,4.99,2.5,Pantry,8.0,8.0,8.0,0.0,0.0,0.0
+697c6b5e9a94d1f5707d5618,Hershey's Fudge Brownie ,67bdc806855e4112ad907797,Unknown,3.79,1.89,Candy,2.0,2.0,2.0,0.0,0.0,0.0
+697c6bee2144d4a53d58fe1d,Honibe Immune Boost Honey Lozenges (10 ct),67bdc806855e4112ad907797,Unknown,5.89,2.94,Medicine,3.0,3.0,3.0,0.0,0.0,0.0
+697c6c27b18d7c28790198a9,Children's Motrin Fever & Pain Relief Dye-Free Berry Oral Suspension (120 ml),67bdc806855e4112ad907797,Unknown,11.99,5.99,Medicine,1.0,1.0,1.0,0.0,0.0,0.0
+697c6c34b18d7c28790198c2,Emergen-C Immune Support Strawberry Crystals (24 ct),67bdc806855e4112ad907797,Unknown,20.89,10.44,Vitamins&Supplements,1.0,1.0,1.0,0.0,0.0,0.0
+697c6cc02144d4a53d590063,Imodium Complete Caplets (20 ct),67bdc806855e4112ad907797,Unknown,33.49,16.74,Medicine,6.0,6.0,6.0,0.0,0.0,0.0
+697c6ced99d3c5ddb47f96c2,Blistex Deep Moisture Renewal Broad Spectrum SPF 15 Lip Protectant (1 ct),67bdc806855e4112ad907797,Unknown,6.39,3.19,Beauty,2.0,2.0,2.0,0.0,0.0,0.0
+697c6d3e99d3c5ddb47f9800,Purina One +Plus Healthy Puppy Lamb Dry Puppy Food (1.81 kg),67bdc806855e4112ad907797,Unknown,15.59,7.79,Pet Care,2.0,2.0,2.0,0.0,0.0,0.0
+697c6d5c99d3c5ddb47f9886,Purina Dog Chow Complete Adult Dry Dog Food (8 kg),67bdc806855e4112ad907797,Unknown,28.59,14.29,Pet Care,1.0,1.0,1.0,0.0,0.0,0.0
+697d3bf2d96ad3ac17016eb7,Honibe Immune Boost Honey Lozenges (10 ct),65e8f30bcb43951cbd853f59,Unknown,5.89,2.94,Medicine,1.0,1.0,1.0,0.0,0.0,0.0
+697d3c47719e3aa44e7ea49d,Old Spice Sweat Defense Stronger Swagger Dry Spray Antiperspirant (122 g),65e8f30bcb43951cbd853f59,Unknown,12.49,6.24,Personal Care,1.0,1.0,1.0,0.0,0.0,0.0
+697d3cadd96ad3ac17018653,Gaviscon Max Relief Berry Blend Acid Reflux & Heartburn Relief Tablets (50 ct),65e8f30bcb43951cbd853f59,Unknown,20.89,10.44,Medicine,1.0,1.0,1.0,0.0,0.0,0.0
+697d3cf47d3c1497a47220a9,Gerber Mealtime Beef & Veggies Purée (160 ml),65e8f30bcb43951cbd853f59,Unknown,2.99,1.49,Baby,2.0,2.0,2.0,0.0,0.0,0.0
+697d3dbabcbf3ae52d1f0219,Blistex Complete Moisture Lip Balm (1 ct),65e8f30bcb43951cbd853f59,Unknown,5.89,2.94,Beauty,151.0,151.0,151.0,0.0,0.0,0.0
+697db336e9a0a7e95d6182b0,"Alpo Cookout Classics Pork, Beef, Chicken, & Veggie Dog Food (7.2 kg)",65e8f30bcb43951cbd853f59,Unknown,26.29,13.15,Pet Care,1.0,1.0,1.0,0.0,0.0,0.0
+697db7f7861645b84c325593,Enfamil A+ Stage 1 Powder Formula Refill (992 g),65e8f30bcb43951cbd853f59,Unknown,75.99,37.99,Baby,2.0,2.0,2.0,0.0,0.0,0.0
+697db857ee5a6123d4c57e5c,Durex Play 2-in-1 Ylang Ylang Massage Lubricant (200 ml),65e8f30bcb43951cbd853f59,Unknown,19.99,9.99,Personal Care,4.0,4.0,4.0,0.0,0.0,0.0
+697dbe12865b08757797f640,Gatorade Zero Grape Powder Packets (10 ct),67bdc806855e4112ad907797,Unknown,9.59,4.79,Vitamins&Supplements,4.0,4.0,4.0,0.0,0.0,0.0
+697f0327d0ddd9320aafc592,Taco Bell Creamy Baja Sauce (354 ml),65e8f30bcb43951cbd853f59,Unknown,5.79,2.89,Pantry,6.0,6.0,6.0,0.0,0.0,0.0
+697f033b865b087577b24cf7,Kraft French Dressing (425 ml),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Pantry,8.0,8.0,8.0,0.0,0.0,0.0
+697f0b2ee9a0a7e95d7f4110,Kraft French Dressing (425 ml),67bdc806855e4112ad907797,Unknown,4.49,2.24,Pantry,8.0,8.0,8.0,0.0,0.0,0.0
+697f0c63e9a0a7e95d7f4814,Taco Bell Creamy Baja Sauce (354 ml),67bdc806855e4112ad907797,Unknown,5.79,2.89,Pantry,3.0,3.0,3.0,0.0,0.0,0.0
+69805b13e9a0a7e95d9b5888,Taco Bell Crunch Wrap Supreme Cravings Kit(642 g),65e8f30bcb43951cbd853f59,Unknown,9.99,4.99,Pantry,3.0,3.0,3.0,0.0,0.0,0.0
+69805b7e865b087577cb4385,Old El Paso Smart Fiesta Taco Seasoning Mix (24 g),65e8f30bcb43951cbd853f59,Unknown,1.89,0.94,Pantry,5.0,3.0,3.0,2.0,0.0,2.0
+69805ba4865b087577cb4402,Kraft Stove Top Lower Sodium Chicken Stuffing Mix (120 g),65e8f30bcb43951cbd853f59,Unknown,2.89,1.44,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+69806277d0ddd9320ac86a29,Taco Bell Crunchwrap Supreme Cravings Kit (642 g),67bdc806855e4112ad907797,Unknown,9.99,4.99,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
+6981b06c865b087577e6a294,Kraft Calorie-Wise Catalina Dressing (425 ml),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Pantry,9.0,9.0,9.0,0.0,0.0,0.0
+6981b0a5d0ddd9320ae3b5f4,Carnaby Sweet Sour Watermelon Syrup (428 ml),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Pantry,11.0,11.0,11.0,0.0,0.0,0.0
+6981b13fd0ddd9320ae3b689,Greetalia Honey Dill Sauce (500ml),65e8f30bcb43951cbd853f59,Unknown,4.7,2.35,Easy Meals,6.0,6.0,6.0,0.0,0.0,0.0
+6981b184865b087577e6a5df,Kraft Stove Top Lower Sodium Chicken Stuffing Mix (120 g),65e8f30bcb43951cbd853f59,Unknown,2.89,1.44,Pantry,6.0,6.0,6.0,0.0,0.0,0.0
+6981b348861645b84c82754e,Mama Sita's Tocino Marinating Mix (75 g),67bdc806855e4112ad907797,Unknown,1.89,0.94,Pantry,15.0,15.0,15.0,0.0,0.0,0.0
+6981b348ee5a6123d41bf74e,Carnaby Sweet Sour Watermelon Syrup (428 ml),67bdc806855e4112ad907797,Unknown,5.49,2.74,Pantry,11.0,11.0,11.0,0.0,0.0,0.0
+6981b351ee5a6123d41bf76f,Greetalia Honey Dill sauce,67bdc806855e4112ad907797,Unknown,4.99,2.5,Pantry,3.0,3.0,3.0,0.0,0.0,0.0
+6981b3e1861645b84c827709,Taco Bell Crunchy Taco Cravings Kit (260 g),67bdc806855e4112ad907797,Unknown,5.79,2.89,Pantry,3.0,3.0,3.0,0.0,0.0,0.0
+6982f85b861645b84c9e0c87,Carnaby Sweet Cotton Candy Syrup (428 ml),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Pantry,6.0,6.0,6.0,0.0,0.0,0.0
+6982f9e4861645b84c9e1169,Old Dutch Gourmet Seasoned Pretzel Spindles (250 g),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Snacks,7.0,7.0,7.0,0.0,0.0,0.0
+6982fcea861645b84c9e1ba9,Carnaby Sweet Cotton Candy Syrup (428 ml),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Pantry,6.0,6.0,6.0,0.0,0.0,0.0
+6982fcfb861645b84c9e1bfd,Gatorade Zero Lemon-Lime Powder Packets (10 ct),65e8f30bcb43951cbd853f59,Unknown,9.99,4.99,Drinks,8.0,8.0,8.0,0.0,0.0,0.0
+698301c3d0ddd9320afee0ef,Gatorade Zero Lemon-Lime Powder Packets (10 ct),67bdc806855e4112ad907797,Unknown,9.99,4.99,Drinks,2.0,1.0,1.0,1.0,0.0,1.0
+698301c4865b08757701d107,Carnaby Sweet Cotton Candy Syrup (428 ml),67bdc806855e4112ad907797,Unknown,5.49,2.74,Pantry,10.0,10.0,10.0,0.0,0.0,0.0
+698301c4d0ddd9320afee0fc,Dare Bear Paws Banana Bread Cookies (240 g),67bdc806855e4112ad907797,Unknown,4.49,2.24,Snacks,2.0,2.0,2.0,0.0,0.0,0.0
+6984486b861645b84cbaf00d,Mama Sita's Caldereta Spicy Sauce Mix (50 g),65e8f30bcb43951cbd853f59,Unknown,1.89,0.94,Pantry,23.0,23.0,23.0,0.0,0.0,0.0
+698448a5d0ddd9320a1a6514,Knorr Zero Salt Roasted Garlic Bouillon Powder (160 g),65e8f30bcb43951cbd853f59,Unknown,9.29,4.64,Pantry,9.0,9.0,9.0,0.0,0.0,0.0
+69844ab4861645b84cbaf8ef,Sempio Korean BBQ Bulgogi Marinade Sauce (900 g),65e8f30bcb43951cbd853f59,Unknown,7.99,3.99,Pantry,3.0,2.0,2.0,1.0,0.0,1.0
+69845853865b0875771df311,Heinz Tartar Sauce (354 ml),67bdc806855e4112ad907797,Unknown,5.89,2.94,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
+69845853e9a0a7e95df67630,Kraft Calorie-Wise Catalina Dressing (425 ml),67bdc806855e4112ad907797,Unknown,4.49,2.24,Pantry,9.0,9.0,9.0,0.0,0.0,0.0
+69845853e9a0a7e95df6763d,Knorr Zero Salt Roasted Garlic Bouillon Powder (160 g),67bdc806855e4112ad907797,Unknown,9.29,4.64,Pantry,7.0,7.0,7.0,0.0,0.0,0.0
+6984d7afee5a6123d46250de,Mixed Frozen Pastry  3 Pc,67e6b1577b5f59b1bba8c7c4,Unknown,20.0,5.0,Pizza Dough,4.0,4.0,4.0,0.0,0.0,0.0
+6984d853e9a0a7e95dffd353,2 Pizza Dough FRESH,67e6b1577b5f59b1bba8c7c4,Unknown,12.0,4.99,Pizza Dough,9.0,9.0,9.0,0.0,0.0,0.0
+6984d8d7ee5a6123d4628adf,1 Mixed Artisan Frozen,67e6b1577b5f59b1bba8c7c4,Unknown,6.99,2.0,Sourdough,4.0,4.0,4.0,0.0,0.0,0.0
+6984d96dee5a6123d462a3da,"250 Ml Soup ,1 Loaf Bread  , Croissant",67e6b1577b5f59b1bba8c7c4,Unknown,18.0,9.0,Pizza Dough,8.0,8.0,8.0,0.0,0.0,0.0
+698598b5861645b84cd7157b,Breton Bites Pizza Crackers (180 g),65e8f30bcb43951cbd853f59,Unknown,4.29,2.14,Snacks,6.0,6.0,6.0,0.0,0.0,0.0
+6985991c865b08757739c1c8,Taco Bell Mild Taco Seasoning Mix (28 g),65e8f30bcb43951cbd853f59,Unknown,1.79,0.89,Pantry,8.0,8.0,8.0,0.0,0.0,0.0
+6985992fd0ddd9320a36731d,PAM No-Stick Air Fryer Cooking Spray (141 g),65e8f30bcb43951cbd853f59,Unknown,7.29,3.64,Pantry,10.0,10.0,10.0,0.0,0.0,0.0
+69859c26ee5a6123d4782428,Kraft Zesty Italian Dressing (425 ml),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Pantry,4.0,4.0,4.0,0.0,0.0,0.0
+69859fe3e9a0a7e95d158c88,PAM No-Stick Air Fryer Cooking Spray (141 g),67bdc806855e4112ad907797,Unknown,7.29,3.64,Pantry,9.0,9.0,9.0,0.0,0.0,0.0
+6985a013e9a0a7e95d158d0f,Knorr Zero Salt Beef Bouillon Powder (160 g),67bdc806855e4112ad907797,Unknown,9.29,4.64,Pantry,9.0,9.0,9.0,0.0,0.0,0.0
+6985a050d0ddd9320a3692bb,Taco Bell Mild Taco Seasoning Mix (28 g),67bdc806855e4112ad907797,Unknown,1.79,0.89,Pantry,7.0,7.0,7.0,0.0,0.0,0.0
+698650b7cdf3ac47e4cf2fe7,top dogs,5fac3e04d7528a3c966b13a4,Unknown,5.99,2.99,Meat,7.0,7.0,6.0,0.0,1.0,1.0
+6986e8e860a3aaa497e27c54,Knorr Poudre de bouillon de bœuf sans sel / Zero Salt Beef Bouillon Powder (160 g),65e8f30bcb43951cbd853f59,Unknown,9.29,4.64,Pantry,11.0,11.0,11.0,0.0,0.0,0.0
+6986e94260a3aaa497e27dc7,Milk Bone Soft & Chewy Steak & Cheese Dog Treats (113 g),65e8f30bcb43951cbd853f59,Unknown,3.29,1.64,Pet Care,3.0,3.0,3.0,0.0,0.0,0.0
+698706db38ce139b25c98773,Quaker Carrot Muffin Mix (900 g),65e8f30bcb43951cbd853f59,Unknown,5.07,2.53,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
+698844d060a3aaa4970119e9,Snyder's of Hanover Twisted Nacho Cheese Pretzel Sticks (340 g),65e8f30bcb43951cbd853f59,Unknown,6.09,3.04,Snacks,9.0,9.0,9.0,0.0,0.0,0.0
+6988480a631683bc34617df2,Snyder's of Hanover Twisted Nacho Cheese Pretzel Sticks (340 g),67bdc806855e4112ad907797,Unknown,6.09,3.04,Snacks,2.0,2.0,2.0,0.0,0.0,0.0
+6988481d10bcc88893304cdf,Terra Sour Cream & Onion Vegetable Chips (141 g),67bdc806855e4112ad907797,Unknown,6.49,3.24,Snacks,7.0,7.0,7.0,0.0,0.0,0.0
+6988d7c100585416b95429e4,From Our Chef Oven Roasted Ham 900gr,5d0bd76c8894a4ebbfd704b8,Unknown,40.0,18.0,HMR,4.0,4.0,4.0,0.0,0.0,0.0
+6988ffede5de2b13bb4746be,candy cane cake poppers,5ddef30c9af4e045c44b9d67,Unknown,6.5,3.25,Bakery,2.0,2.0,2.0,0.0,0.0,0.0
+6989925138ce139b25038e07,Club House La Grille Spicy Montreal Steak Spice Seasoning (157 g),65e8f30bcb43951cbd853f59,Unknown,7.59,3.79,Pantry,3.0,3.0,3.0,0.0,0.0,0.0
+698999fb10bcc88893489f3b,Renee's Greek Feta Dressing (355 ml),67bdc806855e4112ad907797,Unknown,7.49,3.74,Pantry,4.0,4.0,4.0,0.0,0.0,0.0
+698a1dd4b6083324ab2bd08d,Organic Cream 10%,5fac3e04d7528a3c966b13a4,Unknown,3.99,1.99,Centre of Store,8.0,8.0,8.0,0.0,0.0,0.0
+698a3e5c38ce139b25121731,iceberg lettuce,65a1a8282f4530e32514d6c3,Unknown,4.99,2.5,Produce,6.0,5.0,5.0,1.0,0.0,1.0
+698a6de210bcc888935c3465,Dark Choco Gingers,691b59a5669ef62168a65bdb,Unknown,4.5,3.0,Nuts & Snacks,12.0,12.0,12.0,0.0,0.0,0.0
+698a6e5d60a3aaa49730527e,Truffle Pistachios,691b59a5669ef62168a65bdb,Unknown,13.5,8.5,Nuts & Snacks,1.0,1.0,1.0,0.0,0.0,0.0
+698a6ef0631683bc348cb934,Super Mac Nut Mix,691b59a5669ef62168a65bdb,Unknown,20.0,14.0,Nuts & Snacks,2.0,2.0,2.0,0.0,0.0,0.0
+698a6f4260a3aaa497307211,Fancy Nut Mix,691b59a5669ef62168a65bdb,Unknown,15.0,11.0,Nuts & Snacks,3.0,3.0,3.0,0.0,0.0,0.0
+698a6fc110bcc888935c6c25,Inshell Peanuts Salted,691b59a5669ef62168a65bdb,Unknown,4.0,2.5,Nuts & Snacks,7.0,7.0,7.0,0.0,0.0,0.0
+698a6ff038ce139b2519890e,Inshell Peanuts Unsalted,691b59a5669ef62168a65bdb,Unknown,4.0,2.0,Nuts & Snacks,4.0,4.0,4.0,0.0,0.0,0.0
+698ae7ea10bcc888936407e6,Pillsbury Reese's Peanut Butter Cookie Dough (454 g),65e8f30bcb43951cbd853f59,Unknown,5.69,2.84,Bakery,4.0,4.0,4.0,0.0,0.0,0.0
+698ae7fe38ce139b2521c690,The Laughing Cow Original Cheese Dippers with Whole Grain Breadsticks (140 g),65e8f30bcb43951cbd853f59,Unknown,4.39,2.19,Dairy & Eggs,3.0,2.0,2.0,1.0,0.0,1.0
+698ae850631683bc34942ba3,Liberte 5% Raspberry Greek Yogurt (100 g x 4 ct),65e8f30bcb43951cbd853f59,Unknown,5.39,2.69,Dairy & Eggs,1.0,1.0,1.0,0.0,0.0,0.0
+698aeee410bcc888936418e6,Goldfish Crisps Salt & Vinegar Baked Crackers (177 g),65e8f30bcb43951cbd853f59,Unknown,3.17,1.58,Snacks,3.0,3.0,3.0,0.0,0.0,0.0
+698b6c9a89dc00ce48fabf9b,Free From Smoked Black Forest Ham,5d0bd76b8894a4ebbfd7048a,Unknown,8.5,4.25,Deli & Ready Meals,6.0,6.0,6.0,0.0,0.0,0.0
+698b78e53b056c06dedc4320,FROZEN berries,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,3.0,Produce,4.0,4.0,4.0,0.0,0.0,0.0
+698b78f6e9be5bffd2e5c343,Frozen Bananas,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,1.5,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698b96959476de557476b191,"Dairy-Free Whipping Cream Alternative, Coconut based",5fac3e04d7528a3c966b13a4,Unknown,5.79,2.89,Centre of Store,2.0,2.0,1.0,0.0,1.0,1.0
+698b9c403b056c06dee6fa42,Frozen Berries,5ddef30c9af4e045c44b9d67,Unknown,0.0,3.0,Produce,7.0,7.0,7.0,0.0,0.0,0.0
+698baab19476de55747d20c8,Free From Original Breakfast Pork Sausages,5fac3e04d7528a3c966b13a4,Unknown,7.5,3.75,"Bacon, Sausages & Hot Dogs",2.0,2.0,1.0,0.0,1.0,1.0
+698bb10f5f6e0bbdf058f0b9,Peanuts unsalted 227g,691b59a5669ef62168a65bdb,Unknown,3.5,1.5,Nuts & Snacks,11.0,11.0,11.0,0.0,0.0,0.0
 698c13099476de55748e2437,Mixed Produce Box #106,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c1336ff05ab02e96981df,Mixed Produce Box #105,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c13649476de55748e26c0,Mixed Produce Box #91,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c13af3b056c06defc3b93,Mixed Produce Box #64,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c16bcc4a187cb6c30002a,Mixed Produce Box #61,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
-698c2ea85f6e0bbdf062e31a,WAKEMAKE Water Glow Coating Foundation #23 Beige (30 ml),65e8f30bcb43951cbd853f59,Unknown,39.99,19.99,Beauty,3.0,3.0,,0.0,,
-698c2ebb9f2f71d05bf4ad3e,Grace Peanut Punch,65e8f30bcb43951cbd853f59,Unknown,1.59,0.79,Pantry,2.0,2.0,,0.0,,
-698c2f0d730afb77e7253193,Little Sheep Plain Hot Pot Soup Base (130 g),65e8f30bcb43951cbd853f59,Unknown,6.39,3.19,Pantry,13.0,13.0,,0.0,,
-698c3f25730afb77e72565ec,WAKEMAKE Water Glow Coating Foundation #23 Beige (30 ml),67bdc806855e4112ad907797,Unknown,39.99,19.99,Beauty,2.0,2.0,,0.0,,
-698c3f25cef1e3f1e10f49af,Little Sheep Plain Hot Pot Soup Base (130 g),67bdc806855e4112ad907797,Unknown,6.39,3.19,Pantry,21.0,21.0,,0.0,,
-698c3f3d9f2f71d05bf4ddfd,Maynards Original Gummies (150 g),67bdc806855e4112ad907797,Unknown,3.89,1.94,Candy,1.0,1.0,,0.0,,
+698c2ea85f6e0bbdf062e31a,WAKEMAKE Water Glow Coating Foundation #23 Beige (30 ml),65e8f30bcb43951cbd853f59,Unknown,39.99,19.99,Beauty,3.0,3.0,3.0,0.0,0.0,0.0
+698c2ebb9f2f71d05bf4ad3e,Grace Peanut Punch,65e8f30bcb43951cbd853f59,Unknown,1.59,0.79,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
+698c2f0d730afb77e7253193,Little Sheep Plain Hot Pot Soup Base (130 g),65e8f30bcb43951cbd853f59,Unknown,6.39,3.19,Pantry,13.0,13.0,13.0,0.0,0.0,0.0
+698c3f25730afb77e72565ec,WAKEMAKE Water Glow Coating Foundation #23 Beige (30 ml),67bdc806855e4112ad907797,Unknown,39.99,19.99,Beauty,2.0,2.0,2.0,0.0,0.0,0.0
+698c3f25cef1e3f1e10f49af,Little Sheep Plain Hot Pot Soup Base (130 g),67bdc806855e4112ad907797,Unknown,6.39,3.19,Pantry,21.0,21.0,21.0,0.0,0.0,0.0
+698c3f3d9f2f71d05bf4ddfd,Maynards Original Gummies (150 g),67bdc806855e4112ad907797,Unknown,3.89,1.94,Candy,1.0,1.0,1.0,0.0,0.0,0.0
 698c8791e9be5bffd2139636,Mixed Produce Box #55,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c879e9476de5574992e49,Mixed Produce Box #56,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c87b1c4a187cb6c3cd41f,Mixed Produce Box #57,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c87b63b056c06de06f020,Mixed Produce Box #58,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c87c39476de5574993a37,Mixed Produce Box #59,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698c880f9476de55749954a7,Mixed Produce Box #64,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
-698cba61ff05ab02e9890455,cheese dippers,5d0bd76b8894a4ebbfd7048a,Unknown,4.79,2.39,Deli,21.0,21.0,,0.0,,
-698cdee71afe283c4b40a634,Cauliflower Florets,5ddef30c9af4e045c44b9d67,Unknown,5.99,2.99,Fresh Cut Fruits & Vegetables,6.0,3.0,,3.0,,
-698cebc51afe283c4b45a5c9,Mixed Produce Box #105,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698cebe09476de5574bd9c2f,Mixed Produce Box #102,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698cec379476de5574bdafd4,Mixed Produce Box #501,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698cec6be9be5bffd238873c,Mixed Produce Box #109,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698cec9f173fcd3e618dc9c4,Mixed Produce Box #77,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698cecb5173fcd3e618dce6a,Mixed Produce Box #60,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+698cba61ff05ab02e9890455,cheese dippers,5d0bd76b8894a4ebbfd7048a,Unknown,4.79,2.39,Deli,21.0,21.0,21.0,0.0,0.0,0.0
+698cdee71afe283c4b40a634,Cauliflower Florets,5ddef30c9af4e045c44b9d67,Unknown,5.99,2.99,Fresh Cut Fruits & Vegetables,6.0,3.0,2.0,3.0,1.0,4.0
+698cebc51afe283c4b45a5c9,Mixed Produce Box #105,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698cebe09476de5574bd9c2f,Mixed Produce Box #102,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698cec379476de5574bdafd4,Mixed Produce Box #501,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698cec6be9be5bffd238873c,Mixed Produce Box #109,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698cec9f173fcd3e618dc9c4,Mixed Produce Box #77,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698cecb5173fcd3e618dce6a,Mixed Produce Box #60,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 698ceccfff05ab02e99a706b,Mixed Produce Box #117,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698ced3c9476de5574be035e,Mixed Produce Box #702,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698ced7d9476de5574be1824,Mixed Produce Box #200,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698ced919476de5574be1f09,Mixed Produce Box #503,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698ceda8ff05ab02e99ac14e,Mixed Produce Box #508,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698cf50d1afe283c4b4942d3,dilly dip,5ddef30c9af4e045c44b9d67,Unknown,7.5,2.0,Produce,4.0,4.0,,0.0,,
-698d827e730afb77e742b185,Dairyland 33% Whipping Cream Carton (946 ml),65e8f30bcb43951cbd853f59,Unknown,7.69,3.84,Dairy & Eggs,7.0,7.0,,0.0,,
-698d82aa5f6e0bbdf07e9a8a,Suraj 3.25% Dahi Yogurt (750 g),65e8f30bcb43951cbd853f59,Unknown,2.79,1.39,Dairy & Eggs,1.0,1.0,,0.0,,
-698d84993887249b9e43d685,Aquafina + vitamines Strawberry Kiwi / Aquafina + Vitamins Strawberry Kiwi (591 ml),65e8f30bcb43951cbd853f59,Unknown,1.67,0.83,Drinks,11.0,10.0,,1.0,,
-698d861f9f2f71d05b103a2e,Taco Bell Mild Sauce (207 ml),65e8f30bcb43951cbd853f59,Unknown,4.29,2.14,Pantry,13.0,13.0,,0.0,,
-698d8665730afb77e742c197,Surati Bombay Bhel Mix Snacks (341 g),65e8f30bcb43951cbd853f59,Unknown,3.49,1.74,Snacks,7.0,7.0,,0.0,,
-698d8a673887249b9e43ec54,Yoplait Mango Yogurt tubes,67bdc806855e4112ad907797,Unknown,3.17,1.58,Dairy & Eggs,3.0,3.0,,0.0,,
-698d8a67730afb77e742d030,Charlotte's Mini Strawberry Parfait (133 g),67bdc806855e4112ad907797,Unknown,4.29,2.14,Bakery,2.0,2.0,,0.0,,
-698d8a679f2f71d05b104813,Smucker's Uncrustables Peanut Butter & Grape Spread Sandwich (58 g),67bdc806855e4112ad907797,Unknown,1.59,0.79,Easy Meals,3.0,3.0,,0.0,,
+698ced3c9476de5574be035e,Mixed Produce Box #702,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698ced7d9476de5574be1824,Mixed Produce Box #200,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698ced919476de5574be1f09,Mixed Produce Box #503,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698ceda8ff05ab02e99ac14e,Mixed Produce Box #508,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698cf50d1afe283c4b4942d3,dilly dip,5ddef30c9af4e045c44b9d67,Unknown,7.5,2.0,Produce,4.0,4.0,4.0,0.0,0.0,0.0
+698d827e730afb77e742b185,Dairyland 33% Whipping Cream Carton (946 ml),65e8f30bcb43951cbd853f59,Unknown,7.69,3.84,Dairy & Eggs,7.0,7.0,7.0,0.0,0.0,0.0
+698d82aa5f6e0bbdf07e9a8a,Suraj 3.25% Dahi Yogurt (750 g),65e8f30bcb43951cbd853f59,Unknown,2.79,1.39,Dairy & Eggs,1.0,1.0,1.0,0.0,0.0,0.0
+698d84993887249b9e43d685,Aquafina + vitamines Strawberry Kiwi / Aquafina + Vitamins Strawberry Kiwi (591 ml),65e8f30bcb43951cbd853f59,Unknown,1.67,0.83,Drinks,11.0,10.0,10.0,1.0,0.0,1.0
+698d861f9f2f71d05b103a2e,Taco Bell Mild Sauce (207 ml),65e8f30bcb43951cbd853f59,Unknown,4.29,2.14,Pantry,13.0,13.0,13.0,0.0,0.0,0.0
+698d8665730afb77e742c197,Surati Bombay Bhel Mix Snacks (341 g),65e8f30bcb43951cbd853f59,Unknown,3.49,1.74,Snacks,7.0,7.0,7.0,0.0,0.0,0.0
+698d8a673887249b9e43ec54,Yoplait Mango Yogurt tubes,67bdc806855e4112ad907797,Unknown,3.17,1.58,Dairy & Eggs,3.0,3.0,3.0,0.0,0.0,0.0
+698d8a67730afb77e742d030,Charlotte's Mini Strawberry Parfait (133 g),67bdc806855e4112ad907797,Unknown,4.29,2.14,Bakery,2.0,2.0,2.0,0.0,0.0,0.0
+698d8a679f2f71d05b104813,Smucker's Uncrustables Peanut Butter & Grape Spread Sandwich (58 g),67bdc806855e4112ad907797,Unknown,1.59,0.79,Easy Meals,3.0,3.0,3.0,0.0,0.0,0.0
 698d8ffe5f6e0bbdf07ec389,Aero Scoops Double Chocolate Bar (105 g),67bdc806855e4112ad907797,Unknown,3.89,1.94,Candy,1.0,1.0,,0.0,,
-698d8ffecef1e3f1e12b7861,Old Dutch Dill Pickle Potato Chips (235 g),67bdc806855e4112ad907797,Unknown,5.29,2.64,Snacks,6.0,6.0,,0.0,,
+698d8ffecef1e3f1e12b7861,Old Dutch Dill Pickle Potato Chips (235 g),67bdc806855e4112ad907797,Unknown,5.29,2.64,Snacks,6.0,6.0,6.0,0.0,0.0,0.0
 698dfcd7358acaf0fc993cb4,"Original, Vanilla",5d0bd76b8894a4ebbfd7048a,Unknown,29.99,14.99,Natural Foods,1.0,,,,,
-698e01a9eae502183762e156,2% Milk,5d0bd76b8894a4ebbfd7048a,Unknown,1.51,0.75,Dairy and Eggs,8.0,8.0,,0.0,,
+698e01a9eae502183762e156,2% Milk,5d0bd76b8894a4ebbfd7048a,Unknown,1.51,0.75,Dairy and Eggs,8.0,8.0,8.0,0.0,0.0,0.0
 698e0914d7057f02608fde75,Flavored Ground Coffee The Original Irish Cream,5d0bd76c8894a4ebbfd704b8,Unknown,16.99,8.49,Centre of Store,3.0,,,,,
-698e140f1df81d9c30b3a950,Free From Smoked Black Forest Ham,5d0bd76b8894a4ebbfd7048a,Unknown,8.5,4.25,Deli & Ready Meals,8.0,8.0,,0.0,,
-698e14289bcb5948f0f6755e,cheese dippers,5d0bd76b8894a4ebbfd7048a,Unknown,4.79,2.39,Deli,2.0,2.0,,0.0,,
-698e14785e6d54d2090fa300,Naturally Imperfect English Cucumber 3lb Bag,65bd257956f2d4f45a3da0e2,Unknown,6.0,3.0,Fruits & Vegetables,2.0,2.0,,0.0,,
-698e17e5664d59f4863f93a1,fresh ASC tilapia fillets regular tray,5d0bd76b8894a4ebbfd7048a,Unknown,6.49,3.24,Seafood,1.0,1.0,,0.0,,
-698e1d7e9bcb5948f0f9b73d,Halal Chicken Breast Strips,5d0bd76c8894a4ebbfd704b8,Unknown,7.5,3.0,International Foods,7.0,7.0,,0.0,,
-698e2339664d59f486443968,Mixed Produce Box #169,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+698e140f1df81d9c30b3a950,Free From Smoked Black Forest Ham,5d0bd76b8894a4ebbfd7048a,Unknown,8.5,4.25,Deli & Ready Meals,8.0,8.0,8.0,0.0,0.0,0.0
+698e14289bcb5948f0f6755e,cheese dippers,5d0bd76b8894a4ebbfd7048a,Unknown,4.79,2.39,Deli,2.0,2.0,2.0,0.0,0.0,0.0
+698e14785e6d54d2090fa300,Naturally Imperfect English Cucumber 3lb Bag,65bd257956f2d4f45a3da0e2,Unknown,6.0,3.0,Fruits & Vegetables,2.0,2.0,2.0,0.0,0.0,0.0
+698e17e5664d59f4863f93a1,fresh ASC tilapia fillets regular tray,5d0bd76b8894a4ebbfd7048a,Unknown,6.49,3.24,Seafood,1.0,1.0,1.0,0.0,0.0,0.0
+698e1d7e9bcb5948f0f9b73d,Halal Chicken Breast Strips,5d0bd76c8894a4ebbfd704b8,Unknown,7.5,3.0,International Foods,7.0,7.0,7.0,0.0,0.0,0.0
+698e2339664d59f486443968,Mixed Produce Box #169,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 698e2369664d59f486444e24,Mixed Produce Box #67,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
-698e237b9bcb5948f0fba076,Mixed Produce Box #220,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+698e237b9bcb5948f0fba076,Mixed Produce Box #220,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 698e2386664d59f486445c7d,Mixed Produce Box #69,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
-698e23a79bcb5948f0fbb3c7,Mixed Produce Box #221,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+698e23a79bcb5948f0fbb3c7,Mixed Produce Box #221,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 698e23a81df81d9c30b946bc,Mixed Produce Box #71,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698e23b91df81d9c30b94f02,Mixed Produce Box #72,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698e23d51df81d9c30b95b50,Mixed Produce Box #74,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 698e23db4a4f6bbca944d46d,Mixed Produce Box #170,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,,,,,
 698e23e4ee414cfcab254d5e,Mixed Produce Box #75,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
-698e241bee414cfcab255b47,Mixed Produce Box #167,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698e25fc9bcb5948f0fc804f,Mixed Produce Box #57,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698e262f664d59f4864569c3,Mixed Produce Box #13,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698e265b9bcb5948f0fca5ca,Mixed Produce Box #105,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698e26bc1df81d9c30ba49e2,Mixed Produce Box #501,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698e27031df81d9c30ba5881,Mixed Produce Box #109,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+698e241bee414cfcab255b47,Mixed Produce Box #167,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698e25fc9bcb5948f0fc804f,Mixed Produce Box #57,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698e262f664d59f4864569c3,Mixed Produce Box #13,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698e265b9bcb5948f0fca5ca,Mixed Produce Box #105,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698e26bc1df81d9c30ba49e2,Mixed Produce Box #501,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698e27031df81d9c30ba5881,Mixed Produce Box #109,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 698e27304a4f6bbca9462428,Mixed Produce Box #60,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,,,,,
 698e27b14a4f6bbca94659d5,Mixed Produce Box #117,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,,,,,
-698e27eb4a4f6bbca9466c24,Mixed Produce Box #78,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698e28249bcb5948f0fd46e7,Mixed Produce Box #52,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+698e27eb4a4f6bbca9466c24,Mixed Produce Box #78,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698e28249bcb5948f0fd46e7,Mixed Produce Box #52,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 698e28aa9bcb5948f0fd7267,Mixed Produce Box #112,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,,,,,
-698e2917ee414cfcab26d5b5,Mixed Produce Box #6,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-698e3e6e19ce08acfa8bec7a,orange tangerine aquafijs plus+ (591ml),65e8f30bcb43951cbd853f59,Unknown,2.7,1.35,Drinks,11.0,11.0,,0.0,,
-698e7c70b00680d6ddcd1a79,Mild Italian Pork Sausages,629cec56061cc278a85326dc,Unknown,8.0,4.0,Meat,2.0,2.0,,0.0,,
+698e2917ee414cfcab26d5b5,Mixed Produce Box #6,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+698e3e6e19ce08acfa8bec7a,orange tangerine aquafijs plus+ (591ml),65e8f30bcb43951cbd853f59,Unknown,2.7,1.35,Drinks,11.0,11.0,11.0,0.0,0.0,0.0
+698e7c70b00680d6ddcd1a79,Mild Italian Pork Sausages,629cec56061cc278a85326dc,Unknown,8.0,4.0,Meat,2.0,2.0,1.0,0.0,1.0,1.0
 698e8c7436a8b368c36f6ec8,Veggie Bundle #1,65e8f30bcb43951cbd853f59,Unknown,5.0,5.0,Produce,1.0,,,,,
 698e8d4936a8b368c36f8789,Veggie Bundle #2,65e8f30bcb43951cbd853f59,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 698e9025f3da2e1588130aac,Mixed Produce Bundle #3,65e8f30bcb43951cbd853f59,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 698ed012f3da2e1588178031,Activia Mixed Berry Probiotic Yogurt Drinks (93 ml x 8 ct),65e8f30bcb43951cbd853f59,Unknown,8.39,4.19,Dairy & Eggs,2.0,1.0,,1.0,,
 698ed026f3da2e15881780c6,Smuckers uncrustables butter and strawberry spread sandwich,65e8f30bcb43951cbd853f59,Unknown,1.59,0.79,Bakery,1.0,,,,,
-698ed032f3da2e1588178105,Uncrustables Peanut Butter and Grape,65e8f30bcb43951cbd853f59,Unknown,1.59,0.79,Snacks,4.0,4.0,,0.0,,
-698ed0c54a470d01bba59123,Seaquest Skinless Boneless Tilapia Fillets (400 g),65e8f30bcb43951cbd853f59,Unknown,8.49,4.24,Meat & Fish,4.0,4.0,,0.0,,
-698ed7144a470d01bba5ad9c,Hostess Twinkies (6 ct),65e8f30bcb43951cbd853f59,Unknown,4.59,2.29,Bakery,12.0,12.0,,0.0,,
-698ed74936a8b368c3739fbe,Want Want Golden Rice Crackers Original Flavour (160 g),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Snacks,6.0,6.0,,0.0,,
-698ed7674a470d01bba5aed5,Newtons Fig Biscuits (283 g),65e8f30bcb43951cbd853f59,Unknown,5.89,2.94,Snacks,1.0,1.0,,0.0,,
-698ed78a4a470d01bba5af82,"""Balady Bread 7"""" Whole Wheat Pita (300 g)""",65e8f30bcb43951cbd853f59,Unknown,2.99,1.49,Bakery,1.0,1.0,,0.0,,
-698ed79f23539fc0debc6f18,Sunrise Sriracha Smoked Tofu (180 g),67bdc806855e4112ad907797,Unknown,5.29,2.64,Meat & Fish,1.0,1.0,,0.0,,
-698ed79f4a470d01bba5aff7,Earth's Own original gluten free oat creamer,67bdc806855e4112ad907797,Unknown,6.49,3.24,Dairy & Eggs,4.0,4.0,,0.0,,
-698ed79f4a470d01bba5b000,Smucker's Uncrustables Peanut Butter & Raspberry Spread Sandwich (58 g),67bdc806855e4112ad907797,Unknown,1.59,0.79,Easy Meals,3.0,3.0,,0.0,,
-698ed7a0f3da2e158817a2e9,Dairyland Skim milk carton(2L),67bdc806855e4112ad907797,Unknown,4.39,2.19,Dairy & Eggs,7.0,6.0,,1.0,,
-698ed9024a470d01bba5b4e8,Earth's Own Barista Almond Coffee Creamer (946 ml),65e8f30bcb43951cbd853f59,Unknown,5.39,2.69,Dairy & Eggs,10.0,10.0,,0.0,,
-698ed94336a8b368c373a64c,Carnaby Sweet Mixed Berries Gummies (500 g),65e8f30bcb43951cbd853f59,Unknown,7.29,3.64,Candy,8.0,7.0,,1.0,,
-698ed965f3da2e158817aa23,Dunkaroos Vanilla Cookies & Cinnadust Frosting (168 g),65e8f30bcb43951cbd853f59,Unknown,5.99,2.99,Pantry,2.0,1.0,,1.0,,
-698ed97ef3da2e158817aa5d,Kang Shi Fu Jasmine Tea Drink (500 ml),65e8f30bcb43951cbd853f59,Unknown,2.29,1.14,Drinks,4.0,3.0,,1.0,,
-698ed99bf3da2e158817aacf,Aero Scoops Double Chocolate Bar (105 g),65e8f30bcb43951cbd853f59,Unknown,3.89,1.94,Candy,9.0,8.0,,1.0,,
-698ed9dff3da2e158817abd1,Slim Jim Original Snack Size Sticks (112 g),65e8f30bcb43951cbd853f59,Unknown,5.47,2.73,Snacks,1.0,1.0,,0.0,,
-698edbe323539fc0debc7a5a,Want Want Golden Rice Crackers Original Flavour (160 g),67bdc806855e4112ad907797,Unknown,5.49,2.74,Snacks,4.0,4.0,,0.0,,
-698edbe34a470d01bba5be6b,King's Hawaiian Savoury Butter Rolls (340 g),67bdc806855e4112ad907797,Unknown,5.89,2.94,Bakery,1.0,1.0,,0.0,,
-698edbe3f3da2e158817b1cf,Oreo Sandwich Cookies Snack Packs Variety Pack (22 g x 20 ct),67bdc806855e4112ad907797,Unknown,14.29,7.14,Snacks,2.0,2.0,,0.0,,
-698edd0e19ce08acfa995820,Takis Dragon Sweet Chili,67bdc806855e4112ad907797,Unknown,4.99,2.49,Snacks,14.0,14.0,,0.0,,
-698edd0ef3da2e158817b5db,Cheez-It Snap'd Cheddar Sour Cream & Onion Crackers (213 g),67bdc806855e4112ad907797,Unknown,4.99,2.49,Snacks,2.0,1.0,,1.0,,
-698edd6023539fc0debc7f25,Takis Kaboom Ketchup & Sriracha Rolled Tortilla Chips (260 g),67bdc806855e4112ad907797,Unknown,3.67,1.83,Snacks,8.0,8.0,,0.0,,
-698edd9623539fc0debc7fe2,Slim Jim Original Snack Size Sticks (112 g),67bdc806855e4112ad907797,Unknown,8.29,4.14,Snacks,2.0,2.0,,0.0,,
-698f2462f9c37dcc2bf3e5cc,Chopped Romaine,5d0bd76b8894a4ebbfd7048a,Unknown,9.0,3.0,Produce,9.0,8.0,,1.0,,
-698f24ac1af04775dae287a4,Chopped Romaine,5d0bd76b8894a4ebbfd7048a,Unknown,9.0,3.0,Produce,2.0,1.0,,1.0,,
-698f2a7f1af04775dae51fd7,"12 Inch Spinach & Pumpernickel Tray,Requires 24 Hour Notice",5d0bd76b8894a4ebbfd7048a,Unknown,12.0,6.0,Deli,1.0,1.0,,0.0,,
-698f2aa22e0c6b02d5a4da63,hummus naan snack tray,5d0bd76b8894a4ebbfd7048a,Unknown,4.0,2.0,Deli,1.0,1.0,,0.0,,
+698ed032f3da2e1588178105,Uncrustables Peanut Butter and Grape,65e8f30bcb43951cbd853f59,Unknown,1.59,0.79,Snacks,4.0,4.0,4.0,0.0,0.0,0.0
+698ed0c54a470d01bba59123,Seaquest Skinless Boneless Tilapia Fillets (400 g),65e8f30bcb43951cbd853f59,Unknown,8.49,4.24,Meat & Fish,4.0,4.0,4.0,0.0,0.0,0.0
+698ed7144a470d01bba5ad9c,Hostess Twinkies (6 ct),65e8f30bcb43951cbd853f59,Unknown,4.59,2.29,Bakery,12.0,12.0,12.0,0.0,0.0,0.0
+698ed74936a8b368c3739fbe,Want Want Golden Rice Crackers Original Flavour (160 g),65e8f30bcb43951cbd853f59,Unknown,5.49,2.74,Snacks,6.0,6.0,6.0,0.0,0.0,0.0
+698ed7674a470d01bba5aed5,Newtons Fig Biscuits (283 g),65e8f30bcb43951cbd853f59,Unknown,5.89,2.94,Snacks,1.0,1.0,1.0,0.0,0.0,0.0
+698ed78a4a470d01bba5af82,"""Balady Bread 7"""" Whole Wheat Pita (300 g)""",65e8f30bcb43951cbd853f59,Unknown,2.99,1.49,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
+698ed79f23539fc0debc6f18,Sunrise Sriracha Smoked Tofu (180 g),67bdc806855e4112ad907797,Unknown,5.29,2.64,Meat & Fish,1.0,1.0,1.0,0.0,0.0,0.0
+698ed79f4a470d01bba5aff7,Earth's Own original gluten free oat creamer,67bdc806855e4112ad907797,Unknown,6.49,3.24,Dairy & Eggs,4.0,4.0,4.0,0.0,0.0,0.0
+698ed79f4a470d01bba5b000,Smucker's Uncrustables Peanut Butter & Raspberry Spread Sandwich (58 g),67bdc806855e4112ad907797,Unknown,1.59,0.79,Easy Meals,3.0,3.0,2.0,0.0,1.0,1.0
+698ed7a0f3da2e158817a2e9,Dairyland Skim milk carton(2L),67bdc806855e4112ad907797,Unknown,4.39,2.19,Dairy & Eggs,7.0,6.0,6.0,1.0,0.0,1.0
+698ed9024a470d01bba5b4e8,Earth's Own Barista Almond Coffee Creamer (946 ml),65e8f30bcb43951cbd853f59,Unknown,5.39,2.69,Dairy & Eggs,10.0,10.0,10.0,0.0,0.0,0.0
+698ed94336a8b368c373a64c,Carnaby Sweet Mixed Berries Gummies (500 g),65e8f30bcb43951cbd853f59,Unknown,7.29,3.64,Candy,8.0,7.0,7.0,1.0,0.0,1.0
+698ed965f3da2e158817aa23,Dunkaroos Vanilla Cookies & Cinnadust Frosting (168 g),65e8f30bcb43951cbd853f59,Unknown,5.99,2.99,Pantry,2.0,1.0,1.0,1.0,0.0,1.0
+698ed97ef3da2e158817aa5d,Kang Shi Fu Jasmine Tea Drink (500 ml),65e8f30bcb43951cbd853f59,Unknown,2.29,1.14,Drinks,4.0,3.0,3.0,1.0,0.0,1.0
+698ed99bf3da2e158817aacf,Aero Scoops Double Chocolate Bar (105 g),65e8f30bcb43951cbd853f59,Unknown,3.89,1.94,Candy,9.0,8.0,8.0,1.0,0.0,1.0
+698ed9dff3da2e158817abd1,Slim Jim Original Snack Size Sticks (112 g),65e8f30bcb43951cbd853f59,Unknown,5.47,2.73,Snacks,1.0,1.0,1.0,0.0,0.0,0.0
+698edbe323539fc0debc7a5a,Want Want Golden Rice Crackers Original Flavour (160 g),67bdc806855e4112ad907797,Unknown,5.49,2.74,Snacks,4.0,4.0,4.0,0.0,0.0,0.0
+698edbe34a470d01bba5be6b,King's Hawaiian Savoury Butter Rolls (340 g),67bdc806855e4112ad907797,Unknown,5.89,2.94,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
+698edbe3f3da2e158817b1cf,Oreo Sandwich Cookies Snack Packs Variety Pack (22 g x 20 ct),67bdc806855e4112ad907797,Unknown,14.29,7.14,Snacks,2.0,2.0,2.0,0.0,0.0,0.0
+698edd0e19ce08acfa995820,Takis Dragon Sweet Chili,67bdc806855e4112ad907797,Unknown,4.99,2.49,Snacks,14.0,14.0,14.0,0.0,0.0,0.0
+698edd0ef3da2e158817b5db,Cheez-It Snap'd Cheddar Sour Cream & Onion Crackers (213 g),67bdc806855e4112ad907797,Unknown,4.99,2.49,Snacks,2.0,1.0,1.0,1.0,0.0,1.0
+698edd6023539fc0debc7f25,Takis Kaboom Ketchup & Sriracha Rolled Tortilla Chips (260 g),67bdc806855e4112ad907797,Unknown,3.67,1.83,Snacks,8.0,8.0,8.0,0.0,0.0,0.0
+698edd9623539fc0debc7fe2,Slim Jim Original Snack Size Sticks (112 g),67bdc806855e4112ad907797,Unknown,8.29,4.14,Snacks,2.0,2.0,2.0,0.0,0.0,0.0
+698f2462f9c37dcc2bf3e5cc,Chopped Romaine,5d0bd76b8894a4ebbfd7048a,Unknown,9.0,3.0,Produce,9.0,8.0,8.0,1.0,0.0,1.0
+698f24ac1af04775dae287a4,Chopped Romaine,5d0bd76b8894a4ebbfd7048a,Unknown,9.0,3.0,Produce,2.0,1.0,1.0,1.0,0.0,1.0
+698f2a7f1af04775dae51fd7,"12 Inch Spinach & Pumpernickel Tray,Requires 24 Hour Notice",5d0bd76b8894a4ebbfd7048a,Unknown,12.0,6.0,Deli,1.0,1.0,1.0,0.0,0.0,0.0
+698f2aa22e0c6b02d5a4da63,hummus naan snack tray,5d0bd76b8894a4ebbfd7048a,Unknown,4.0,2.0,Deli,1.0,1.0,1.0,0.0,0.0,0.0
 698f2b26ef2f3a8ea5663890,Cheese and Pepperoni Party Tray,5d0bd76b8894a4ebbfd7048a,Unknown,16.0,8.0,Deli,1.0,,,,,
-698f493cf9c37dcc2b024714,mini crush fruit jelly,5ddef30c9af4e045c44b9d67,Unknown,13.99,5.0,Grocery,6.0,4.0,,2.0,,
-698f49f4b00680d6ddef4fed,marine box seaweed snacks,5ddef30c9af4e045c44b9d67,Unknown,7.99,3.99,Grocery,20.0,20.0,,0.0,,
+698f493cf9c37dcc2b024714,mini crush fruit jelly,5ddef30c9af4e045c44b9d67,Unknown,13.99,5.0,Grocery,6.0,4.0,3.0,2.0,1.0,3.0
+698f49f4b00680d6ddef4fed,marine box seaweed snacks,5ddef30c9af4e045c44b9d67,Unknown,7.99,3.99,Grocery,20.0,20.0,20.0,0.0,0.0,0.0
 698f4a232e0c6b02d5b32684,Avalon organic yogurt vanilla,5d0bd76b8894a4ebbfd7048a,Unknown,5.69,2.84,Natural Foods,1.0,,,,,
 698f4b2aef2f3a8ea5715d0a,Soft Baked Muffin Bars Blueberry,5fac3e09d7528a3c966b13d0,Unknown,4.0,1.94,Centre of Store,1.0,,,,,
-698f53e8ef2f3a8ea5741a69,Honey Garlic Flavoured Pork Sausages,5fac3e09d7528a3c966b13d0,Unknown,8.0,4.0,Meat,3.0,3.0,,0.0,,
+698f53e8ef2f3a8ea5741a69,Honey Garlic Flavoured Pork Sausages,5fac3e09d7528a3c966b13d0,Unknown,8.0,4.0,Meat,3.0,3.0,3.0,0.0,0.0,0.0
 698f54a8b00680d6ddf41574,Bone In Rib and Centre Chop,5fac3e09d7528a3c966b13d0,Unknown,12.44,6.22,Meat,1.0,,,,,
 698f54b7ef2f3a8ea5746b35,Bone In Rib and Centre Chop,5fac3e09d7528a3c966b13d0,Unknown,13.33,6.66,Meat,1.0,,,,,
 698f54c5b00680d6ddf424c0,Bone In Rib and Centre Chop,5fac3e09d7528a3c966b13d0,Unknown,14.47,7.23,Meat,1.0,,,,,
-698f54ee2e0c6b02d5b7b1c9,pork loin,5fac3e09d7528a3c966b13d0,Unknown,14.53,7.26,Meat,1.0,1.0,,0.0,,
-698f55001af04775daf80bb8,pork loin,5fac3e09d7528a3c966b13d0,Unknown,16.45,8.22,Meat,1.0,1.0,,0.0,,
+698f54ee2e0c6b02d5b7b1c9,pork loin,5fac3e09d7528a3c966b13d0,Unknown,14.53,7.26,Meat,1.0,1.0,1.0,0.0,0.0,0.0
+698f55001af04775daf80bb8,pork loin,5fac3e09d7528a3c966b13d0,Unknown,16.45,8.22,Meat,1.0,1.0,1.0,0.0,0.0,0.0
 698f5512b00680d6ddf445ce,pork loin,5fac3e09d7528a3c966b13d0,Unknown,16.48,8.24,Meat,1.0,,,,,
 698f554b1af04775daf82228,pork loin,5fac3e09d7528a3c966b13d0,Unknown,18.8,9.4,Meat,1.0,,,,,
-698f56c51af04775daf8d106,Ballpark Classics Hamburger Buns 8pk,6969181f05a95a3633344338,Unknown,3.89,1.99,Bakery,2.0,2.0,,0.0,,
+698f56c51af04775daf8d106,Ballpark Classics Hamburger Buns 8pk,6969181f05a95a3633344338,Unknown,3.89,1.99,Bakery,2.0,2.0,2.0,0.0,0.0,0.0
 698f56daef2f3a8ea5752907,Thick Slice Original White Bread,6969181f05a95a3633344338,Unknown,3.99,1.99,Bakery,1.0,,,,,
 698f5716ef2f3a8ea5753f95,White Baguette,6969181f05a95a3633344338,Unknown,3.0,1.09,Bakery,2.0,2.0,,0.0,,
-698f5735ef2f3a8ea5754ea1,Original Sausage Buns,6969181f05a95a3633344338,Unknown,4.0,1.99,Bakery,1.0,1.0,,0.0,,
+698f5735ef2f3a8ea5754ea1,Original Sausage Buns,6969181f05a95a3633344338,Unknown,4.0,1.99,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
 698f5dd31af04775dafbc503,dairy1% chocolatemilk,65a1a8282f4530e32514d6c3,Unknown,9.29,4.64,Dairy,1.0,,,,,
 698f5df51af04775dafbd38a,Skim Milk,65a1a8282f4530e32514d6c3,Unknown,4.94,2.47,Centre of Store,1.0,,,,,
-698f5e11ef2f3a8ea577f880,"1% Kefir, Mango",65a1a8282f4530e32514d6c3,Unknown,7.29,3.64,Centre of Store,3.0,3.0,,0.0,,
-698f5e32f9c37dcc2b09f9e9,Original Yogurt Plain Balkan Style 3%,65a1a8282f4530e32514d6c3,Unknown,4.99,2.49,Centre of Store,3.0,2.0,,1.0,,
-698f5e64b00680d6ddf8b0df,"Extra Creamy Greek Yogurt, Cappuccino, On the Bottom, 9% M.F.",65a1a8282f4530e32514d6c3,Unknown,4.99,2.49,Centre of Store,5.0,4.0,,1.0,,
+698f5e11ef2f3a8ea577f880,"1% Kefir, Mango",65a1a8282f4530e32514d6c3,Unknown,7.29,3.64,Centre of Store,3.0,3.0,3.0,0.0,0.0,0.0
+698f5e32f9c37dcc2b09f9e9,Original Yogurt Plain Balkan Style 3%,65a1a8282f4530e32514d6c3,Unknown,4.99,2.49,Centre of Store,3.0,2.0,2.0,1.0,0.0,1.0
+698f5e64b00680d6ddf8b0df,"Extra Creamy Greek Yogurt, Cappuccino, On the Bottom, 9% M.F.",65a1a8282f4530e32514d6c3,Unknown,4.99,2.49,Centre of Store,5.0,4.0,4.0,1.0,0.0,1.0
 698f5e8d2e0c6b02d5bc3e43,"Greek Yogurt, Blueberry Flavour, Fruit On The Bottom, 2% M.F.",65a1a8282f4530e32514d6c3,Unknown,4.99,2.49,Centre of Store,3.0,3.0,,0.0,,
 698f5eaab00680d6ddf8ced3,"Greek Yogurt, Vanilla Flavour, 2% M.F.,  Blended",65a1a8282f4530e32514d6c3,Unknown,4.99,2.49,Centre of Store,1.0,1.0,,0.0,,
-698f5ee5ef2f3a8ea5784009,"Pre/Probiotic Yogurt, Blueberry",65a1a8282f4530e32514d6c3,Unknown,4.0,2.0,Centre of Store,2.0,2.0,,0.0,,
+698f5ee5ef2f3a8ea5784009,"Pre/Probiotic Yogurt, Blueberry",65a1a8282f4530e32514d6c3,Unknown,4.0,2.0,Centre of Store,2.0,2.0,2.0,0.0,0.0,0.0
 698f5f632e0c6b02d5bc99ef,"Chicken Souvlaki, Value Pack",6969181f05a95a3633344338,Unknown,13.99,5.99,Meat,3.0,,,,,
 698f61372e0c6b02d5bd5cc3,"Born 3 White Eggs, Large",65a1a8282f4530e32514d6c3,Unknown,5.99,2.99,Centre of Store,2.0,,,,,
 698f61e71af04775dafd9594,halal boneless skinless chicken breasts,6969181f05a95a3633344338,Unknown,19.0,7.99,Meat,2.0,,,,,
 698f62432e0c6b02d5bdc71b,"Certified Angus Beef, Extra Lean Ground Sirloin",6969181f05a95a3633344338,Unknown,12.0,5.99,Meat,5.0,,,,,
-698f62b7b00680d6ddfa80fe,boneless stew beef,6969181f05a95a3633344338,Unknown,13.58,5.99,Meat,6.0,4.0,,2.0,,
-698f6302f9c37dcc2b0ba219,boneless rib and centre chop,6969181f05a95a3633344338,Unknown,4.42,2.09,Meat,4.0,2.0,,2.0,,
+698f62b7b00680d6ddfa80fe,boneless stew beef,6969181f05a95a3633344338,Unknown,13.58,5.99,Meat,6.0,4.0,4.0,2.0,0.0,2.0
+698f6302f9c37dcc2b0ba219,boneless rib and centre chop,6969181f05a95a3633344338,Unknown,4.42,2.09,Meat,4.0,2.0,1.0,2.0,1.0,3.0
 698f642a1af04775dafe55a4,inside round sandwich steak cut,6969181f05a95a3633344338,Unknown,7.49,2.99,Meat,2.0,,,,,
-698f64882e0c6b02d5bebe8c,inside round steak club size,6969181f05a95a3633344338,Unknown,20.87,9.99,Meat,3.0,2.0,,1.0,,
+698f64882e0c6b02d5bebe8c,inside round steak club size,6969181f05a95a3633344338,Unknown,20.87,9.99,Meat,3.0,2.0,1.0,1.0,1.0,2.0
 698f67c1ef2f3a8ea57b0c6a,Free From Lean Ground Pork,6969181f05a95a3633344338,Unknown,6.0,2.99,Meat,3.0,,,,,
 698f67d72e0c6b02d5bffaad,medium ground pork cp,6969181f05a95a3633344338,Unknown,17.01,7.99,Meat,1.0,,,,,
 698f67eb1af04775dafff89d,Bc pork and beef sausage,6969181f05a95a3633344338,Unknown,10.0,4.99,Meat,1.0,1.0,,0.0,,
-698f6805b00680d6ddfcbea3,Mild Italian Pork Sausages,6969181f05a95a3633344338,Unknown,8.0,3.99,Meat,3.0,2.0,,1.0,,
+698f6805b00680d6ddfcbea3,Mild Italian Pork Sausages,6969181f05a95a3633344338,Unknown,8.0,3.99,Meat,3.0,2.0,1.0,1.0,1.0,2.0
 698f683ab00680d6ddfcd1be,Halal Lean Ground Beef,5d0bd76c8894a4ebbfd704b8,Unknown,12.1,6.05,Meat & Seafood,4.0,,,,,
 698f684fef2f3a8ea57b3a31,extra lean ground sirloin,5d0bd76c8894a4ebbfd704b8,Unknown,12.0,6.0,Meat,2.0,,,,,
 698f6852ef2f3a8ea57b3acf,Free From Lean Ground Pork,5d0bd76c8894a4ebbfd704b8,Unknown,5.78,2.89,Meat & Seafood,1.0,,,,,
 698f68582e0c6b02d5c03167,lean ground beef,6969181f05a95a3633344338,Unknown,22.86,9.99,Meat,4.0,1.0,,3.0,,
 698f68641af04775da0021e1,Bone-In Pork Centre Chops,5d0bd76c8894a4ebbfd704b8,Unknown,10.3,5.15,Meat,3.0,,,,,
 698f68781af04775da0029a9,Free From Split Turkey Wings,5d0bd76c8894a4ebbfd704b8,Unknown,7.41,3.7,Meat,2.0,,,,,
-698f6a1a2e0c6b02d5c0e536,Minced Turkey,6969181f05a95a3633344338,Unknown,8.0,3.99,Meat,,16.0,,,,
+698f6a1a2e0c6b02d5c0e536,Minced Turkey,6969181f05a95a3633344338,Unknown,8.0,3.99,Meat,,16.0,10.0,,6.0,
 698f6c05ef2f3a8ea57c386e,"Roti Wrap Whole Wheat, 15pieces",5d0bd76c8894a4ebbfd704b8,Unknown,3.0,0.99,"Wraps, Pitas & Flatbread",,1.0,,,,
-698f6dcd1af04775da024610,Light Rye Bread,5d0bd76c8894a4ebbfd704b8,Unknown,3.49,0.79,Bakery Commercial,,6.0,,,,
-698f6de8b00680d6ddff39d9,fresh whole steelhead gutted,5d0bd76b8894a4ebbfd7048a,Unknown,8.48,4.24,Seafood,,1.0,,,,
+698f6dcd1af04775da024610,Light Rye Bread,5d0bd76c8894a4ebbfd704b8,Unknown,3.49,0.79,Bakery Commercial,,6.0,4.0,,2.0,
+698f6de8b00680d6ddff39d9,fresh whole steelhead gutted,5d0bd76b8894a4ebbfd7048a,Unknown,8.48,4.24,Seafood,,1.0,1.0,,0.0,
 698f6deeef2f3a8ea57cb97d,D'Italiano Gusto Brioche,5d0bd76c8894a4ebbfd704b8,Unknown,3.49,0.99,Bakery Commercial,,1.0,,,,
-698f6dfa2e0c6b02d5c263ba,"12 Pack Hamburger Rolls, White",5d0bd76c8894a4ebbfd704b8,Unknown,2.99,0.79,Bakery,,1.0,,,,
-698f6e15f9c37dcc2b0fb504,"12 Pack Hotdog Rolls, White",5d0bd76c8894a4ebbfd704b8,Unknown,2.99,0.79,Bakery,,2.0,,,,
-698f6e3c2e0c6b02d5c276bb,Garlic Toast,5d0bd76c8894a4ebbfd704b8,Unknown,4.49,0.99,Bakery,,1.0,,,,
-698f6e9eef2f3a8ea57cdda2,prime chicken breast fillets,6969181f05a95a3633344338,Unknown,13.0,5.99,Meat,,2.0,,,,
-698f6edfef2f3a8ea57cf391,"Boneless Skinless Chicken Breasts, Raised on Canadian Farms",6969181f05a95a3633344338,Unknown,15.0,6.99,Meat,,3.0,,,,
+698f6dfa2e0c6b02d5c263ba,"12 Pack Hamburger Rolls, White",5d0bd76c8894a4ebbfd704b8,Unknown,2.99,0.79,Bakery,,1.0,1.0,,0.0,
+698f6e15f9c37dcc2b0fb504,"12 Pack Hotdog Rolls, White",5d0bd76c8894a4ebbfd704b8,Unknown,2.99,0.79,Bakery,,2.0,1.0,,1.0,
+698f6e3c2e0c6b02d5c276bb,Garlic Toast,5d0bd76c8894a4ebbfd704b8,Unknown,4.49,0.99,Bakery,,1.0,1.0,,0.0,
+698f6e9eef2f3a8ea57cdda2,prime chicken breast fillets,6969181f05a95a3633344338,Unknown,13.0,5.99,Meat,,2.0,2.0,,0.0,
+698f6edfef2f3a8ea57cf391,"Boneless Skinless Chicken Breasts, Raised on Canadian Farms",6969181f05a95a3633344338,Unknown,15.0,6.99,Meat,,3.0,1.0,,2.0,
 698f70e4ef2f3a8ea57da099,Protein Multi grain bread,5d0bd76c8894a4ebbfd704b8,Unknown,3.5,0.79,Bakery,,1.0,,,,
 698f71441af04775da03979a,brioche bread,5d0bd76c8894a4ebbfd704b8,Unknown,3.0,0.79,Bakery Instore,,1.0,,,,
-698f7240b00680d6dd00e4ab,French Bread with Sesame Seeds,5d0bd76c8894a4ebbfd704b8,Unknown,1.5,0.39,Bakery Instore,,1.0,,,,
-698f72c92e0c6b02d5c40af6,Whole Wheat Baguette,5d0bd76c8894a4ebbfd704b8,Unknown,1.0,0.29,Bakery,,8.0,,,,
-698f77791af04775da05aa76,boneless skinless chicken thighs,6969181f05a95a3633344338,Unknown,13.0,5.99,Meat,,25.0,,,,
-698f7815b00680d6dd033334,Signature Deli,5d0bd76b8894a4ebbfd7048a,Unknown,9.99,4.99,Deli,,5.0,,,,
-698f785fef2f3a8ea57fc35a,"Cheese Dippers, Original",5d0bd76b8894a4ebbfd7048a,Unknown,3.5,1.75,Deli,,8.0,,,,
+698f7240b00680d6dd00e4ab,French Bread with Sesame Seeds,5d0bd76c8894a4ebbfd704b8,Unknown,1.5,0.39,Bakery Instore,,1.0,1.0,,0.0,
+698f72c92e0c6b02d5c40af6,Whole Wheat Baguette,5d0bd76c8894a4ebbfd704b8,Unknown,1.0,0.29,Bakery,,8.0,8.0,,0.0,
+698f77791af04775da05aa76,boneless skinless chicken thighs,6969181f05a95a3633344338,Unknown,13.0,5.99,Meat,,25.0,19.0,,6.0,
+698f7815b00680d6dd033334,Signature Deli,5d0bd76b8894a4ebbfd7048a,Unknown,9.99,4.99,Deli,,5.0,5.0,,0.0,
+698f785fef2f3a8ea57fc35a,"Cheese Dippers, Original",5d0bd76b8894a4ebbfd7048a,Unknown,3.5,1.75,Deli,,8.0,8.0,,0.0,
 698f7a5b36a8b368c38094d0,Mixed Produce Box #101,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f7a6a19ce08acfaa68ca6,Mixed Produce Box #102,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
+698f7a6a19ce08acfaa68ca6,Mixed Produce Box #102,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 698f7a9c4a470d01bbb382c7,Mixed Produce Box #103,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 698f7aae4a470d01bbb38640,Mixed Produce Box #105,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 698f7ae723539fc0dec962bd,Mixed Produce Box #107,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 698f7af136a8b368c380a89b,Mixed Produce Box #108,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f7b104a470d01bbb39377,Mixed Produce Box #112,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
+698f7b104a470d01bbb39377,Mixed Produce Box #112,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 698f7b4a4a470d01bbb39d35,Mixed Produce Box #113,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 698f7b5036a8b368c380b898,Mixed Produce Box #114,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f7f8e1af04775da08cf21,Pepperoni Pizza Hand Stretched,6969181f05a95a3633344338,Unknown,7.5,3.09,HMR,,5.0,,,,
-698f7fad2e0c6b02d5c8ae10,L'Extra Camembert Cheese,6969181f05a95a3633344338,Unknown,5.0,2.5,Deli,,6.0,,,,
-698f7fc41af04775da08e5b4,Notre-Dame Brie Cheese,6969181f05a95a3633344338,Unknown,5.0,2.5,Deli,,6.0,,,,
-698f8ccf2e0c6b02d5cd53ed,Fruit Box #7,5ddef30c9af4e045c44b9d67,Unknown,7.0,7.0,Produce,,1.0,,,,
-698f8cef1af04775da0d8c23,Fruit Box #9,5ddef30c9af4e045c44b9d67,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f8d052e0c6b02d5cd6898,Fruit Box #10,5ddef30c9af4e045c44b9d67,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f8e922e0c6b02d5cdf949,Mixed Produce Box #53,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
+698f7f8e1af04775da08cf21,Pepperoni Pizza Hand Stretched,6969181f05a95a3633344338,Unknown,7.5,3.09,HMR,,5.0,3.0,,2.0,
+698f7fad2e0c6b02d5c8ae10,L'Extra Camembert Cheese,6969181f05a95a3633344338,Unknown,5.0,2.5,Deli,,6.0,2.0,,4.0,
+698f7fc41af04775da08e5b4,Notre-Dame Brie Cheese,6969181f05a95a3633344338,Unknown,5.0,2.5,Deli,,6.0,4.0,,2.0,
+698f8ccf2e0c6b02d5cd53ed,Fruit Box #7,5ddef30c9af4e045c44b9d67,Unknown,7.0,7.0,Produce,,1.0,1.0,,0.0,
+698f8cef1af04775da0d8c23,Fruit Box #9,5ddef30c9af4e045c44b9d67,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+698f8d052e0c6b02d5cd6898,Fruit Box #10,5ddef30c9af4e045c44b9d67,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+698f8e922e0c6b02d5cdf949,Mixed Produce Box #53,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 698f8e9d1af04775da0e2f5a,Mixed Produce Box #54,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
 698f8eb21af04775da0e3af1,Mixed Produce Box #46,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
 698f8ebe6b722fca3c64cd73,Mixed Produce Box #47,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f8ec91af04775da0e4421,Mixed Produce Box #48,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f8f61b00680d6dd0b939a,Mixed Produce Box #13,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f8f786b722fca3c6504eb,Mixed Produce Box #14,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f8f9a6b722fca3c65091f,Mixed Produce Box #49,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
+698f8ec91af04775da0e4421,Mixed Produce Box #48,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+698f8f61b00680d6dd0b939a,Mixed Produce Box #13,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+698f8f786b722fca3c6504eb,Mixed Produce Box #14,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+698f8f9a6b722fca3c65091f,Mixed Produce Box #49,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 698f8fa42e0c6b02d5ce66dc,Mixed Produce Box #50,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
 698f9027b00680d6dd0be855,"BUILDERS Protein Bars, Chocolate Peanut Butter Flavour, 20g of Protein",65bd257956f2d4f45a3da0e2,Unknown,3.0,1.5,Centre of Store,,5.0,,,,
-698f904f6b722fca3c653dd8,Mixed Produce Box #16,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f905cef2f3a8ea586e9e6,Tea Bags Orange Pekoe 216ct,65bd257956f2d4f45a3da0e2,Unknown,13.99,6.99,Centre of Store,,1.0,,,,
-698f906f1af04775da0ee353,"Vitamin C Assorted Citrus Cough Drops, help maintain immune function",65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Centre of Store,,1.0,,,,
-698f909e1af04775da0ef409,"Vitamin C Assorted Citrus Cough Drops, help maintain immune function",65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Centre of Store,,1.0,,,,
-698f913fef2f3a8ea5872fd5,Bear Paws Birthday Cake Cookies,65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Centre of Store,,1.0,,,,
+698f904f6b722fca3c653dd8,Mixed Produce Box #16,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+698f905cef2f3a8ea586e9e6,Tea Bags Orange Pekoe 216ct,65bd257956f2d4f45a3da0e2,Unknown,13.99,6.99,Centre of Store,,1.0,1.0,,0.0,
+698f906f1af04775da0ee353,"Vitamin C Assorted Citrus Cough Drops, help maintain immune function",65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Centre of Store,,1.0,1.0,,0.0,
+698f909e1af04775da0ef409,"Vitamin C Assorted Citrus Cough Drops, help maintain immune function",65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Centre of Store,,1.0,1.0,,0.0,
+698f913fef2f3a8ea5872fd5,Bear Paws Birthday Cake Cookies,65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Centre of Store,,1.0,1.0,,0.0,
 698f91e36b722fca3c65c654,Kombucha Organi1c Wild Berry,65bd257956f2d4f45a3da0e2,Unknown,8.5,4.25,Centre of Store,,1.0,,,,
-698f9204ef2f3a8ea587719b,Baked Original Snack Crackers,65bd257956f2d4f45a3da0e2,Unknown,3.79,1.89,Centre of Store,,1.0,,,,
-698f92236b722fca3c65d843,Alkaline Batteries Aa 2,65bd257956f2d4f45a3da0e2,Unknown,3.5,1.75,Home & Entertainment,,1.0,,,,
-698f9256b00680d6dd0cb060,Pejoy Biscuit Sticks Cream Filled Cookies & Cream,65bd257956f2d4f45a3da0e2,Unknown,1.59,0.79,Centre of Store,,1.0,,,,
-698f92cfb00680d6dd0cd74c,Mixed Produce Box #21,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f92d96b722fca3c661a05,Mixed Produce Box #20,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
+698f9204ef2f3a8ea587719b,Baked Original Snack Crackers,65bd257956f2d4f45a3da0e2,Unknown,3.79,1.89,Centre of Store,,1.0,1.0,,0.0,
+698f92236b722fca3c65d843,Alkaline Batteries Aa 2,65bd257956f2d4f45a3da0e2,Unknown,3.5,1.75,Home & Entertainment,,1.0,1.0,,0.0,
+698f9256b00680d6dd0cb060,Pejoy Biscuit Sticks Cream Filled Cookies & Cream,65bd257956f2d4f45a3da0e2,Unknown,1.59,0.79,Centre of Store,,1.0,1.0,,0.0,
+698f92cfb00680d6dd0cd74c,Mixed Produce Box #21,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+698f92d96b722fca3c661a05,Mixed Produce Box #20,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 698f92e41af04775da0fd23c,Mixed Produce Box #19,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
-698f92f76b722fca3c6621cf,Mixed Produce Box #12,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
+698f92f76b722fca3c6621cf,Mixed Produce Box #12,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 698f94062e0c6b02d5cfdc9b,Coconut Juice With Pulp,65bd257956f2d4f45a3da0e2,Unknown,1.49,0.75,Centre of Store,,1.0,,,,
-698f94792e0c6b02d5d00d6d,soup mix,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,1.0,,,,
-698f94fc6b722fca3c66d819,power Ade,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,2.0,,,,
-698f9511b00680d6dd0d9f42,Original Natural Smoked Ham,629cec56061cc278a85326dc,Unknown,10.0,5.0,Pork,,9.0,,,,
+698f94792e0c6b02d5d00d6d,soup mix,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,1.0,1.0,,0.0,
+698f94fc6b722fca3c66d819,power Ade,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,2.0,1.0,,1.0,
+698f9511b00680d6dd0d9f42,Original Natural Smoked Ham,629cec56061cc278a85326dc,Unknown,10.0,5.0,Pork,,9.0,9.0,,0.0,
 698f952ab00680d6dd0da85c,power ade,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,2.0,,,,
-698f95516b722fca3c66f38e,power ade,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,2.0,,,,
+698f95516b722fca3c66f38e,power ade,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,2.0,1.0,,1.0,
 698f9582ef2f3a8ea58866ca,power ade,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,1.0,,,,
 698f95b02e0c6b02d5d088b6,gatorade,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Grocery,,1.0,,,,
-698f95d22e0c6b02d5d0939b,Lemon Lime Sports Drink (Case),65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Centre of Store,,1.0,,,,
-698f97126b722fca3c676d2d,Clamato Extra Spicy Rimmer,65bd257956f2d4f45a3da0e2,Unknown,4.99,2.49,Centre of Store,,6.0,,,,
-698f973b6b722fca3c67762d,Clamato Chunky Pub Style Rimmer,65bd257956f2d4f45a3da0e2,Unknown,4.99,2.49,Centre of Store,,7.0,,,,
-698f974aef2f3a8ea588e559,Clamato Rimmer,65bd257956f2d4f45a3da0e2,Unknown,4.99,2.49,Centre of Store,,8.0,,,,
-698f97e11af04775da117eea,Single Strength Lime Juice,65bd257956f2d4f45a3da0e2,Unknown,2.99,1.49,Centre of Store,,22.0,,,,
-698f99416b722fca3c680900,Organic Hummus Chickpea Dip & Spread,5fac3e04d7528a3c966b13a4,Unknown,4.0,1.0,Deli,,11.0,,,,
+698f95d22e0c6b02d5d0939b,Lemon Lime Sports Drink (Case),65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Centre of Store,,1.0,1.0,,0.0,
+698f97126b722fca3c676d2d,Clamato Extra Spicy Rimmer,65bd257956f2d4f45a3da0e2,Unknown,4.99,2.49,Centre of Store,,6.0,6.0,,0.0,
+698f973b6b722fca3c67762d,Clamato Chunky Pub Style Rimmer,65bd257956f2d4f45a3da0e2,Unknown,4.99,2.49,Centre of Store,,7.0,7.0,,0.0,
+698f974aef2f3a8ea588e559,Clamato Rimmer,65bd257956f2d4f45a3da0e2,Unknown,4.99,2.49,Centre of Store,,8.0,8.0,,0.0,
+698f97e11af04775da117eea,Single Strength Lime Juice,65bd257956f2d4f45a3da0e2,Unknown,2.99,1.49,Centre of Store,,22.0,22.0,,0.0,
+698f99416b722fca3c680900,Organic Hummus Chickpea Dip & Spread,5fac3e04d7528a3c966b13a4,Unknown,4.0,1.0,Deli,,11.0,2.0,,9.0,
 698f99591af04775da12030c,Plant Based Hummus Garlic,5fac3e04d7528a3c966b13a4,Unknown,4.0,1.0,Deli,,1.0,,,,
-698f99732e0c6b02d5d1b885,bone in rib and centre chop,5fac3e04d7528a3c966b13a4,Unknown,10.06,5.03,Meat,,1.0,,,,
-698f99891af04775da1211d2,bone in rib and centre chop,5fac3e04d7528a3c966b13a4,Unknown,12.81,6.4,Meat,,1.0,,,,
+698f99732e0c6b02d5d1b885,bone in rib and centre chop,5fac3e04d7528a3c966b13a4,Unknown,10.06,5.03,Meat,,1.0,1.0,,0.0,
+698f99891af04775da1211d2,bone in rib and centre chop,5fac3e04d7528a3c966b13a4,Unknown,12.81,6.4,Meat,,1.0,1.0,,0.0,
 698f99a71af04775da121b97,Salami,5fac3e04d7528a3c966b13a4,Unknown,11.0,5.5,Deli,,1.0,,,,
 698f99b2ef2f3a8ea589a986,Pepperoni,5fac3e04d7528a3c966b13a4,Unknown,11.0,5.5,Deli,,1.0,,,,
-698f99be2e0c6b02d5d1d1e2,Summer Sausage,5fac3e04d7528a3c966b13a4,Unknown,9.0,4.5,Deli,,4.0,,,,
+698f99be2e0c6b02d5d1d1e2,Summer Sausage,5fac3e04d7528a3c966b13a4,Unknown,9.0,4.5,Deli,,4.0,1.0,,3.0,
 698f9ba9b00680d6dd0feae1,14- Free From Split Turkey Wings,5d0bd76b8894a4ebbfd7048a,Unknown,7.27,2.5,"Legs, Drumsticks & Wings",,9.0,,,,
 698f9bef1af04775da12d722,88_Lean Ground Beef & Pork,5d0bd76b8894a4ebbfd7048a,Unknown,20.22,9.0,Meat & Seafood,,1.0,,,,
+698fa075b00680d6dd11756b,Mixed Produce Box #6,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fa0aa1af04775da146d29,Mixed Produce Box #7,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fa0baef2f3a8ea58ba15b,Mixed Produce Box #8,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fa56fb00680d6dd1318b2,"Ciabatta Demi, Multi-grain",5d0bd76b8894a4ebbfd7048a,Unknown,3.25,0.51,Bakery,,,4.0,,,
+698fa580b00680d6dd131d08,Sundried Tomato Ciabatta 12 Inch,5d0bd76b8894a4ebbfd7048a,Unknown,3.5,0.51,Bakery Instore,,,2.0,,,
+698fa5d4ef2f3a8ea58d141a,"Demi-Baguette, White",5d0bd76b8894a4ebbfd7048a,Unknown,3.25,0.51,Bakery,,,1.0,,,
+698fa65a2e0c6b02d5d5f3d0,Carved Classic Turkey Breast Extra Lean,5ddef30c9af4e045c44b9d67,Unknown,9.49,4.74,Deli,,,7.0,,,
+698fa6781af04775da1622d9,"Bread, White + Fibre",5d0bd76b8894a4ebbfd7048a,Unknown,3.49,0.51,Other,,,8.0,,,
+698fa6a11af04775da162d4c,Cheddar Smokies,5ddef30c9af4e045c44b9d67,Unknown,10.49,5.24,"Bacon, Sausages & Hot Dogs",,,5.0,,,
+698fa6e42e0c6b02d5d62413,Jalapeno & Mozzerella Smokies,5ddef30c9af4e045c44b9d67,Unknown,10.49,5.24,"Bacon, Sausages & Hot Dogs",,,14.0,,,
+698fa6ffb00680d6dd138ddc,Original Sizzlin Smokies,5ddef30c9af4e045c44b9d67,Unknown,10.49,5.24,"Bacon, Sausages & Hot Dogs",,,20.0,,,
+698fa9f6b00680d6dd147d28,Fruit Box #2,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fb20aef2f3a8ea59029c3,Marinated Chicken Breasts Boneless,61c39e3eb18e950dea37d276,Unknown,18.84,9.42,Marinated In-store,,,1.0,,,
+698fb2212e0c6b02d5d94cc4,Marinated Chicken Breasts Boneless,61c39e3eb18e950dea37d276,Unknown,17.06,8.53,Marinated In-store,,,1.0,,,
+698fb5ef6b722fca3c6fd04b,Mild Italian Pork Sausages,629cec56061cc278a85326dc,Unknown,8.0,4.0,Meat,,,1.0,,,
+698fb60fb00680d6dd17c872,Original Pork Breakfast Sausages,629cec56061cc278a85326dc,Unknown,6.5,3.25,Meat,,,3.0,,,
+698fb627b00680d6dd17cd4e,Free From Hot Italian Pork Sausages,629cec56061cc278a85326dc,Unknown,8.0,4.0,Meat,,,5.0,,,
+698fb64b1af04775da1a59ad,Maple Pork Breakfast Sausages,629cec56061cc278a85326dc,Unknown,6.5,3.25,Meat,,,4.0,,,
+698fb66ab00680d6dd17df42,Hot Italian Pork Sausages,629cec56061cc278a85326dc,Unknown,8.0,4.0,Meat,,,2.0,,,
+698fb6ffef2f3a8ea5913cb8,"Whipping Cream, 33%",629cec56061cc278a85326dc,Unknown,3.26,1.63,Centre of Store,,,15.0,,,
+698fbe866b722fca3c71a93c,Mixed Produce Box #40,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fbe93b00680d6dd19c2bf,Mixed Produce Box #41,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fbebe6b722fca3c71b178,Mixed Produce Box #43,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fbf03ef2f3a8ea593120f,Mixed Produce Box #37,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fbf2d1af04775da1c6ef1,Mixed Produce Box #38,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fbf39ef2f3a8ea59316a5,Mixed Produce Box #39,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,,1.0,,,
+698fc0876b722fca3c72156d,Frozen Grapes,5d0bd76b8894a4ebbfd7048a,Unknown,0.0,2.0,Produce,,,12.0,,,
+698fcf9c1af04775da1fbc93,Eye Of Round Steak,629cec56061cc278a85326dc,Unknown,10.73,5.36,Meat,,,1.0,,,
+698fcfac2e0c6b02d5dffd4a,Eye Of Round Steak,629cec56061cc278a85326dc,Unknown,16.28,8.14,Meat,,,1.0,,,
+698fcfbe1af04775da1fc15c,Eye Of Round Steak,629cec56061cc278a85326dc,Unknown,13.63,6.81,Meat,,,1.0,,,
+698fcff1b00680d6dd1d5749,Pork Shoulder Blade Steak,629cec56061cc278a85326dc,Unknown,9.92,4.96,Meat,,,1.0,,,
+698fd0012e0c6b02d5e00e43,Pork Shoulder Blade Steak,629cec56061cc278a85326dc,Unknown,10.1,5.05,Meat,,,1.0,,,
