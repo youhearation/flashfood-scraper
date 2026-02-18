@@ -239,7 +239,7 @@
 69937ec3ef2f3a8ea532139b,Mixed Produce Box #56,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69937ef82e0c6b02d599990f,Mixed Produce Box #53,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69937f07ef2f3a8ea5322236,Mixed Produce Box #54,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-6993804bfb8f36e2bca9bb72,"Ripped packaging Babybel Cheese, Plant Based 5x20gr",5d0bd76c8894a4ebbfd704b8,Unknown,5.29,2.5,Deli,1.0,1.0,1.0,0.0,0.0,0.0
+6993804bfb8f36e2bca9bb72,"Ripped packaging Babybel Cheese, Plant Based 5x20gr",5d0bd76c8894a4ebbfd704b8,Unknown,5.29,2.5,Deli,1.0,1.0,,0.0,,
 699380e8b00680d6dddbec36,"Bread, White + Fibre",6969181f05a95a3633344338,Unknown,2.5,0.99,Bakery,9.0,9.0,9.0,0.0,0.0,0.0
 69938484fb8f36e2bcaacf9b,GRIMM'S European Style Bologna 148gr,5d0bd76c8894a4ebbfd704b8,Unknown,4.88,2.0,Deli,1.0,1.0,,0.0,,
 69939b3fb00680d6dde29929,Baked Original Snack Crackers,65bd257956f2d4f45a3da0e2,Unknown,3.79,1.89,Centre of Store,2.0,1.0,1.0,1.0,0.0,1.0
@@ -271,12 +271,12 @@
 699493a4fb8f36e2bcd25680,White Texas Sandwich Bread,6969181f05a95a3633344338,Unknown,2.5,0.99,Bakery,5.0,5.0,5.0,0.0,0.0,0.0
 699493d2ef2f3a8ea559cd6e,White Baguette,6969181f05a95a3633344338,Unknown,0.99,0.49,Bakery,6.0,6.0,6.0,0.0,0.0,0.0
 699493e42e0c6b02d5c874a3,Whole Wheat Baguette,6969181f05a95a3633344338,Unknown,0.99,0.49,Bakery,3.0,3.0,3.0,0.0,0.0,0.0
-6994941eb00680d6dd0b399f,Quinn's Vanilla Raspberry Cream,6969181f05a95a3633344338,Unknown,5.5,1.99,Bakery,12.0,12.0,12.0,0.0,0.0,0.0
+6994941eb00680d6dd0b399f,Quinn's Vanilla Raspberry Cream,6969181f05a95a3633344338,Unknown,5.5,1.99,Bakery,12.0,12.0,11.0,0.0,1.0,1.0
 6994945bfb8f36e2bcd29d6a,Quinn's Swiss Roll Chocolate,6969181f05a95a3633344338,Unknown,5.5,1.99,Bakery,8.0,8.0,7.0,0.0,1.0,1.0
-699494791af04775da0708e9,Banana Chocolate Coffee Cake,6969181f05a95a3633344338,Unknown,7.0,2.99,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
+699494791af04775da0708e9,Banana Chocolate Coffee Cake,6969181f05a95a3633344338,Unknown,7.0,2.99,Bakery,1.0,1.0,,0.0,,
 699494c12e0c6b02d5c8d65c,Rosemary Focaccia Triangle,6969181f05a95a3633344338,Unknown,6.0,2.59,Bakery,1.0,,,,,
 69949502fb8f36e2bcd2d572,12 Grain Bagels,6969181f05a95a3633344338,Unknown,2.25,0.99,Bakery,1.0,,,,,
-69949517b00680d6dd0ba18a,Blueberry Mini Muffins,6969181f05a95a3633344338,Unknown,5.0,1.99,Bakery,2.0,1.0,1.0,1.0,0.0,1.0
+69949517b00680d6dd0ba18a,Blueberry Mini Muffins,6969181f05a95a3633344338,Unknown,5.0,1.99,Bakery,2.0,1.0,,1.0,,
 699495512e0c6b02d5c90bd2,Corned Beef,6969181f05a95a3633344338,Unknown,1.99,0.5,Meat,14.0,14.0,14.0,0.0,0.0,0.0
 69949577b00680d6dd0bcc15,Honey Ham,6969181f05a95a3633344338,Unknown,1.99,0.5,Meat,4.0,4.0,4.0,0.0,0.0,0.0
 699495e31af04775da07a0e2,Chorizo Pork Sausages,6969181f05a95a3633344338,Unknown,8.0,3.99,Meat,1.0,1.0,,0.0,,
@@ -287,7 +287,7 @@
 699496fc2e0c6b02d5c9bfea,7-inch 100% Whole Wheat Balady Bread,6969181f05a95a3633344338,Unknown,1.99,0.99,Bakery,1.0,1.0,,0.0,,
 6994970cef2f3a8ea55aca95,Naan Original 5 Flatbreads,6969181f05a95a3633344338,Unknown,4.0,1.99,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
 6994973f1af04775da083953,Naan Whole Wheat 5 Flatbreads,6969181f05a95a3633344338,Unknown,4.0,1.99,Bakery,8.0,8.0,8.0,0.0,0.0,0.0
-69949770fb8f36e2bcd3cbe2,Mango Tropical Cake,6969181f05a95a3633344338,Unknown,2.0,0.99,Bakery,2.0,2.0,2.0,0.0,0.0,0.0
+69949770fb8f36e2bcd3cbe2,Mango Tropical Cake,6969181f05a95a3633344338,Unknown,2.0,0.99,Bakery,2.0,2.0,1.0,0.0,1.0,1.0
 699497ae2e0c6b02d5ca0484,Strawberry Tropical Cake,6969181f05a95a3633344338,Unknown,2.0,0.99,Bakery,9.0,9.0,9.0,0.0,0.0,0.0
 699497e5fb8f36e2bcd3f910,Lemon Tropical Cake,6969181f05a95a3633344338,Unknown,2.0,0.99,Bakery,3.0,3.0,3.0,0.0,0.0,0.0
 699498a6fb8f36e2bcd4487e,chicken wings drummette and wing let,6969181f05a95a3633344338,Unknown,15.0,6.99,Meat,4.0,,,,,
@@ -295,7 +295,7 @@
 6994990fb00680d6dd0d5955,pork picnic halves,6969181f05a95a3633344338,Unknown,13.99,6.99,Meat,1.0,,,,,
 69949937ef2f3a8ea55b7e93,prime chicken breast fillets,6969181f05a95a3633344338,Unknown,13.0,5.99,Meat,3.0,2.0,1.0,1.0,1.0,2.0
 699499abb00680d6dd0d9c4d,"Boneless Skinless Chicken Breasts, Raised on Canadian Farms",6969181f05a95a3633344338,Unknown,15.0,6.99,Meat,11.0,4.0,3.0,7.0,1.0,8.0
-699499d71af04775da093e29,inside round steak,6969181f05a95a3633344338,Unknown,22.21,10.99,Meat,1.0,1.0,1.0,0.0,0.0,0.0
+699499d71af04775da093e29,inside round steak,6969181f05a95a3633344338,Unknown,22.21,10.99,Meat,1.0,1.0,,0.0,,
 69949f692e0c6b02d5cd4ae9,Dill Pickle Potato Salad,5d0bd76b8894a4ebbfd7048a,Unknown,9.5,2.99,HMR,5.0,5.0,4.0,0.0,1.0,1.0
 6994a8d0fb8f36e2bcd9b16d,fresh ahi yellow fin tuna,5d0bd76b8894a4ebbfd7048a,Unknown,8.21,4.1,Seafood,1.0,,,,,
 6994aa2efb8f36e2bcda2d49,Mixed Produce Box #7,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
@@ -353,8 +353,7 @@
 6994e0dafb8f36e2bceb75bc,pork shoulder blade steak,5fac3e04d7528a3c966b13a4,Unknown,11.23,5.61,Meat,,1.0,,,,
 6994e0ee1af04775da2412f9,pork shoulder blade steak,5fac3e04d7528a3c966b13a4,Unknown,9.17,4.58,Meat,,1.0,,,,
 6994e0f8fb8f36e2bceb827e,pork shoulder blade steak,5fac3e04d7528a3c966b13a4,Unknown,9.03,4.51,Meat,,1.0,,,,
-6994ebf86e8c0840c1724df4,"Kéfir, Blueberry",65a1a8282f4530e32514d6c3,Unknown,7.99,3.99,Centre of Store,,,2.0,,,
-6994f57e6e8c0840c175000e,Worlds of Flavors Carnitas Pork Shoulder,629cec56061cc278a85326dc,Unknown,14.0,7.0,Meat,,,3.0,,,
+6994ebf86e8c0840c1724df4,"Kéfir, Blueberry",65a1a8282f4530e32514d6c3,Unknown,7.99,3.99,Centre of Store,,,1.0,,,
 6994f5b8042b092504e2611c,Free From Boneless Stewing Beef,629cec56061cc278a85326dc,Unknown,15.0,7.5,Meat,,,2.0,,,
 6994f6b6046dcfd41e5cf61e,Bone In Rib and Centr chop fast fry,629cec56061cc278a85326dc,Unknown,12.07,6.03,Meat,,,1.0,,,
 6994f75e3a1df4d16b253240,PC Free From Oven-Roasted Chicken Breast 175gr,5d0bd76c8894a4ebbfd704b8,Unknown,8.5,3.5,Deli,,,13.0,,,
@@ -366,7 +365,7 @@
 6994fd5a3a1df4d16b26c288,Light Rye Bread,5d0bd76b8894a4ebbfd7048a,Unknown,3.49,0.51,Bakery Commercial,,,2.0,,,
 6995091e3a1df4d16b29b290,Ultimate Chicken Breakfast Sausages Maple Flavour,629cec56061cc278a85326dc,Unknown,7.0,3.5,Meat,,,8.0,,,
 6995093d6e8c0840c179de8f,Original Breakfast Pork Sausage,629cec56061cc278a85326dc,Unknown,8.0,4.0,Meat,,,4.0,,,
-6995094b042b092504e79f8b,Ground Pork,629cec56061cc278a85326dc,Unknown,11.0,5.5,Meat,,,5.0,,,
+6995094b042b092504e79f8b,Ground Pork,629cec56061cc278a85326dc,Unknown,11.0,5.5,Meat,,,2.0,,,
 699509dd3a1df4d16b29de3a,Bone In Rib and Centr chop fast fry,629cec56061cc278a85326dc,Unknown,12.16,6.08,Meat,,,1.0,,,
 699509f23a1df4d16b29e419,Chicken Drumsticks,629cec56061cc278a85326dc,Unknown,10.0,5.0,Meat,,,3.0,,,
 69950a876e8c0840c17a1cef,Ground Pork,629cec56061cc278a85326dc,Unknown,11.0,5.5,Meat,,,3.0,,,
@@ -379,5 +378,4 @@
 69951d3c046dcfd41e65132d,Bone In Rib and Centre Chop,5fac3e09d7528a3c966b13d0,Unknown,10.6,5.3,Meat,,,1.0,,,
 69951d54be0d6f9809749da5,Bone In Rib and Centre Chop,5fac3e09d7528a3c966b13d0,Unknown,11.26,5.63,Meat,,,1.0,,,
 69952ff1be0d6f9809772364,assorted bulk bagels 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.44,Bakery Instore,,,1.0,,,
-69953006042b092504ee682e,assorted bulk buns 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.44,Bakery Instore,,,1.0,,,
 699530773a1df4d16b306a32,assorted bulk hotdog buns 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.44,Bakery Instore,,,1.0,,,
