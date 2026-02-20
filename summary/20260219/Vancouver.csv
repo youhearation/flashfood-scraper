@@ -224,11 +224,11 @@
 6996267540f578fa9c2426a9,Mixed Produce Box #11,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 699672ba6e8c0840c1c0c748,inside round sandwich steak cut,6969181f05a95a3633344338,Unknown,7.94,3.97,Meat,9.0,5.0,5.0,4.0,0.0,4.0
 69967561042b09250439584f,boneless stew beef,6969181f05a95a3633344338,Unknown,18.31,9.15,Meat,17.0,16.0,16.0,1.0,0.0,1.0
-699680c63a1df4d16b7b5112,Free From Hot Italian Pork Sausages,629cec56061cc278a85326dc,Unknown,8.49,4.24,Meat,4.0,4.0,3.0,0.0,1.0,1.0
+699680c63a1df4d16b7b5112,Free From Hot Italian Pork Sausages,629cec56061cc278a85326dc,Unknown,8.49,4.24,Meat,4.0,4.0,,0.0,,
 699680d0046dcfd41ea86ee8,assorted bulk hotdog buns 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,6.5,4.0,Bakery Instore,1.0,1.0,1.0,0.0,0.0,0.0
-699680f140f578fa9c376f1c,pork shoulder blade steak cp,629cec56061cc278a85326dc,Unknown,20.76,10.38,Meat,1.0,1.0,1.0,0.0,0.0,0.0
+699680f140f578fa9c376f1c,pork shoulder blade steak cp,629cec56061cc278a85326dc,Unknown,20.76,10.38,Meat,1.0,1.0,,0.0,,
 699680f940f578fa9c377008,assorted bulk hotdog buns 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,6.5,4.0,Bakery Instore,1.0,1.0,1.0,0.0,0.0,0.0
-699680fa042b0925043aef58,pork shoulder blade steak cp,629cec56061cc278a85326dc,Unknown,18.55,9.27,Meat,1.0,1.0,1.0,0.0,0.0,0.0
+699680fa042b0925043aef58,pork shoulder blade steak cp,629cec56061cc278a85326dc,Unknown,18.55,9.27,Meat,1.0,1.0,,0.0,,
 6996810640f578fa9c3771df,pork shoulder blade steak cp,629cec56061cc278a85326dc,Unknown,18.61,9.3,Meat,1.0,,,,,
 69968123042b0925043af522,assorted bulk muffins 6 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.5,2.75,Bakery,1.0,1.0,,0.0,,
 6996813f046dcfd41ea87d20,assorted bulk muffins 6 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.5,2.75,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
@@ -329,7 +329,7 @@
 69976c88f9e149af235543ed,Mixed Produce Box #401,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69976cc3f9e149af2355559d,Mixed Produce Box #402,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69976d3fa13de79833c8177b,Mixed Produce Box #403,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
-69976ddc042b092504705d6f,Mixed Produce Box #404,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+69976ddc042b092504705d6f,Mixed Produce Box #404,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 69976e7f0c371bcd0f4ae8d7,Mixed Produce Box #179,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69976f2e042b09250470e0aa,Mixed Produce Box #416,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69976f563a1df4d16bb06bf2,Mixed Produce Box #130,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
@@ -339,7 +339,7 @@
 699773d2a13de79833ca5eb1,oikos strawberry cheesecake,5ddef30c9af4e045c44b9d67,Unknown,4.5,2.25,Dairy,,2.0,2.0,,0.0,
 6997744ba13de79833ca8d0e,Activia expert plain,5ddef30c9af4e045c44b9d67,Unknown,6.5,3.25,Dairy,,1.0,1.0,,0.0,
 6997745d042b09250472de9a,"Creamy Yogurt, Strawberry/Blueberry/Raspberry/Strawberry",5ddef30c9af4e045c44b9d67,Unknown,9.49,4.74,Dairy and Eggs,,3.0,3.0,,0.0,
-699775433a1df4d16bb28972,World Of Flavours Canadian Maple Apple Butter Roast,629cec56061cc278a85326dc,Unknown,14.0,7.0,Meat,,4.0,4.0,,0.0,
+699775433a1df4d16bb28972,World Of Flavours Canadian Maple Apple Butter Roast,629cec56061cc278a85326dc,Unknown,14.0,7.0,Meat,,4.0,,,,
 69977a0e0c371bcd0f4eba9f,Peashoots,5ddef30c9af4e045c44b9d67,Unknown,5.0,2.5,Produce,,6.0,5.0,,1.0,
 69977a293a1df4d16bb47d11,Garden mix,5ddef30c9af4e045c44b9d67,Unknown,5.0,2.5,Produce,,4.0,3.0,,1.0,
 69977a8bf9e149af2359db00,microgreens Spicy Mix 50g,5ddef30c9af4e045c44b9d67,Unknown,5.0,2.5,Produce,,5.0,4.0,,1.0,
@@ -357,11 +357,10 @@
 699787d60c371bcd0f5350d3,"Turkey, Bacon Style",6969181f05a95a3633344338,Unknown,6.99,1.99,Meat,,4.0,,,,
 699787fff9e149af235e24ba,Bologna,6969181f05a95a3633344338,Unknown,3.79,0.44,Meat,,7.0,2.0,,5.0,
 69978818f9e149af235e2d5d,Halal Chicken Wieners,6969181f05a95a3633344338,Unknown,3.29,0.44,Meat,,7.0,,,,
-69978a5df9e149af235ed0bd,Mixed Produce Box #60,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,,1.0,,,
 69979168a13de79833d4680b,Veggie Box #12,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,,1.0,,,
 699791740c371bcd0f5632f8,Veggie Box #18,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,,1.0,,,
 6997930e3a1df4d16bbd2027,silk whipping cream,5d0bd76b8894a4ebbfd7048a,Unknown,6.29,3.14,Natural Foods,,,1.0,,,
-699794293a1df4d16bbd77cd,Churro Cinnamon Chips,5d0bd76b8894a4ebbfd7048a,Unknown,7.49,3.74,Centre of Store,,,2.0,,,
+699794293a1df4d16bbd77cd,Churro Cinnamon Chips,5d0bd76b8894a4ebbfd7048a,Unknown,7.49,3.74,Centre of Store,,,1.0,,,
 6997a0ccf9e149af236489bf,pork side ribs,64a6b9d71e02c66732c06f33,Unknown,21.25,10.62,Meat,,,1.0,,,
 6997a0fba13de79833d870e9,Chorizo Pork Sausages,64a6b9d71e02c66732c06f33,Unknown,6.5,3.25,Meat,,,1.0,,,
 6997a132a13de79833d87ad2,Prime Beef Rib Steak,64a6b9d71e02c66732c06f33,Unknown,31.1,15.55,Beef,,,1.0,,,
@@ -372,6 +371,4 @@
 6997a2970c371bcd0f5a9eda,Hot Italian Pork Sausages,629cec56061cc278a85326dc,Unknown,8.0,4.0,Meat,,,4.0,,,
 6997cb4038830975c29cf296,Mixed Produce Bundle #3,65e8f30bcb43951cbd853f59,Unknown,5.0,5.0,Produce,,,1.0,,,
 6997d4f1f9e149af236db506,eye of round steak cut AA,6969181f05a95a3633344338,Unknown,11.29,5.64,Meat,,,9.0,,,
-6997dc603a1df4d16bcb6e40,"assorted bulk panini rolls,1 brioche, and 1 chocolate croissant 12 pack",5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.9,Bakery Instore,,,1.0,,,
-6997dc760c371bcd0f64361a,assorted bulk bagels 8 pack,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,1.0,Bakery,,,1.0,,,
 6997dc8da13de79833e1fad6,assorted bulk bagels 6 pack,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,0.84,Bakery,,,1.0,,,
