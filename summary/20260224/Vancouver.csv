@@ -212,13 +212,13 @@
 699c0cfbab5d5abe6d544af3,Gatorade Water (1 L),67bdc806855e4112ad907797,Unknown,4.09,2.04,Drinks,11.0,11.0,11.0,0.0,0.0,0.0
 699c0e21a8e9494804e7bcf4,Ritz Smoky Bacon Flavoured Dipper Crackers (180 g),67bdc806855e4112ad907797,Unknown,4.69,2.34,Snacks,1.0,1.0,1.0,0.0,0.0,0.0
 699c0e21a8e9494804e7bcfd,Leclerc White Glaze Drizzle Cookies & Creme Mini Cookies (200 g),67bdc806855e4112ad907797,Unknown,5.99,2.99,Snacks,11.0,11.0,11.0,0.0,0.0,0.0
-699c5788e12484973617e68a,Free From Naturally Smoked Fully Cooked Thick Sliced Bacon,5fac3e04d7528a3c966b13a4,Unknown,7.5,3.75,"Bacon, Sausages & Hot Dogs",17.0,17.0,17.0,0.0,0.0,0.0
+699c5788e12484973617e68a,Free From Naturally Smoked Fully Cooked Thick Sliced Bacon,5fac3e04d7528a3c966b13a4,Unknown,7.5,3.75,"Bacon, Sausages & Hot Dogs",17.0,17.0,15.0,0.0,2.0,2.0
 699c579b107d7664ec1b2fa7,Free From Naturally Smoked Fully Cooked Bacon,5fac3e04d7528a3c966b13a4,Unknown,7.5,3.75,"Bacon, Sausages & Hot Dogs",5.0,4.0,3.0,1.0,1.0,2.0
 699c629f72a4a5ab8d155710,Mixed Produce Box #131,5d0bd76b8894a4ebbfd7048a,Unknown,2.0,2.0,Produce,1.0,1.0,,0.0,,
 699c62b0432d6b5a722834f3,Mixed Produce Box #132,5d0bd76b8894a4ebbfd7048a,Unknown,2.0,2.0,Produce,1.0,,,,,
 699c62c4e1248497361bf789,Mixed Produce Box #133,5d0bd76b8894a4ebbfd7048a,Unknown,2.0,2.0,Produce,1.0,,,,,
 699c6302107d7664ec1fe036,Mixed Produce Box #135,5d0bd76b8894a4ebbfd7048a,Unknown,2.0,2.0,Produce,1.0,,,,,
-699c643cd50b3ec3e7790380,Mixed Produce Box #128,5d0bd76b8894a4ebbfd7048a,Unknown,2.0,2.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+699c643cd50b3ec3e7790380,Mixed Produce Box #128,5d0bd76b8894a4ebbfd7048a,Unknown,2.0,2.0,Produce,1.0,1.0,,0.0,,
 699c7e3c107d7664ec2b9b15,Mixed Produce Box #352,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,,,,,
 699c7ea0107d7664ec2bcdf9,Mixed Produce Box #356,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 699c7eaf107d7664ec2bd3c0,Mixed Produce Box #357,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
@@ -272,10 +272,10 @@
 699dd80278ab2028e93f8cf7,Nachos with Cheddar Cheese & Salsa Lunch Kit,6969181f05a95a3633344338,Unknown,3.0,0.89,Meat,5.0,4.0,4.0,1.0,0.0,1.0
 699dd8194acc6597c4426bd4,"#29-Blade Steak, Boneless",5d0bd76b8894a4ebbfd7048a,Unknown,9.72,4.86,Meat & Seafood,1.0,1.0,1.0,0.0,0.0,0.0
 699dd83578ab2028e93fa2c8,Jalapeño Popper Pasta Salad,5d0bd76b8894a4ebbfd7048a,Unknown,9.5,3.99,HMR,2.0,2.0,,0.0,,
-699dd850f2a8f46f33c06711,"Turkey, Sliced",6969181f05a95a3633344338,Unknown,1.99,0.49,Meat,16.0,8.0,4.0,8.0,4.0,12.0
+699dd850f2a8f46f33c06711,"Turkey, Sliced",6969181f05a95a3633344338,Unknown,1.99,0.49,Meat,16.0,8.0,1.0,8.0,7.0,15.0
 699dd8574acc6597c44281d7,007pork combo sirloin centre&rib chops,5d0bd76b8894a4ebbfd7048a,Unknown,16.07,8.03,Meat,1.0,,,,,
 699dd85ef2a8f46f33c06e5b,Dill Pickle Potato Salad,5d0bd76b8894a4ebbfd7048a,Unknown,9.5,3.99,HMR,5.0,5.0,,0.0,,
-699dd876f2a8f46f33c07610,Greek Feta Pasta Salad,6969181f05a95a3633344338,Unknown,5.79,1.59,HMR,5.0,5.0,5.0,0.0,0.0,0.0
+699dd876f2a8f46f33c07610,Greek Feta Pasta Salad,6969181f05a95a3633344338,Unknown,5.79,1.59,HMR,5.0,5.0,4.0,0.0,1.0,1.0
 699dd8d1f293f3358f0a9ce2,"Pepperoni, Sliced",6969181f05a95a3633344338,Unknown,7.0,2.09,Deli,5.0,,,,,
 699dd90378ab2028e93fe50d,5 -Strip Loin Steak CP,5d0bd76b8894a4ebbfd7048a,Unknown,44.89,22.44,Meat & Seafood,1.0,,,,,
 699dd903f2a8f46f33c0a880,Macaroni & Cheese Salad,5d0bd76b8894a4ebbfd7048a,Unknown,7.49,2.5,HMR,4.0,3.0,,1.0,,
@@ -374,4 +374,4 @@
 699e391f20688239b933bf68,Sausage Buns,5d0bd76b8894a4ebbfd7048a,Unknown,3.99,0.51,Bakery,,,2.0,,,
 699e39a720688239b933dfeb,D'Italiano Brioche Hot Dog Buns,5d0bd76b8894a4ebbfd7048a,Unknown,3.99,0.51,Bakery Commercial,,,6.0,,,
 699e3c6c0da0d3529ee36086,Cold smoked herring,5fac3e04d7528a3c966b13a4,Unknown,7.99,3.99,Frozen,,,10.0,,,
-699e465008a4502be5946d7d,"Pepperoni, Sliced",6969181f05a95a3633344338,Unknown,7.0,1.99,Deli,,,13.0,,,
+699e465008a4502be5946d7d,"Pepperoni, Sliced",6969181f05a95a3633344338,Unknown,7.0,1.99,Deli,,,12.0,,,
