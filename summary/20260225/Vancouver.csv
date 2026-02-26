@@ -173,15 +173,15 @@
 699b33fb72a4a5ab8ddd2793,Brown Shimeji Mushroom,5fac3e09d7528a3c966b13d0,Unknown,2.99,1.5,Produce,42.0,42.0,42.0,0.0,0.0,0.0
 699b343a107d7664ece51d67,White Shimeji Mushrooms,5fac3e09d7528a3c966b13d0,Unknown,2.99,1.49,Produce,28.0,28.0,28.0,0.0,0.0,0.0
 699b3485432d6b5a72f71cdc,Whole Oyster Mushrooms,5fac3e09d7528a3c966b13d0,Unknown,4.49,2.24,Produce,2.0,2.0,2.0,0.0,0.0,0.0
-699b38abe124849736e8f980,"Pepperoni, Sliced",629cec56061cc278a85326dc,Unknown,6.0,3.0,Meat,1.0,1.0,1.0,0.0,0.0,0.0
+699b38abe124849736e8f980,"Pepperoni, Sliced",629cec56061cc278a85326dc,Unknown,6.0,3.0,Meat,1.0,1.0,,0.0,,
 699b43b5432d6b5a72fc5145,Fresh Whole Tilapia,5d0bd76c8894a4ebbfd704b8,Unknown,11.1,5.55,Fish,2.0,2.0,2.0,0.0,0.0,0.0
-699ba7f6432d6b5a7215892e,Veggie Box #39,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-699ba846432d6b5a721593e3,Veggie Box #38,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-699ba88772a4a5ab8d00961e,Veggie Box #36,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-699ba89fe124849736087cf6,Veggie Box #37,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-699ba8bb72a4a5ab8d00a228,Veggie Box #40,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-699ba9d572a4a5ab8d00cf30,Mixed Produce Box #29,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-699ba9f4e12484973608ac4c,Mixed Produce Box #28,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+699ba7f6432d6b5a7215892e,Veggie Box #39,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+699ba846432d6b5a721593e3,Veggie Box #38,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+699ba88772a4a5ab8d00961e,Veggie Box #36,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+699ba89fe124849736087cf6,Veggie Box #37,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+699ba8bb72a4a5ab8d00a228,Veggie Box #40,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+699ba9d572a4a5ab8d00cf30,Mixed Produce Box #29,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+699ba9f4e12484973608ac4c,Mixed Produce Box #28,64a6b9d71e02c66732c06f33,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 699c0134a8e9494804e78a1f,Ziggy's Beef Tortellini Pasta (350 g),65e8f30bcb43951cbd853f59,Unknown,5.69,2.84,Easy Meals,1.0,1.0,,0.0,,
 699c0156a8e9494804e78bfb,Ziggy's Smoked Honey & Maple Ham (175 g),65e8f30bcb43951cbd853f59,Unknown,3.99,1.99,Meat & Fish,13.0,13.0,12.0,0.0,1.0,1.0
 699c0562a8e9494804e7a4de,Leclerc White Glaze Drizzle Cookies & Creme Mini Cookies (200 g),65e8f30bcb43951cbd853f59,Unknown,5.99,2.99,Snacks,10.0,10.0,10.0,0.0,0.0,0.0
@@ -246,10 +246,10 @@
 699e29d320688239b9301d9e,Mixed Produce Box #27,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,,,,,
 699e29e908a4502be58d87b8,Mixed Produce Box #37,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 699e2a9620688239b9306086,Mixed Produce Box #5,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-699e3c6c0da0d3529ee36086,Cold smoked herring,5fac3e04d7528a3c966b13a4,Unknown,7.99,3.99,Frozen,10.0,9.0,8.0,1.0,1.0,2.0
+699e3c6c0da0d3529ee36086,Cold smoked herring,5fac3e04d7528a3c966b13a4,Unknown,7.99,3.99,Frozen,10.0,9.0,,1.0,,
 699e754740e38fc956eb50f9,assorted bulk bagels 6 pack,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,1.0,Bakery,1.0,,,,,
 699e75b220688239b93d45c5,assorted bulk hotdog and sub buns 12 pack,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.5,Bakery Instore,1.0,1.0,1.0,0.0,0.0,0.0
-699e94480da0d3529eee51ac,Mixed Produce Box #11,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+699e94480da0d3529eee51ac,Mixed Produce Box #11,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 699e945220688239b93eb0c6,Mixed Produce Box #12,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 699e945dd01c69d6fc990710,Mixed Produce Box #13,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 699e946920688239b93eb156,Mixed Produce Box #14,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
@@ -300,9 +300,9 @@
 699ef8530da0d3529ef90bc3,Cheese and Pepperoni Party Tray,5d0bd76b8894a4ebbfd7048a,Unknown,16.0,8.0,Deli,3.0,1.0,,2.0,,
 699efddcd01c69d6fca46aa5,"Cultured Coconut Yogurt, Vanilla",5d0bd76b8894a4ebbfd7048a,Unknown,5.49,2.74,Natural Foods,4.0,1.0,,3.0,,
 699efe0120688239b94a553f,Coconut Milk Vegan Yogurt - Mango And Passion Fruit,5d0bd76b8894a4ebbfd7048a,Unknown,6.99,3.49,Natural Foods,1.0,,,,,
-699f0c9c40e38fc956ffd368,"Source 0% Smooth Traditional Yogurt, Peach, No Added Sugar",65a1a8282f4530e32514d6c3,Unknown,3.5,1.75,Centre of Store,4.0,2.0,2.0,2.0,0.0,2.0
+699f0c9c40e38fc956ffd368,"Source 0% Smooth Traditional Yogurt, Peach, No Added Sugar",65a1a8282f4530e32514d6c3,Unknown,3.5,1.75,Centre of Store,4.0,2.0,,2.0,,
 699f1743d01c69d6fcae029f,Snow Peas,5ddef30c9af4e045c44b9d67,Unknown,5.0,2.0,Fruits & Vegetables,9.0,9.0,8.0,0.0,1.0,1.0
-699f1a9dd01c69d6fcaf7cd0,"Mini Ham Subs, Family Pack",6969181f05a95a3633344338,Unknown,14.0,5.99,HMR,6.0,4.0,4.0,2.0,0.0,2.0
+699f1a9dd01c69d6fcaf7cd0,"Mini Ham Subs, Family Pack",6969181f05a95a3633344338,Unknown,14.0,5.99,HMR,6.0,4.0,3.0,2.0,1.0,3.0
 699f1ac040e38fc9560646f7,Cuisine Garlic & Fine Herbs 12 % M.F.,6969181f05a95a3633344338,Unknown,7.49,2.99,Deli,9.0,,,,,
 699f1b4540e38fc956068d34,"Smokies, Original Smoked Sausage",6969181f05a95a3633344338,Unknown,17.99,6.99,Meat,2.0,,,,,
 699f1b920da0d3529e0872f7,Brise du Matin Cheese,6969181f05a95a3633344338,Unknown,5.99,1.99,Deli,1.0,,,,,
@@ -361,7 +361,7 @@
 699f44670da0d3529e1a5bbe,Pigs in a Blanket,6969181f05a95a3633344338,Unknown,12.99,5.0,Meat,,15.0,15.0,,0.0,
 699f4b9596009bf2f4d741ef,Mixed Produce Box #400,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 699f4b9e40e38fc9561a8384,Mixed Produce Box #401,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
-699f4ba740e38fc9561a8832,Mixed Produce Box #402,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+699f4ba740e38fc9561a8832,Mixed Produce Box #402,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 699f4bea0da0d3529e1d3b75,Mixed Produce Box #403,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 699f4bf6d01c69d6fcc24908,Mixed Produce Box #404,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 699f4bfbb1dd22d049be67a2,Mixed Produce Box #405,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
@@ -370,9 +370,9 @@
 699f4c1496009bf2f4d76c43,Mixed Produce Box #409,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 699f4ef040e38fc9561be368,Spinach Dip - 12 pk,5d0bd76b8894a4ebbfd7048a,Unknown,9.0,4.5,Deli & Ready Meals,,1.0,,,,
 699f51b4d01c69d6fcc41f6c,Naturally Imperfect Tomatoes,65bd257956f2d4f45a3da0e2,Unknown,5.5,2.75,Produce,,1.0,,,,
-699f51dad01c69d6fcc42b56,Lemons 3lb Bag,65bd257956f2d4f45a3da0e2,Unknown,5.99,2.99,Fruits & Vegetables,,1.0,1.0,,0.0,
-699f523f0da0d3529e1fbd81,Naturally Imperfect Limes,65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Produce,,1.0,1.0,,0.0,
-699f5a880da0d3529e231a3d,Smoked Maple Ham,629cec56061cc278a85326dc,Unknown,12.5,6.25,Meat,,3.0,1.0,,2.0,
+699f51dad01c69d6fcc42b56,Lemons 3lb Bag,65bd257956f2d4f45a3da0e2,Unknown,5.99,2.99,Fruits & Vegetables,,1.0,,,,
+699f523f0da0d3529e1fbd81,Naturally Imperfect Limes,65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Produce,,1.0,,,,
+699f5a880da0d3529e231a3d,Smoked Maple Ham,629cec56061cc278a85326dc,Unknown,12.5,6.25,Meat,,3.0,,,,
 699f5fd80da0d3529e2520ce,Fruit Box #16,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,1.0,,,,
 699f5fef40e38fc956227bd4,Fruit Box #17,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,1.0,,,,
 699f60f6b1dd22d049c5b78e,Fruit Box #11,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
@@ -395,7 +395,7 @@
 699f6a94d01c69d6fcccc376,"Blueberry Scones, 4 Pack",5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.24,Bakery,,2.0,,,,
 699f6aa9d01c69d6fcccccc3,"Demi-Baguette, White",5d0bd76c8894a4ebbfd704b8,Unknown,3.25,0.99,Bakery,,2.0,2.0,,0.0,
 699f6cf71222b3be179fb856,"Half / Half, 10%",5d0bd76b8894a4ebbfd7048a,Unknown,3.23,1.61,Dairy and Eggs,,3.0,3.0,,0.0,
-699f6d0883468d14ebc2d777,Coffee Cream 18% M.F.,5d0bd76b8894a4ebbfd7048a,Unknown,3.62,0.89,Dairy & Eggs,,16.0,13.0,,3.0,
+699f6d0883468d14ebc2d777,Coffee Cream 18% M.F.,5d0bd76b8894a4ebbfd7048a,Unknown,3.62,0.89,Dairy & Eggs,,16.0,8.0,,8.0,
 699f6e190dfb9aca670be27d,Turkey Sausages Bratwurst,5fac3e04d7528a3c966b13a4,Unknown,7.99,1.49,"Bacon, Sausages & Hot Dogs",,1.0,,,,
 699f6e3d83468d14ebc3402b,Smoked Sausage Sticks Pepperoni Turkey and Chicken,5fac3e04d7528a3c966b13a4,Unknown,13.49,1.99,Deli,,9.0,,,,
 699f6e6f1222b3be17a039d2,Honey Dijon Chicken Breast Portions,5fac3e04d7528a3c966b13a4,Unknown,7.79,3.89,Meat,,5.0,,,,
@@ -404,21 +404,21 @@
 699f70880dfb9aca670ca05c,carrot mini muffins,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,1.99,Bakery Instore,,3.0,,,,
 699f70ad1222b3be17a0ecff,carrot mini muffins,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,2.29,Bakery Instore,,1.0,,,,
 699f70d683468d14ebc418ad,pc mini blueberry muffins 12,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,1.99,Bakery Instore,,3.0,,,,
-699f783783468d14ebc6851f,Ground Chicken,5fac3e09d7528a3c966b13d0,Unknown,4.0,2.0,Meat,,,6.0,,,
 699f7d661222b3be17a4e9f1,White Bread,5d0bd76b8894a4ebbfd7048a,Unknown,3.0,0.51,Bakery,,,3.0,,,
 699f7dfd43499a89f38d7eb0,jumbo kaiser rolls 6,5d0bd76b8894a4ebbfd7048a,Unknown,4.25,0.51,Bakery,,,3.0,,,
 699f814e43499a89f38e3f1e,Marinated Chicken Wings,61c39e3eb18e950dea37d276,Unknown,9.47,4.73,Marinated In-store,,,1.0,,,
 699f815e1222b3be17a611b5,Marinated Chicken Wings,61c39e3eb18e950dea37d276,Unknown,11.49,5.74,Marinated In-store,,,1.0,,,
-699f8c3c43499a89f3908caa,Cheese Double Cream  Brie 32% M.F.,629cec56061cc278a85326dc,Unknown,5.99,2.99,Deli,,,5.0,,,
 699f957043499a89f392486a,Synergy The Real Kombucha Trilogy,629cec56061cc278a85326dc,Unknown,6.0,3.0,Centre of Store,,,11.0,,,
 699f9580f39850c3080c59fb,Duo Lemon-Vanilla Yogurt Tub 1.5%,629cec56061cc278a85326dc,Unknown,5.0,2.5,Centre of Store,,,2.0,,,
 699fa22883468d14ebd1b227,Mixed Produce Box #2,65a1a8282f4530e32514d6c3,Unknown,5.0,5.0,Produce,,,1.0,,,
 699fa2981222b3be17ade019,Mixed Produce Box #3,65a1a8282f4530e32514d6c3,Unknown,5.0,5.0,Produce,,,1.0,,,
 699fa5af83468d14ebd26102,Chicken Drumsticks,629cec56061cc278a85326dc,Unknown,10.0,5.0,Meat,,,4.0,,,
-699fa5b343499a89f394ecdd,Ground Pork,629cec56061cc278a85326dc,Unknown,11.0,5.5,Meat,,,3.0,,,
 699fa5c51222b3be17ae7089,Bratwurst Pork Sausage,629cec56061cc278a85326dc,Unknown,8.0,4.0,Meat,,,1.0,,,
 699fa6a20dfb9aca6719899f,World Of Flavours Greek Seasoned Pork Loin Roast,629cec56061cc278a85326dc,Unknown,14.0,7.0,Meat,,,6.0,,,
 699fa6c21222b3be17aea0ca,World Of Flavours Canadian Maple Apple Butter Roast,629cec56061cc278a85326dc,Unknown,14.0,7.0,Meat,,,1.0,,,
 699fc545f39850c308141d14,assorted bulk Kaiser buns6 pack,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,1.0,Bakery,,,1.0,,,
 699fc56583468d14ebd6ca2a,assorted bulk bagels 6 pack,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,0.8,Bakery,,,1.0,,,
-699fc5981222b3be17b2c850,"assorted bulk hotdog, brioche and hamburger buns 12 pack",5d0bd76c8894a4ebbfd704b8,Unknown,4.0,1.0,Bakery Instore,,,1.0,,,
+699fd3410dfb9aca671e651c,Mixed Produce Box #97,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+699fd349f39850c3081512e2,Mixed Produce Box #98,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+699fd3590dfb9aca671e6658,Mixed Produce Box #99,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+699fd363f39850c308151431,Mixed Produce Box #96,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
