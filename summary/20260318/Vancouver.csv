@@ -124,8 +124,8 @@
 69b7aaafc0a1a71683b816c3,Dairyland 5% Sour Cream (500 ml),65e8f30bcb43951cbd853f59,Unknown,5.29,2.64,Dairy & Eggs,3.0,3.0,3.0,0.0,0.0,0.0
 69b7ab08c0a1a71683b817ae,Ziggy's Smoked Kolbassa Sausage (375 g),65e8f30bcb43951cbd853f59,Unknown,8.79,4.39,Meat & Fish,3.0,2.0,2.0,1.0,0.0,1.0
 69b7acda37728011b3e77114,S&B Prepared Wasabi Tube (43 g),65e8f30bcb43951cbd853f59,Unknown,3.29,1.64,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
-69b81c68e6ea22976d5dbcce,Mixed Produce Box #3,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-69b81cc333e59705dad5a1e0,Mixed Produce Box #1,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+69b81c68e6ea22976d5dbcce,Mixed Produce Box #3,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
+69b81cc333e59705dad5a1e0,Mixed Produce Box #1,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 69b8f9c1022e1e4fc9047d97,Dairyland Skim Milk Carton (1 L),67bdc806855e4112ad907797,Unknown,2.99,1.49,Dairy & Eggs,5.0,5.0,5.0,0.0,0.0,0.0
 69b8f9c11e31b0b0389af97f,Dairyland Chocolate Milk (2L),67bdc806855e4112ad907797,Unknown,5.79,2.89,Dairy & Eggs,4.0,4.0,4.0,0.0,0.0,0.0
 69b8f9c174af51da80cd978f,Dairyland 18% Coffee Cream Carton (946 ml),67bdc806855e4112ad907797,Unknown,6.29,3.14,Dairy & Eggs,2.0,2.0,2.0,0.0,0.0,0.0
@@ -169,7 +169,7 @@
 69badb4431fb16ccc1083743,Outside Round Steak,64a6b9d71e02c66732c06f33,Unknown,14.28,7.14,Beef,1.0,,,,,
 69badba5bb7df536f9c31d7b,"Marinated Beef Striploin Steak, Service Case",64a6b9d71e02c66732c06f33,Unknown,23.7,11.85,Beef,1.0,,,,,
 69bafe0234ace9104773c49d,Halal boneless stewing beef,629cec56061cc278a85326dc,Unknown,14.99,7.49,Meat,,2.0,,,,
-69bb069d34ace91047753f8e,Yoplait raspberry,629cec56061cc278a85326dc,Unknown,2.0,1.0,Dairy,,12.0,12.0,,0.0,
+69bb069d34ace91047753f8e,Yoplait raspberry,629cec56061cc278a85326dc,Unknown,2.0,1.0,Dairy,,12.0,,,,
 69bb070167bef9ff2b761244,pc cheese blend 320g,629cec56061cc278a85326dc,Unknown,8.88,4.44,Dairy,,3.0,,,,
 69bb166bae3a93044ee51e5f,Whoppers Box 113g,69379713a3687e3a3db2d8bc,Unknown,3.99,1.99,Grocery,,6.0,6.0,,0.0,
 69bb171cecf624e1ca77c0be,Fuze Ice Tea Lemon 500ml,69379713a3687e3a3db2d8bc,Unknown,3.8,1.9,Grocery,,24.0,24.0,,0.0,
