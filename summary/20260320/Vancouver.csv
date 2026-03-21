@@ -66,7 +66,7 @@
 69a541b85c370550fff51825,Beneful Originals Dry Dog Food with Real Chicken (7 kg),67bdc806855e4112ad907797,Unknown,33.29,16.64,Pet Care,1.0,1.0,1.0,0.0,0.0,0.0
 69a62a3da7c94f56e42f27af,Flexible Paper Straws 100 Pack,65bd257956f2d4f45a3da0e2,Unknown,3.0,1.5,Home & Entertainment,1.0,1.0,1.0,0.0,0.0,0.0
 69a68ffc6d87d0ba3f6110a8,Beneful Originals Dry Dog Food with Real Salmon (7 kg),67bdc806855e4112ad907797,Unknown,33.29,16.64,Pet Care,1.0,1.0,1.0,0.0,0.0,0.0
-69a6903ef9d8fe4c78fc4d41,Purina Beyond Chicken & Whole Oatmeal Recipe Dry Cat Food (1.36 kg),67bdc806855e4112ad907797,Unknown,17.89,8.94,Pet Care,2.0,2.0,2.0,0.0,0.0,0.0
+69a6903ef9d8fe4c78fc4d41,Purina Beyond Chicken & Whole Oatmeal Recipe Dry Cat Food (1.36 kg),67bdc806855e4112ad907797,Unknown,17.89,8.94,Pet Care,2.0,2.0,,0.0,,
 69a6909b6d87d0ba3f6112e6,Whiskas Catmilk Cat Drink Treat (200 ml),67bdc806855e4112ad907797,Unknown,2.99,1.5,Pet Care,14.0,14.0,14.0,0.0,0.0,0.0
 69a691fdf9d8fe4c78fc5278,Durex Play 2-in-1 Guarana Massage Lubricant (200 ml),65e8f30bcb43951cbd853f59,Unknown,19.99,9.99,Personal Care,1.0,1.0,1.0,0.0,0.0,0.0
 69a692cb6623a9b168461131,Kraft Dinner Poutine Macaroni & Cheese Cup (58 g),67bdc806855e4112ad907797,Unknown,2.79,1.39,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
@@ -80,7 +80,7 @@
 69a93437852a6b90cf1a42e1,Taco Bell Hot Sauce (207 ml),67bdc806855e4112ad907797,Unknown,3.27,1.63,Pantry,1.0,1.0,1.0,0.0,0.0,0.0
 69a939e0c7d0f8576092699a,Taco Bell Hot Sauce (207 ml),65e8f30bcb43951cbd853f59,Unknown,3.27,1.63,Pantry,4.0,4.0,4.0,0.0,0.0,0.0
 69a9fe8767203a17607cca39,"Bowl, Round",629cec56061cc278a85326dc,Unknown,4.0,1.0,Home & Entertainment,6.0,6.0,6.0,0.0,0.0,0.0
-69a9feb15b144fdb1fe4fb15,"Bowl, Round",629cec56061cc278a85326dc,Unknown,4.0,1.0,Home & Entertainment,7.0,7.0,7.0,0.0,0.0,0.0
+69a9feb15b144fdb1fe4fb15,"Bowl, Round",629cec56061cc278a85326dc,Unknown,4.0,1.0,Home & Entertainment,7.0,7.0,,0.0,,
 69aa80bd7a386e0fe0821015,Kraft vinaigrette rancher's choice / Rancher's Choice Dressing (425 ml),65e8f30bcb43951cbd853f59,Unknown,4.29,2.14,Pantry,3.0,3.0,3.0,0.0,0.0,0.0
 69abdb3b65f21b711816e830,Paldo Seafood Noodle Soup Bowl (86 g),65e8f30bcb43951cbd853f59,Unknown,1.99,0.99,Pantry,3.0,3.0,3.0,0.0,0.0,0.0
 69ac4d813b6d48e5a4492e5f,"Planet First Wheat Stalk Straws, Compostable, 200 Straws",629cec56061cc278a85326dc,Unknown,6.0,3.0,Home & Entertainment,1.0,1.0,1.0,0.0,0.0,0.0
@@ -127,12 +127,12 @@
 69bba8481854d3fde90a4865,"""Balady Bread 7"""" White Pita (300 g)""",65e8f30bcb43951cbd853f59,Unknown,3.69,1.84,Bakery,2.0,2.0,2.0,0.0,0.0,0.0
 69bc3767119b7dbd4faaa732,Goldfish French Toast Grahams 180g,69379713a3687e3a3db2d8bc,Unknown,6.95,1.85,Grocery,3.0,3.0,2.0,0.0,1.0,1.0
 69bc6b804a574208f61b57f6,French Onion Sour Cream Dip,65a1a8282f4530e32514d6c3,Unknown,4.29,2.14,Centre of Store,1.0,1.0,1.0,0.0,0.0,0.0
-69bc6baae99987754b385088,Fat Free Sour Cream,65a1a8282f4530e32514d6c3,Unknown,3.79,1.89,Centre of Store,2.0,2.0,2.0,0.0,0.0,0.0
+69bc6baae99987754b385088,Fat Free Sour Cream,65a1a8282f4530e32514d6c3,Unknown,3.79,1.89,Centre of Store,2.0,2.0,,0.0,,
 69bc6c134edeb38b3915788f,Suraj Yogurt 2%,65a1a8282f4530e32514d6c3,Unknown,2.99,1.49,Centre Of Store,5.0,5.0,5.0,0.0,0.0,0.0
 69bc6c70c852031d2e0a3d3e,Iogo nano mango,65a1a8282f4530e32514d6c3,Unknown,4.75,2.38,Dairy,1.0,1.0,1.0,0.0,0.0,0.0
 69bc6c8afcdf1dfe03313421,Nanö Drinkable Strawberry-Banana Lactose-Free Yogurt 1%,65a1a8282f4530e32514d6c3,Unknown,5.79,2.89,Centre of Store,3.0,3.0,3.0,0.0,0.0,0.0
 69bc6d6d771d7f2611c572e5,Activia Strawberry banana drink,65a1a8282f4530e32514d6c3,Unknown,7.0,3.5,Dairy,1.0,1.0,1.0,0.0,0.0,0.0
-69bc93aec852031d2e0e964e,Smoked Beef Pastrami,629cec56061cc278a85326dc,Unknown,3.75,1.87,Deli,2.0,2.0,2.0,0.0,0.0,0.0
+69bc93aec852031d2e0e964e,Smoked Beef Pastrami,629cec56061cc278a85326dc,Unknown,3.75,1.87,Deli,2.0,2.0,,0.0,,
 69bce8561854d3fde9177b96,Dairyland 3.25% Homogenized Milk Carton (1 L),65e8f30bcb43951cbd853f59,Unknown,2.79,1.39,Dairy & Eggs,1.0,1.0,1.0,0.0,0.0,0.0
 69bce870119b7dbd4fb2f745,Lunchables Extra Cheesy Pizza Snack Kit (135 g),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Easy Meals,2.0,2.0,2.0,0.0,0.0,0.0
 69bceb0c7e7daae2e92172a0,Slim Jim Mild Snack Size Sticks (112 g),65e8f30bcb43951cbd853f59,Unknown,8.49,4.24,Snacks,4.0,4.0,4.0,0.0,0.0,0.0
