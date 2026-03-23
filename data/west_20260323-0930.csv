@@ -1,0 +1,138 @@
+﻿city,beijing_time,local_time,store_id,store_name,item_id,item_name,price,original_price,stock,category
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaec6c7cb967fc85ee1826,Vetdiet Dental Chews | Dog Treat,10.49,20.99,3,Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaec3b7cb967fc85edfdd9,PureBites Topper - Mid Size Beef - 85 g | Size: 82,5.99,11.99,1,Pet Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaec117cb967fc85ede573,Vetdiet Feline Adult - Indoor in Salmon & Rice | Cat Food | Size: 1.59,14.99,29.99,1,Cat Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaebe77cb967fc85edcac9,Vetdiet Puppy - Chicken & Rice | Dog Food | Size: 2.72,17,33.99,1,Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaebd52f7e7a8f63872a15,Vetdiet Puppy SB - Chicken & Rice | Dog Food | Size: 2.72,17,33.99,1,Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaebbf22b46d4f4364f636,Vetdiet Adult - Mobility Formula | Dog Food | Size: 2.72,20,39.99,1,Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaebaadc93a73d935ac34a,Vetdiet Feline Adult - Indoor - Chicken & Rice | Cat Food | Size: 6.8,33.49,66.99,1, Cat Supplies 
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaeb922f7e7a8f638713a6,Vetdiet Adult - Skin & Stomach In Salmon & Peas | Dog Food | Size: 2.72,20,39.99,1, Dog Supplies 
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaeb782f7e7a8f63870a06,Vetdiet Feline Adult - Active in Salmon & Peas | Cat Food | Size: 6.8,36.49,72.99,1,Cat Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69aaeb2f22b46d4f4364bec5,Vetdiet Puppy Sb - Chicken & Rice | Dog Food | Size: 6.8,28.5,56.99,1, Dog Supplies 
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,699483bbfb8f36e2bccce0d0,Vetdiet Puppy - Chicken & Rice | Dog Food | Size: 2.72,17,33.99,3,Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,699483a12e0c6b02d5c15ba9,Vetdiet Kitten - Chicken & Rice | Cat Food | Size: 6.8,31,61.99,1,Cat Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,699483901af04775dafff557,Vetdiet Adult - Mobility Formula | Dog Food | Size: 2.72,20,39.99,2,Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69948351fb8f36e2bcccb602,Vetdiet Feline Adult - Indoor in Salmon & Rice | Cat Food | Size: 1.59,14.99,29.99,1,Cat Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69790e2fe4fe434135030c9f,Vetdiet Feline Adult - Dental Care - Chicken & Rice | Cat Food | Size: 1.59,16.5,32.99,2,Cat Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,69666a9a29864c81d5f1d0f0,Vetdiet Kitten - Chicken & Rice | Cat Food | Size: 1.59,13.49,26.99,1,Cat Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,63cef866290ecaebc6d392ff,Unknown,696669d2b2db10be9929b4d2,Vetdiet Feline Adult - Dental Care - Chicken & Rice | Cat Food | Size: 1.59,16.5,32.99,4,Cat Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bed9f2ebb39146e10a32c1,Fruit Box #620,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bed9effef4be303998b8a6,Fruit Box #619,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd539e4edeb38b392673c1,Fruit Box #611,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd538429bfc1febf55e402,Fruit Box #609,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd53823002337336d22429,Fruit Box #608,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd52e34edeb38b392658d5,Fruit Box #605,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4f34f5a26c88e15652a6,Fruit Box #800,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4f2229bfc1febf552f5b,Fruit Box #304,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4e23e99987754b48cb17,Fruit Box #202,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4e1ab6a7515834ec8a92,Fruit Box #12,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4e0be99987754b48c69d,Fruit Box #704,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4df1b6a7515834ec85a3,Fruit Box #307,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4de5b6a7515834ec84c4,Fruit Box #212,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4dd029bfc1febf54ed14,Fruit Box #206,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4dbcb6a7515834ec7ebb,Fruit Box #522,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd4a1ab6a7515834ebecf3,Fruit Box #160,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd49f14edeb38b39249db3,Fruit Box #515,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd49b34edeb38b39249859,Fruit Box #11,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bd49503002337336d085a4,Fruit Box #516,1.5,1.5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e05d7528a3c966b13b2,Unknown,69bbfd864edeb38b39044fd8,PC Spanish style chorizo 250g,4,6.99,7,Deli
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7544d6a672e1136bfbf,Unknown,69bad1533c2496af599b255e,Grade A Large Brown Eggs (one broken egg),5.5,6.08,1,Dairy & Eggs
+Toronto,2026-03-23 12:10,2026-03-23 09:30,6410dc9ed904cd2328a73d59,Unknown,69c0244ac8c64cc29accfb3a,PC MIXED GREENS 340G,0.99,4,3,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69c08e651f1341c77a02266b,Fruit Box #10,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69c08e505f23bfa349e30858,Mixed Produce Box #9,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69c08e3d5f23bfa349e306f7,Mixed Produce Box #8,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69c08e31ccaba74de0abd275,Fruit Box #7,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69c08e1b4253ccbe0e7f60ff,Fruit Box #6,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69c08de4ccaba74de0abcb7f,Mixed Produce Box #4,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69c08db1cb8b9f826ff0c6e0,Fruit Box #2,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69befa8a440d7cb6f300ef26,Mixed Produce Box #403,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69befa85fef4be30399c4c78,Mixed Produce Box #402,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69befa77fef4be30399c4b25,Mixed Produce Box #401,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69bec59cff52dc9905756dee,"Pepperstick, Mild",0.5,2.49,17,Deli
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69b6ea7e99b744574094c905,Taiwanese chicken frozen,9.48,18.95,2,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69b43f0604272ff58bdb617f,"Turkey Pepperoni, Mild",1.24,2.49,33,Deli
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69b43eee50c8db600e81e100,"Pepperstick, Mild",1.24,2.49,16,Deli
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69a493e78ea43dd06028ebaa,Rice Crackers Nori Maki,3.25,6.99,6,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14dadd,Unknown,69a350be2b0bd254a2e4babe,Spiced Chutney Powder,0.75,2.79,34,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e09d7528a3c966b13cd,Unknown,69a98c38b198c5c63914085c,italpasta spaghetti,2.44,5.99,5,Grocery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e09d7528a3c966b13cd,Unknown,69a98ab67551f19a62aa55be,italpasta fusilli,2.44,5.99,4,Grocery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fac3e09d7528a3c966b13cd,Unknown,69a98a3d3e6ce922ed764941,quick yeast 450grams,4.99,9.99,3,Grocery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02fc33c4b5f5c81b7a0ee,MA GROUND SSG MEAT-HOT ITALIAN,4,8,3,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02fa81f1341c77af76d8e,PC BANGER PORK SAUSAGES,4,8,2,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02f5637febc62652709ca,MA VP SAUSAGE HOT ITALIAN,7.74,15.49,3,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02f4cc8c64cc29ace6a71,MA VP SAUSAGE MILD ITALIAN,7.74,15.49,2,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02e6537febc626526ea64,BN IN PORK CENTER CHOP CP,11.79,23.58,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02e554253ccbe0e75a3f4,PORK CNTR RST BNLS,7.66,15.32,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02e463c4b5f5c81b7705d,PORK CNTR RST BNLS,8.33,16.66,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02e274253ccbe0e75a01e,PORK CNTR RST BNLS,6.5,13.01,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02df33c4b5f5c81b7653d,BNLS CENTER CUT FF CHP PK,4.96,9.92,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02ddfccaba74de0a09297,BNLS CENTER CUT FF CHP PK,4.12,8.24,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02dcc5f23bfa349d77024,PORK LOIN CNTR CHOPS BNLS,5.02,10.05,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c02dbf5f23bfa349d76def,PORK LOIN CNTR CHOPS BNLS,3.89,7.79,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69c019afccaba74de09d5a70,GERBER ORG BAN MNG AVO VAN QNO,0.84,1.99,1,HABA
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69b1a5987fa7e99d5ce6ba8a,Pizza Pepperoni Lunch Kit,2.25,4.5,5,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69b1a578ec6b9d761ef1a720,Lunch Mate Nachos with Cheese & Salsa,2.25,4.5,11,Ready Made Meals
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69b1a41f7fa7e99d5ce66dd1,Smoked Applewood Back Bacon,5.5,11,1,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69b1a17360881126db28eaeb,Chicken Bologna,2.14,4.29,2,International Foods
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69b198fe310c5515dd3e7545,Thick Cut Fully Cooked Bacon,9.5,19,6,Meat
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,69a45900e83bf78a3fce1333,"Apple Yogurt Purée, For Babies, Pouch",0.99,1.99,1,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5ccc4fa913ed23170c14db03,Unknown,698a6de7e5de2b13bb8cff64,"Fruit & Nut Energy Bar, Chocolate Chip",1.24,2.49,4,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b44dab50c8db600e86a844,Warming Clay Mask,2,4,9,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b44d320031e68b588a13cb,Replenishing Clay Face Mask - Rosewater & Vitamin E,2,4,14,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b44a012edc71a8ccddbd13,SkinActive Moisture Bomb Brightening Eye Sheet Mask,2.24,4.49,13,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b449a195bec8b7462067d8,"Eye Mask, Luminating Hydrogel",1,2,5,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b448f395bec8b746203902,Children Benadryl Bug Bite Relief,4.25,8.49,1,Pharmacy
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b4463dc903dadb7477eee7,Purifying Volcanic Ash Mud Mask,1,2,3,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b4450bc903dadb7477afdf,"Medicated Intensive Eczema Relief Cream, 1% Hydrocortisone",8.24,16.49,5,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b4446f5b24d17648790b65,"Medicated Anti Itch Cream, Cuts, burns & insect bites",2.99,5.99,2,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e7584d6a672e1136bfdd,Unknown,69b2fd8fef0bf35ab14c0c64,Intensive Eczema Relief Cream 28g,5.2,10.39,2,Pharmacy
+Toronto,2026-03-23 12:10,2026-03-23 09:30,61548ce3e7112f0e5b073164,Unknown,69b2d4270c558c50bfe4c357,Multigrain Sliced Bread,1.5,4,1,Bakery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,61548ce3e7112f0e5b073164,Unknown,69b2d3fc0c558c50bfe4b7c9,Gusto! Original Hamburger Buns,2,5,1,Bakery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,61548ce3e7112f0e5b073164,Unknown,69137289003600a5dda5bcf4,Paraffin Wax,5.49,10.99,1,Other
+Toronto,2026-03-23 12:10,2026-03-23 09:30,61548ce3e7112f0e5b073164,Unknown,68c9d1e6b8c5cc3d31ce57cc,Pink Frosting Tube,1.39,2.79,21,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5f2cdb2b9108010bf40533ee,Unknown,69c037edcb8b9f826fe86081,Fruit Box #25,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5f2cdb2b9108010bf40533ee,Unknown,69c0374b3c4b5f5c81b8a1c2,Fruit Box #24,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5f2cdb2b9108010bf40533ee,Unknown,69c035ddcb8b9f826fe82ad9,Fruit Box #22,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5f2cdb2b9108010bf40533ee,Unknown,69c035a1ccaba74de0a1b542,Fruit Box #21,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5f2cdb2b9108010bf40533ee,Unknown,69c0350b5f23bfa349d89750,Fruit Box #20,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5f2cdb2b9108010bf40533ee,Unknown,69bea0e7732d3e84c07cad2c,pc pie crust,2.99,5.99,4,Frozen
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,69c02546ccaba74de09f59c7,MARZETTI RANCH DIP 340G,1.88,4.99,3,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,69c023d737febc626525956e,Mann‘s Snow peas,1.88,4.99,12,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,69beb520732d3e84c07fe0fe,Mixed Produce Box #7,3,3,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,69beb400ebb39146e104e077,Snap Peas,1.99,3.99,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,69a06b93da60c9dfbda4bb30,Cherry Flavour Candy Canes,1.5,3,26,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,69874fdaccafe934a2740a86,apki Pasand cake rusk original,2.25,4.5,36,Bakery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,6978f5b91097b0382047f51a,L'Oreal Paris feria vegan natural soft black,8.85,17.69,2,HBA
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,6973d821c889febbe756096a,Yardley London English Rose,9.49,18.99,12,HBA
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,69668177713f3fcc8d773932,Everyday Detox Lemon Organic Wrapped Tea Bags,7.49,14.99,1,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,695e91f82ccab9bc554f3afd,Dry Shampoo Gift Pack,5.22,10.44,50,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,6925efb62ccdb46e8e5528e8,"Ultra Sport™ Sunscreen Spray, SPF 30",6.5,13,16,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,6925ee9069a3e2ddc8dc9e9d,"Ultra Sport™ Sunscreen Lotion, SPF 30",6.5,13,60,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,620d1d6410da110df3ef147b,Unknown,68ed2d0cb118c0caa2de0294,Milk Rusk,2.24,4.49,17,Bakery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccd1,Unknown,69b191bef7530b74fe86aab1,Scoop Shop Mint Chocolate Ice Cream,2.5,5,4,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccd1,Unknown,69a9e2563f575b54fd53f638,Jasmine Rice,2.49,4.99,5,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccd1,Unknown,698f606b1af04775dafcf96c,Muscle and Back pain relief,4,8,1,HBA
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccd1,Unknown,698f601a1af04775dafcd4ab,Stool Softener,3,6,2,HBA
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69c08f0f4253ccbe0e7f6e3b,Mixed Produce Box #732,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69c08f065f23bfa349e316cf,Mixed Produce Box #731,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69c08efd5f23bfa349e3162e,Mixed Produce Box #730,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69c050e25f23bfa349dca797,Mixed Produce Box #725,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69c04f4e37febc62652ac0c2,Mixed Produce Box #702,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69c04e274253ccbe0e797f9d,Mixed Produce Box #718,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69c04dca1f1341c77afbd6dd,Mixed Produce Box #709,5,5,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69c04d433c4b5f5c81bba3fb,Mixed Produce Box #703,4,4,1,Produce
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69bd33199bb9866de39e13a7,White Corn Restaurant Style Tortilla Chips,1.39,2.79,1,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69bc4aa33002337336bef4cf,Zero Powder Orange,3.12,6.25,5,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69bc4a704edeb38b3910d232,Cranberry Orange Sauce,2.49,6,5,Centre of Store
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69b3083a0c558c50bff58c28,fruit bun,1,2,2,Bakery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69b307fd9f97d43ba35d9cad,spiced bun,1,2,7,Bakery
+Toronto,2026-03-23 12:10,2026-03-23 09:30,5fa2e792eb077d102ffcccce,Unknown,69aaf462dc93a73d935e2e4f,Cinnamon Hearts,0.75,1.5,18,Candy & Chocolate
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69af12975829940c9d43a973,Vetdiet Kitten - Chicken & Rice | Cat Food | Size: 1.59,13.49,26.99,1,Cat Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69af09013ae3ffef1cf176bd,Pumpkin Dog Treat,1.4,2.79,2, Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69af08af9df0963663258749,Spider Dog Treat,1.39,2.79,1, Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69af08813ae3ffef1cf14e8f,Squash Dog Treat,1.4,2.79,2, Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69af081b0c558c50bf3b9cc1,Ren's Pets Heart Treat,2.24,4.49,1, Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69af07bf2322ade0d166a425,Bosco & Roxy's Tree - Small - Dog Biscuit,0.87,1.75,1, Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69af07812322ade0d166915a,Vetdiet Oven Baked - Calming Biscuits | Size: 454 g - Dog Biscuit,4.49,8.99,1,Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69af075d2322ade0d16689f4,Petstory Charcoal Flavored Biscuits - 454 g | Dog Toy | Size: 455,2.39,4.79,2,Dog Supplies
+Toronto,2026-03-23 12:10,2026-03-23 09:30,642b2e8f56ef3d2529118223,Unknown,69ab08302f7e7a8f63922578,Petstory Charcoal Flavored Biscuits - 454 g | Dog Toy | Size: 455,2.39,4.79,2,Dog Supplies
