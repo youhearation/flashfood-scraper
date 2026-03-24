@@ -92,12 +92,12 @@
 69b7aa3b5e7581448b3663c2,Jack Link's Bouchées tendres de poulet aux jalapenos / Jalapeno Chicken Tender Bites (81 g),65e8f30bcb43951cbd853f59,Unknown,7.99,3.99,Snacks,1.0,1.0,1.0,0.0,0.0,0.0
 69b8ff29022e1e4fc9048c8d,Astro Snacks Freeze-Dried Nerds Very Berry Clusters Candy (30 g),67bdc806855e4112ad907797,Unknown,11.99,5.99,Candy,2.0,2.0,2.0,0.0,0.0,0.0
 69b8fff11e31b0b0389b0988,Maple Leaf Vienna Sausage (113 g),67bdc806855e4112ad907797,Unknown,2.49,1.24,Pantry,10.0,10.0,9.0,0.0,1.0,1.0
-69b90021022e1e4fc9048e01,Old El Paso Chili Seasoning Mix (24 g),67bdc806855e4112ad907797,Unknown,1.59,0.79,Pantry,21.0,18.0,18.0,3.0,0.0,3.0
+69b90021022e1e4fc9048e01,Old El Paso Chili Seasoning Mix (24 g),67bdc806855e4112ad907797,Unknown,1.59,0.79,Pantry,21.0,18.0,14.0,3.0,4.0,7.0
 69b9036074af51da80cdb047,Heinz Smoky Bacon Mayonnaise Style Sauce (340 ml),65e8f30bcb43951cbd853f59,Unknown,4.99,2.49,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
 69bb166bae3a93044ee51e5f,Whoppers Box 113g,69379713a3687e3a3db2d8bc,Unknown,3.99,1.99,Grocery,1.0,1.0,1.0,0.0,0.0,0.0
 69bb171cecf624e1ca77c0be,Fuze Ice Tea Lemon 500ml,69379713a3687e3a3db2d8bc,Unknown,3.8,1.9,Grocery,22.0,22.0,22.0,0.0,0.0,0.0
 69bb9a98ae3a93044eea8213,Dare Bear Paws Rainbow Chip Cookies (240 g),67bdc806855e4112ad907797,Unknown,4.49,2.24,Snacks,6.0,6.0,6.0,0.0,0.0,0.0
-69bc3767119b7dbd4faaa732,Goldfish French Toast Grahams 180g,69379713a3687e3a3db2d8bc,Unknown,6.95,1.85,Grocery,2.0,2.0,2.0,0.0,0.0,0.0
+69bc3767119b7dbd4faaa732,Goldfish French Toast Grahams 180g,69379713a3687e3a3db2d8bc,Unknown,6.95,1.85,Grocery,2.0,2.0,,0.0,,
 69bceb0c7e7daae2e92172a0,Slim Jim Mild Snack Size Sticks (112 g),65e8f30bcb43951cbd853f59,Unknown,8.49,4.24,Snacks,4.0,4.0,4.0,0.0,0.0,0.0
 69bcebd224adbca86212d046,Crispy Pani Puri (200 g),65e8f30bcb43951cbd853f59,Unknown,5.29,2.64,Snacks,8.0,8.0,8.0,0.0,0.0,0.0
 69bcec0a7e7daae2e9217538,Bick's Squeeze Sweet Green Relish (500 ml),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
@@ -145,7 +145,7 @@
 69c0e32daaa592b9fdacc503,Yoplait Source Protien 0% Strawberry Yogurt (650 g),65e8f30bcb43951cbd853f59,Unknown,4.99,2.49,Dairy & Eggs,4.0,1.0,,3.0,,
 69c0e8a10558ff0c85526fa9,Armstrong Old Light Cheddar Cheese Bar (600 g),67bdc806855e4112ad907797,Unknown,12.99,6.49,Dairy & Eggs,7.0,5.0,5.0,2.0,0.0,2.0
 69c0e8a1aaa592b9fdacd226,Sunrise Tofu,67bdc806855e4112ad907797,Unknown,3.89,1.94,Dairy & Eggs,1.0,1.0,1.0,0.0,0.0,0.0
-69c0e8a1e8e6f19bb3d25479,Dairyland 18% Sour Cream (450 ml),67bdc806855e4112ad907797,Unknown,3.67,1.83,Dairy & Eggs,3.0,1.0,1.0,2.0,0.0,2.0
+69c0e8a1e8e6f19bb3d25479,Dairyland 18% Sour Cream (450 ml),67bdc806855e4112ad907797,Unknown,3.67,1.83,Dairy & Eggs,3.0,1.0,,2.0,,
 69c0e8a1e8e6f19bb3d25482,yoplait strawberry yogurt,67bdc806855e4112ad907797,Unknown,4.99,2.49,Dairy & Eggs,1.0,,,,,
 69c0ebf90558ff0c85527624,Kicking Horse Kick Ass Dark Roast K-Cup Coffee Pods (10 ct),67bdc806855e4112ad907797,Unknown,19.69,9.84,Pantry,4.0,4.0,4.0,0.0,0.0,0.0
 69c0ebf90558ff0c85527631,"""Balady Bread 7"""" Whole Wheat Pita (300 g)""",67bdc806855e4112ad907797,Unknown,3.69,1.84,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
@@ -164,12 +164,12 @@
 69c1816288c8e44c4924f820,Mixed Produce Box #83,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 69c1816ff76961da4848975b,Mixed Produce Box #82,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
 69c182241f1341c77a197aec,Mixed Produce Box #18,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,,,,,
-69c185e188c8e44c4925c2d5,GSTA VEGGIE GROUND - ORIGINAL,6969181f05a95a3633344338,Unknown,5.5,2.75,Deli,,8.0,2.0,,6.0,
-69c185fff76961da48495c83,LIGHTLIFE SMART DOGS,6969181f05a95a3633344338,Unknown,6.0,3.0,Deli,,19.0,19.0,,0.0,
+69c185e188c8e44c4925c2d5,GSTA VEGGIE GROUND - ORIGINAL,6969181f05a95a3633344338,Unknown,5.5,2.75,Deli,,8.0,,,,
+69c185fff76961da48495c83,LIGHTLIFE SMART DOGS,6969181f05a95a3633344338,Unknown,6.0,3.0,Deli,,19.0,,,,
 69c186124c009499a15b842c,PILLER'S CHICKEN BITES,6969181f05a95a3633344338,Unknown,7.94,3.97,Deli,,2.0,,,,
 69c18625f76961da48496245,PILLER'S HOT PEPPERETTES PPK,6969181f05a95a3633344338,Unknown,10.99,5.49,Deli,,4.0,4.0,,0.0,
 69c1863505d7190032c99803,FS TRADITIONAL HUMMUS,6969181f05a95a3633344338,Unknown,4.5,2.25,Deli,,18.0,18.0,,0.0,
-69c1876095e95b13ad78e7f7,Basa Fillets,5fac3e09d7528a3c966b13d0,Unknown,6.0,3.0,Seafood,,2.0,2.0,,0.0,
+69c1876095e95b13ad78e7f7,Basa Fillets,5fac3e09d7528a3c966b13d0,Unknown,6.0,3.0,Seafood,,2.0,,,,
 69c189c4f76961da4849f5cf,Mixed Produce Box #48,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69c18c37ca54120c7ad1ac90,Mixed Produce Box #108,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69c18c4895e95b13ad79e427,Mixed Produce Box #107,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
@@ -188,7 +188,7 @@
 69c1969505d7190032cc2d42,Mixed Produce Box #112,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69c196cb95e95b13ad7bd604,Mixed Produce Box #113,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 69c196d495e95b13ad7bd80c,Mixed Produce Box #114,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
-69c198934c009499a15ec2ff,pink lady apple 5LB,65bd257956f2d4f45a3da0e2,Unknown,8.0,4.0,Produce,,1.0,1.0,,0.0,
+69c198934c009499a15ec2ff,pink lady apple 5LB,65bd257956f2d4f45a3da0e2,Unknown,8.0,4.0,Produce,,1.0,,,,
 69c198ff4c009499a15ed896,Carrots 2LB,65bd257956f2d4f45a3da0e2,Unknown,4.0,2.0,Produce,,1.0,1.0,,0.0,
 69c1996a4c009499a15eedde,BREAD CHEESE,5d0bd76c8894a4ebbfd704b8,Unknown,5.75,2.45,Bakery,,1.0,1.0,,0.0,
 69c19996ca54120c7ad3f1af,BREAD CHEESE,5d0bd76c8894a4ebbfd704b8,Unknown,5.75,2.0,Bakery,,2.0,2.0,,0.0,
