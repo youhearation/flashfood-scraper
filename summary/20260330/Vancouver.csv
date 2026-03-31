@@ -113,7 +113,7 @@
 69c4df69c47bf3944eeec182,Old Dutch Bac'n Puffs Pork Rinds (100 g),67bdc806855e4112ad907797,Unknown,3.99,1.99,Snacks,1.0,,,,,
 69c4df7cf07e42d878851de0,Jack Link's Zero Sugar Mini Sticks Original All Beef Jerky (175 g),67bdc806855e4112ad907797,Unknown,14.59,7.29,Snacks,4.0,4.0,4.0,0.0,0.0,0.0
 69c55c4ed8d0bd2f67592c68,int delight touch of vanilla bean,5ddef30c9af4e045c44b9d67,Unknown,3.3,1.65,Dairy,5.0,5.0,5.0,0.0,0.0,0.0
-69c5afd6027831d71a0513cc,NN BOLOGNA 750G,629cec56061cc278a85326dc,Unknown,9.99,4.99,Meat,1.0,1.0,1.0,0.0,0.0,0.0
+69c5afd6027831d71a0513cc,NN BOLOGNA 750G,629cec56061cc278a85326dc,Unknown,9.99,4.99,Meat,1.0,1.0,,0.0,,
 69c62746d80c66b9d303722c,Yoplait Source Protien 0% Vanilla Yogurt (650 g),65e8f30bcb43951cbd853f59,Unknown,4.99,2.49,Dairy & Eggs,5.0,5.0,5.0,0.0,0.0,0.0
 69c62765f4ba5120831ea11a,Yoggu! Vanilla (450 g),65e8f30bcb43951cbd853f59,Unknown,9.29,4.64,Dairy & Eggs,4.0,4.0,4.0,0.0,0.0,0.0
 69c62a18f4ba5120831ea846,Heinz Garlic Mayo,65e8f30bcb43951cbd853f59,Unknown,4.99,2.49,Pantry,2.0,2.0,2.0,0.0,0.0,0.0
@@ -123,7 +123,7 @@
 69c631936e02b353d079aa42,Taco Bell Crunchwrap Supreme Cravings Kit (642 g),67bdc806855e4112ad907797,Unknown,9.29,4.64,Pantry,4.0,4.0,4.0,0.0,0.0,0.0
 69c631946e3174480a99464e,Nissin Crab Instant Noodle Cup (69 g),67bdc806855e4112ad907797,Unknown,2.49,1.24,Pantry,4.0,4.0,4.0,0.0,0.0,0.0
 69c6c9af2f30326c3514b4c9,PC SPLENDIDO SALMI PRSC CHUB,5fac3e04d7528a3c966b13a4,Unknown,8.49,4.24,Deli,1.0,1.0,,0.0,,
-69c6c9fa827a365ed069164b,dark chocolate dip,5fac3e04d7528a3c966b13a4,Unknown,5.99,2.99,Deli,6.0,6.0,6.0,0.0,0.0,0.0
+69c6c9fa827a365ed069164b,dark chocolate dip,5fac3e04d7528a3c966b13a4,Unknown,5.99,2.99,Deli,6.0,6.0,4.0,0.0,2.0,2.0
 69c6d5fa5c15e94b225be0ad,NN Salami Chub,5ddef30c9af4e045c44b9d67,Unknown,8.0,4.0,Meat,7.0,7.0,7.0,0.0,0.0,0.0
 69c6d66f46f253c9c6d5e04e,NN Summer Sausage,5ddef30c9af4e045c44b9d67,Unknown,4.97,2.48,Meat,7.0,7.0,7.0,0.0,0.0,0.0
 69c6d6f9019cd8fe43135aca,Lunchables Nacho,5ddef30c9af4e045c44b9d67,Unknown,4.5,2.0,Meat,5.0,5.0,5.0,0.0,0.0,0.0
@@ -150,7 +150,7 @@
 69c77deb6e02b353d08c919a,Silk Cold Foam White Chocolate Macadamia Oat Coffee Enhancer (369 g),65e8f30bcb43951cbd853f59,Unknown,6.99,3.49,Dairy & Eggs,9.0,9.0,9.0,0.0,0.0,0.0
 69c79e3d0e93f5defcc1f73c,PC KEFIR PLAIN,5d0bd76c8894a4ebbfd704b8,Unknown,4.79,2.39,Grocery,17.0,17.0,17.0,0.0,0.0,0.0
 69c7f45746f253c9c6f42684,NO NAME BOLOGNA SLICED,5fac3e09d7528a3c966b13d0,Unknown,2.0,0.94,Meat,9.0,9.0,3.0,0.0,6.0,6.0
-69c8082746f253c9c6f81a93,BI PORK SIRLOIN CHOPS,5d0bd76c8894a4ebbfd704b8,Unknown,8.47,4.23,Meat,3.0,3.0,2.0,0.0,1.0,1.0
+69c8082746f253c9c6f81a93,BI PORK SIRLOIN CHOPS,5d0bd76c8894a4ebbfd704b8,Unknown,8.47,4.23,Meat,3.0,3.0,1.0,0.0,2.0,2.0
 69c824e20e93f5defcd48970,Mixed Produce Box #701,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69c824e5019cd8fe43334f65,Mixed Produce Box #702,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69c824f0ee14d31d6fc3d103,Mixed Produce Box #703,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
@@ -183,8 +183,8 @@
 69c948183090f65b972cea84,Mixed Produce Box #5,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69c9485fee14d31d6fdc21a2,Mixed Produce Box #8,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69c961d8019cd8fe434fe24e,PORK STIR FRY,5d0bd76c8894a4ebbfd704b8,Unknown,7.2,3.6,Meat,2.0,2.0,,0.0,,
-69c96c8fee14d31d6fe1e259,FREYBE EURO STYLE BOLOGNA SV 584gr,5d0bd76c8894a4ebbfd704b8,Unknown,19.27,3.0,Deli,5.0,5.0,4.0,0.0,1.0,1.0
-69c96fbc2f30326c3562cd9e,ASSORTED ROLLS 12PK,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,2.0,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
+69c96c8fee14d31d6fe1e259,FREYBE EURO STYLE BOLOGNA SV 584gr,5d0bd76c8894a4ebbfd704b8,Unknown,19.27,3.0,Deli,5.0,5.0,3.0,0.0,2.0,2.0
+69c96fbc2f30326c3562cd9e,ASSORTED ROLLS 12PK,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,2.0,Bakery,1.0,1.0,,0.0,,
 69c970d30e93f5defcf28a8e,chicken drumsticks,5fac3e09d7528a3c966b13d0,Unknown,10.0,5.0,Meat,2.0,2.0,1.0,0.0,1.0,1.0
 69c97674019cd8fe43529c19,PC HUMMUS,6969181f05a95a3633344338,Unknown,3.0,0.99,Deli,1.0,1.0,,0.0,,
 69c978a3019cd8fe4352dcff,Raspberries 6oz,65bd257956f2d4f45a3da0e2,Unknown,2.0,1.0,Produce,53.0,35.0,18.0,18.0,17.0,35.0
@@ -273,7 +273,7 @@
 69cac14f2f30326c35889178,Mixed Produce Box #902,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 69cac15a9e87a9e08aab0f9e,Mixed Produce Box #903,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 69cac2473090f65b975b5866,Mixed Produce Box #904,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
-69cac2552f30326c3588b879,Mixed Produce Box #905,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+69cac2552f30326c3588b879,Mixed Produce Box #905,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,,,,
 69cac2633090f65b975b609e,Mixed Produce Box #906,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69cac321827a365ed0c9e03e,Mixed Produce Box #907,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69cac32a2f30326c3588df1a,Mixed Produce Box #908,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
@@ -297,7 +297,7 @@
 69caceaef0a6bb48d8e37b3a,Mixed Produce Box #28,6969181f05a95a3633344338,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69cacebe2f30326c358b28b1,Mixed Produce Box #29,6969181f05a95a3633344338,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69cacef2f0a6bb48d8e3856e,Mixed Produce Box #31,6969181f05a95a3633344338,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
-69cae25fce568dd1d3c31964,ASSORTED ROLLS 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,0.74,Bakery,,1.0,1.0,,0.0,
+69cae25fce568dd1d3c31964,ASSORTED ROLLS 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,0.74,Bakery,,1.0,,,,
 69cae29846f253c9c64c41a2,ASSORTED ROLLS 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,0.74,Bakery,,1.0,,,,
 69cae2e1ce568dd1d3c33125,BAGEL BLUEBERRY PK 6,5d0bd76c8894a4ebbfd704b8,Unknown,4.5,0.74,Bakery,,1.0,,,,
 69cae32346f253c9c64c54ab,WW DINNER ROLLS 12PK,5d0bd76c8894a4ebbfd704b8,Unknown,4.0,0.54,Bakery,,4.0,3.0,,1.0,
@@ -316,3 +316,14 @@
 69cb1ccf46f253c9c6545d02,PORK BI RIB END CHOPS CP,629cec56061cc278a85326dc,Unknown,16.56,8.28,Meat,,,1.0,,,
 69cb1e7f58ea93478c44b93e,Oasis Hydra Fruit Strawberry Kiwi Juice Boxes (200 ml x 8 ct),65e8f30bcb43951cbd853f59,Unknown,5.79,2.89,Drinks,,,1.0,,,
 69cb1ea76e02b353d0bc310b,Preparation H Ointment with Bio-Dyne Multi-Symptom Hemorrhoid Treatment (25 g),65e8f30bcb43951cbd853f59,Unknown,11.49,5.74,Medicine,,,11.0,,,
+69cb42de3090f65b976c7fa9,ASSORTED ROLLS 12PK,5d0bd76c8894a4ebbfd704b8,Unknown,6.5,4.0,Bakery,,,1.0,,,
+69cb42f13090f65b976c8029,ASSORTED ROLLS 12PK,5d0bd76c8894a4ebbfd704b8,Unknown,6.58,4.0,Bakery,,,1.0,,,
+69cb4306f0a6bb48d8ef6491,ASSORTED ROLLS 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,4.5,2.75,Bakery,,,1.0,,,
+69cb431946f253c9c656aec1,ASSORTED ROLLS 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,4.5,2.75,Bakery,,,1.0,,,
+69cb45562f30326c3599ac0e,Mixed Produce Box #2,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+69cb456446f253c9c656c43f,Mixed Produce Box #3,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+69cb4577827a365ed0d73e5c,Mixed Produce Box #4,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+69cb458b2f30326c3599aeaa,Mixed Produce Box #5,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+69cb45972f30326c3599af26,Mixed Produce Box #6,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+69cb45a23090f65b976c96a2,Mixed Produce Box #7,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
+69cb45b13090f65b976c976e,Mixed Produce Box #8,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,,,1.0,,,
