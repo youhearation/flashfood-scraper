@@ -110,11 +110,11 @@
 69c62b016e02b353d07998cd,Nissin Crab Instant Noodle Cup (69 g),65e8f30bcb43951cbd853f59,Unknown,2.49,1.24,Pantry,19.0,19.0,19.0,0.0,0.0,0.0
 69c631936e02b353d079aa42,Taco Bell Crunchwrap Supreme Cravings Kit (642 g),67bdc806855e4112ad907797,Unknown,9.29,4.64,Pantry,4.0,4.0,4.0,0.0,0.0,0.0
 69c631946e3174480a99464e,Nissin Crab Instant Noodle Cup (69 g),67bdc806855e4112ad907797,Unknown,2.49,1.24,Pantry,3.0,3.0,3.0,0.0,0.0,0.0
-69c6c9fa827a365ed069164b,dark chocolate dip,5fac3e04d7528a3c966b13a4,Unknown,5.99,2.99,Deli,3.0,3.0,3.0,0.0,0.0,0.0
+69c6c9fa827a365ed069164b,dark chocolate dip,5fac3e04d7528a3c966b13a4,Unknown,5.99,2.99,Deli,3.0,3.0,,0.0,,
 69c6d5fa5c15e94b225be0ad,NN Salami Chub,5ddef30c9af4e045c44b9d67,Unknown,8.0,3.0,Meat,7.0,7.0,7.0,0.0,0.0,0.0
 69c6d66f46f253c9c6d5e04e,NN Summer Sausage,5ddef30c9af4e045c44b9d67,Unknown,4.97,1.5,Meat,7.0,7.0,7.0,0.0,0.0,0.0
 69c6d6f9019cd8fe43135aca,Lunchables Nacho,5ddef30c9af4e045c44b9d67,Unknown,4.5,2.0,Meat,5.0,5.0,5.0,0.0,0.0,0.0
-69c6e52a2f30326c351a4675,NN PEPPERONII CHUB,629cec56061cc278a85326dc,Unknown,6.79,3.39,Meat,33.0,31.0,31.0,2.0,0.0,2.0
+69c6e52a2f30326c351a4675,NN PEPPERONII CHUB,629cec56061cc278a85326dc,Unknown,6.79,3.39,Meat,33.0,31.0,,2.0,,
 69c7746f58ea93478c170f98,Silk Cold Foam Cinnamon Caramel Oat Coffee Enhancer (369 g),67bdc806855e4112ad907797,Unknown,5.87,2.93,Dairy & Eggs,6.0,6.0,5.0,0.0,1.0,1.0
 69c7746f6e02b353d08c74db,Iogo Nano Lactose-Free Banana Strawberry Yogurt Drink (93 ml x 6 ct),67bdc806855e4112ad907797,Unknown,4.49,2.24,Dairy & Eggs,5.0,5.0,5.0,0.0,0.0,0.0
 69c777c16e3174480aab06a6,Liquid I.V. Strawberry Hydration Multiplier Electrolyte Drink Mix Sticks (6 ct),67bdc806855e4112ad907797,Unknown,17.89,8.94,Vitamins&Supplements,3.0,3.0,3.0,0.0,0.0,0.0
@@ -138,7 +138,7 @@
 69c8cb65f4ba512083438a27,Icy Hot Pro Pain Relief Dry Spray (118 ml),67bdc806855e4112ad907797,Unknown,19.99,9.99,Medicine,3.0,3.0,3.0,0.0,0.0,0.0
 69c96c8fee14d31d6fe1e259,FREYBE EURO STYLE BOLOGNA SV 584gr,5d0bd76c8894a4ebbfd704b8,Unknown,19.27,3.0,Deli,3.0,3.0,1.0,0.0,2.0,2.0
 69c99915ee14d31d6fe81e27,Mixed Produce Box #801,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
-69c9992a2f30326c3569dd83,Mixed Produce Box #802,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+69c9992a2f30326c3569dd83,Mixed Produce Box #802,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 69c9998e3090f65b973b6892,Mixed Produce Box #804,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69c999a346f253c9c627382f,Mixed Produce Box #806,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69c999ac3090f65b973b6d82,Mixed Produce Box #807,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
@@ -185,7 +185,7 @@
 69cacebe2f30326c358b28b1,Mixed Produce Box #29,6969181f05a95a3633344338,Unknown,5.0,5.0,Produce,1.0,,,,,
 69cacef2f0a6bb48d8e3856e,Mixed Produce Box #31,6969181f05a95a3633344338,Unknown,5.0,5.0,Produce,1.0,,,,,
 69caee962487cfdf108d0db4,happy day goat milk,65a1a8282f4530e32514d6c3,Unknown,9.29,4.64,Dairy,5.0,5.0,5.0,0.0,0.0,0.0
-69cb110646f253c9c6533f6c,PC KEFIR PLAIN,5d0bd76b8894a4ebbfd7048a,Unknown,4.79,2.39,Grocery,9.0,9.0,9.0,0.0,0.0,0.0
+69cb110646f253c9c6533f6c,PC KEFIR PLAIN,5d0bd76b8894a4ebbfd7048a,Unknown,4.79,2.39,Grocery,9.0,9.0,8.0,0.0,1.0,1.0
 69cb1ccf46f253c9c6545d02,PORK BI RIB END CHOPS CP,629cec56061cc278a85326dc,Unknown,16.56,8.28,Meat,1.0,1.0,,0.0,,
 69cb1ea76e02b353d0bc310b,Preparation H Ointment with Bio-Dyne Multi-Symptom Hemorrhoid Treatment (25 g),65e8f30bcb43951cbd853f59,Unknown,11.49,5.74,Medicine,11.0,11.0,11.0,0.0,0.0,0.0
 69cb4306f0a6bb48d8ef6491,ASSORTED ROLLS 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,4.5,0.94,Bakery,1.0,1.0,,0.0,,
@@ -247,8 +247,8 @@
 69cbf9bb07c202dd838f0d65,pork Shoulder Blade Steak,629cec56061cc278a85326dc,Unknown,14.63,7.32,Meat,1.0,,,,,
 69cbf9df2f30326c35ac22b1,pork Shoulder Blade Steak,629cec56061cc278a85326dc,Unknown,11.44,5.72,Meat,1.0,,,,,
 69cbfa0646f253c9c669022f,PN CHICKEN DRUM FR,629cec56061cc278a85326dc,Unknown,11.0,5.5,Meat,3.0,,,,,
-69cbfa9b3090f65b977f9efa,LCRA BUTTER CHCKN BASMATI RICE,629cec56061cc278a85326dc,Unknown,7.0,3.5,HMR,8.0,5.0,3.0,3.0,2.0,5.0
-69cbfaa53090f65b977fa1e9,LCRA SWEET SOUR CHIC JAS RICE,629cec56061cc278a85326dc,Unknown,7.0,3.5,HMR,2.0,1.0,1.0,1.0,0.0,1.0
+69cbfa9b3090f65b977f9efa,LCRA BUTTER CHCKN BASMATI RICE,629cec56061cc278a85326dc,Unknown,7.0,3.5,HMR,8.0,5.0,,3.0,,
+69cbfaa53090f65b977fa1e9,LCRA SWEET SOUR CHIC JAS RICE,629cec56061cc278a85326dc,Unknown,7.0,3.5,HMR,2.0,1.0,,1.0,,
 69cbfc3307c202dd838f7d7f,D'ITAL BAGELS EVERYTHING,5d0bd76c8894a4ebbfd704b8,Unknown,5.29,0.94,Bakery,4.0,4.0,,0.0,,
 69cbfc5e07c202dd838f83d2,Mixed Produce Box #45,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69cbfc7607c202dd838f88d9,Mixed Produce Box #46,5d0bd76c8894a4ebbfd704b8,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
@@ -294,7 +294,7 @@
 69cc13821ac0c5f874d3c520,Mixed Produce Box #42,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69cc13901ac0c5f874d3c5e5,NN Summer Sausage,5ddef30c9af4e045c44b9d67,Unknown,4.97,1.5,Meat,,3.0,3.0,,0.0,
 69cc13a02f30326c35b0e9e4,Mixed Produce Box #39,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
-69cc13b42487cfdf10a77386,Mixed Produce Box #38,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
+69cc13b42487cfdf10a77386,Mixed Produce Box #38,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,,,,
 69cc13c72487cfdf10a776e9,Mixed Produce Box #37,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69cc13db42f2d3c5e885b53a,Mixed Produce Box #36,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69cc13ec1ac0c5f874d3cf55,Mixed Produce Box #35,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
