@@ -99,7 +99,7 @@
 69cc4e096e02b353d0cadafc,Yogurt Raisins,691b59a5669ef62168a65bdb,Unknown,4.5,3.5,Nuts & Snacks,8.0,8.0,8.0,0.0,0.0,0.0
 69cc4e9e58ea93478c52e670,Choco Salted Caremel Macadamia,691b59a5669ef62168a65bdb,Unknown,5.5,4.25,Nuts & Snacks,7.0,7.0,7.0,0.0,0.0,0.0
 69cc501f6e02b353d0cafb47,Nori Maki Rice Crackers,691b59a5669ef62168a65bdb,Unknown,3.5,1.75,Nuts & Snacks,8.0,8.0,8.0,0.0,0.0,0.0
-69ccaa27b4eced6e6be5837c,Mixed Produce Box #12,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+69ccaa27b4eced6e6be5837c,Mixed Produce Box #12,61c39e3eb18e950dea37d276,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 69ccbb64f4ba5120837820c5,Farmer's Market Cookies and Creme Cake (825 g),65e8f30bcb43951cbd853f59,Unknown,13.89,6.94,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
 69ccbb7a58ea93478c575fd1,Farmer's Market Carrot Cake (875 g),65e8f30bcb43951cbd853f59,Unknown,13.89,6.94,Bakery,1.0,1.0,1.0,0.0,0.0,0.0
 69ccbbb16e02b353d0cf7c7e,Oikos Pro High Protein Strawberry Banana Yogurt Drink (300 ml),65e8f30bcb43951cbd853f59,Unknown,4.49,2.24,Dairy & Eggs,1.0,1.0,1.0,0.0,0.0,0.0
@@ -268,7 +268,7 @@
 69d0236c5bca218144b53610,Mixed Produce Box #21,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69d0237881c54f1c0223b443,Mixed Produce Box #20,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
 69d02386c8f35b5aa55fdbda,Mixed Produce Box #19,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,,1.0,1.0,,0.0,
-69d028cf81c54f1c022449e0,MARC CHICKEN SOUVLAKI VP,5fac3e09d7528a3c966b13d0,Unknown,15.0,7.5,Meat,,6.0,3.0,,3.0,
+69d028cf81c54f1c022449e0,MARC CHICKEN SOUVLAKI VP,5fac3e09d7528a3c966b13d0,Unknown,15.0,7.5,Meat,,6.0,,,,
 69d02a3ade427a2403e74ccc,PC split chicken wings,629cec56061cc278a85326dc,Unknown,13.0,6.5,Meat,,1.0,,,,
 69d02a787957984f44389a98,strip loin steak,629cec56061cc278a85326dc,Unknown,37.76,18.88,Meat,,1.0,,,,
 69d02acf7957984f4438a550,strip loin steak,629cec56061cc278a85326dc,Unknown,56.45,28.23,Meat,,1.0,,,,
@@ -279,7 +279,7 @@
 69d03320de427a2403e84d2b,MINI EASTER LEMON RASPBERRY,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,1.0,Bakery,,5.0,,,,
 69d033327957984f44399ee0,FM APPLE FRITTER MINI DONUTS,5d0bd76b8894a4ebbfd7048a,Unknown,4.5,2.51,Bakery,,2.0,,,,
 69d033827957984f4439a465,NN BAGEL SESAME 6PK,5d0bd76b8894a4ebbfd7048a,Unknown,2.49,0.51,Bakery,,1.0,,,,
-69d033cd81c54f1c02256f78,WONDER ROLLS BALLPARK HOTDOG,5d0bd76b8894a4ebbfd7048a,Unknown,2.85,0.51,Bakery,,12.0,5.0,,7.0,
+69d033cd81c54f1c02256f78,WONDER ROLLS BALLPARK HOTDOG,5d0bd76b8894a4ebbfd7048a,Unknown,2.85,0.51,Bakery,,12.0,4.0,,8.0,
 69d0340e8aa633bf6a4ce25e,WW DINNER ROLLS 12PK,5d0bd76b8894a4ebbfd7048a,Unknown,4.0,0.51,Bakery,,2.0,,,,
 69d034238aa633bf6a4ce3cc,BUNS SUB OAT AND HONEY,5d0bd76b8894a4ebbfd7048a,Unknown,3.25,0.51,Bakery,,2.0,,,,
 69d034608aa633bf6a4ce811,BUNS JUMBO KAISER ROLLS 6S,5d0bd76b8894a4ebbfd7048a,Unknown,4.25,0.51,Bakery,,3.0,,,,
@@ -294,8 +294,6 @@
 69d070418aa633bf6a516e1f,PC FF MILD ITALIAN SAUSAGE,629cec56061cc278a85326dc,Unknown,8.49,4.24,Meat,,,3.0,,,
 69d0751981c54f1c022a9cf4,ASSORTED bagels 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,2.75,1.0,Bakery,,,1.0,,,
 69d07a0f7957984f443edf50,dairyland LF 3.24%,65a1a8282f4530e32514d6c3,Unknown,12.0,6.0,Dairy,,,1.0,,,
-69d07a597957984f443ee264,Activia 12x,65a1a8282f4530e32514d6c3,Unknown,8.0,4.0,Dairy,,,1.0,,,
-69d07aa87957984f443ee575,born 3 eggs,65a1a8282f4530e32514d6c3,Unknown,7.88,3.94,Dairy,,,4.0,,,
 69d07b4d5bca218144bb9303,cookie dough,65a1a8282f4530e32514d6c3,Unknown,5.49,2.74,Dairy,,,1.0,,,
 69d07b929ba93774f9ed6891,okios coconut 4x,65a1a8282f4530e32514d6c3,Unknown,4.99,2.49,Dairy,,,2.0,,,
 69d07beb9ba93774f9ed6b18,nano iogo vanilla 6x,65a1a8282f4530e32514d6c3,Unknown,4.99,2.49,Dairy,,,2.0,,,
