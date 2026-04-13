@@ -227,13 +227,13 @@
 69dbba566a4e1624f5d5cb6c,PC BM THINS BUN WG ROUND WHT,6969181f05a95a3633344338,Unknown,4.5,1.39,Bakery,4.0,4.0,4.0,0.0,0.0,0.0
 69dbbb17b24fe4a530a1e2e9,Fruit Box #8,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 69dbbb31e0b0055402293781,PC MILD ITALIAN PK SAUSG 500G,5fac3e09d7528a3c966b13d0,Unknown,8.0,4.0,Meat,2.0,,,,,
-69dbbb37884027c3943d549a,Fruit Box #9,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+69dbbb37884027c3943d549a,Fruit Box #9,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 69dbbb57b24fe4a530a1efae,PC HONEY GARLIC PORK SSG,5fac3e09d7528a3c966b13d0,Unknown,8.0,4.0,Meat,3.0,,,,,
 69dbbb877b3fb30cb1a69d05,Fruit Box #12,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69dbbb937b3fb30cb1a6a1a0,PN CHICKEN DRUM FR,5fac3e09d7528a3c966b13d0,Unknown,11.0,5.5,Meat,7.0,,,,,
 69dbbbf0640a1c1a900805c9,PC CHORIZO PORK SAUSAGE,5fac3e09d7528a3c966b13d0,Unknown,8.0,4.0,Meat,2.0,,,,,
 69dbbc066a4e1624f5d615d7,Fruit Box #13,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
-69dbbc20b24fe4a530a214f4,Fruit Box #16,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
+69dbbc20b24fe4a530a214f4,Fruit Box #16,629cec56061cc278a85326dc,Unknown,5.0,5.0,Produce,1.0,1.0,,0.0,,
 69dbbd27640a1c1a9008404a,BI COMBO CHOP TP,5fac3e09d7528a3c966b13d0,Unknown,13.36,6.68,Meat,1.0,,,,,
 69dbd8df640a1c1a900d6ecb,Mixed Produce Box #16,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
 69dbd8e96a4e1624f5dadc39,Mixed Produce Box #17,5d0bd76b8894a4ebbfd7048a,Unknown,5.0,5.0,Produce,1.0,1.0,1.0,0.0,0.0,0.0
@@ -259,9 +259,9 @@
 69dbeeb76a4e1624f5de0fa9,CUDDY BUFFALO CHCK BRST 136gr,5d0bd76c8894a4ebbfd704b8,Unknown,5.44,2.5,Deli,,2.0,,,,
 69dbf0487b3fb30cb1b0049e,Organic chicken wings,64a6b9d71e02c66732c06f33,Unknown,9.96,4.98,Meat,,1.0,1.0,,0.0,
 69dbf096640a1c1a90119132,organic chicken wings,64a6b9d71e02c66732c06f33,Unknown,9.43,4.72,Meat,,1.0,1.0,,0.0,
-69dbf0b86a4e1624f5de64c3,Organic chicken wings,64a6b9d71e02c66732c06f33,Unknown,8.65,4.32,Meat,,1.0,1.0,,0.0,
-69dbf0dd7b3fb30cb1b01836,Organic chicken wings,64a6b9d71e02c66732c06f33,Unknown,9.62,4.81,Meat,,1.0,1.0,,0.0,
-69dbf15eb24fe4a530abbcb0,Organic chicken Bnls Leg,64a6b9d71e02c66732c06f33,Unknown,16.26,8.13,Meat,,1.0,1.0,,0.0,
+69dbf0b86a4e1624f5de64c3,Organic chicken wings,64a6b9d71e02c66732c06f33,Unknown,8.65,4.32,Meat,,1.0,,,,
+69dbf0dd7b3fb30cb1b01836,Organic chicken wings,64a6b9d71e02c66732c06f33,Unknown,9.62,4.81,Meat,,1.0,,,,
+69dbf15eb24fe4a530abbcb0,Organic chicken Bnls Leg,64a6b9d71e02c66732c06f33,Unknown,16.26,8.13,Meat,,1.0,,,,
 69dbf210c497f388890c5737,Top sirloin steak fast fry,64a6b9d71e02c66732c06f33,Unknown,7.73,3.87,Meat,,1.0,1.0,,0.0,
 69dbf2667b3fb30cb1b04298,Organic chicken wings,64a6b9d71e02c66732c06f33,Unknown,9.21,4.61,Meat,,1.0,1.0,,0.0,
 69dbf321f39564510e1a59a7,PC BACON 500GR,629cec56061cc278a85326dc,Unknown,8.94,4.47,Meat,,2.0,,,,
@@ -315,3 +315,11 @@
 69dc66feb24fe4a530b785aa,ASSORTED ROLLS 12PK,5d0bd76c8894a4ebbfd704b8,Unknown,6.5,4.0,Bakery,,,1.0,,,
 69dc67116a4e1624f5e994ed,ASSORTED ROLLS 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,6.5,4.0,Bakery,,,1.0,,,
 69dc6732640a1c1a901dbbbd,ASSORTED ROLLS 6PK,5d0bd76c8894a4ebbfd704b8,Unknown,4.5,2.75,Bakery,,,1.0,,,
+69dc7420e0b00554023ed2e8,Mixed Produce Box #100,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+69dc7436c497f388891816a3,Mixed Produce Box #102,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+69dc74467b3fb30cb1bbf952,Mixed Produce Box #103,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+69dc748de0b00554023ed4d7,Mixed Produce Box #101,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+69dc74e0b24fe4a530b7df46,Mixed Produce Box #104,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+69dc74edc497f38889181a69,Mixed Produce Box #105,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+69dc75307b3fb30cb1bbfc96,Mixed Produce Box #106,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
+69dc753b640a1c1a901e0ef9,Mixed Produce Box #107,5fac3e04d7528a3c966b13a4,Unknown,5.0,5.0,Produce,,,1.0,,,
